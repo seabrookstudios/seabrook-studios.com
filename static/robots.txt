@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://seabrook-studios.com/sitemap.xml

@@ -15,13 +15,6 @@ export const Platforms = styled.p`
   margin: 0 2rem 0rem;
 `;
 
-export const Status = styled.p`
-  color: #757575;
-  font-size: 1.5rem;
-  margin: 0 2rem 2rem;
-  min-height: 1.75rem;
-`;
-
 export const Copy = styled.p`
   color: #757575;
   margin: 0 2rem 2rem;
@@ -31,10 +24,4 @@ export const Copy = styled.p`
   `};
 `;
 
-export const Url = styled.a`
-  margin: 0 2rem 2rem;
-
-  ${MEDIA.TABLET`
-    margin-bottom: 4rem;
-  `};
-`;
+export const Url = styled.a``;

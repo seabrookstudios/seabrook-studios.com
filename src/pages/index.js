@@ -38,7 +38,6 @@ export const query = graphql`
         copy
         url
         platforms
-        status
         image {
           childImageSharp {
             fluid(maxHeight: 500, quality: 90) {

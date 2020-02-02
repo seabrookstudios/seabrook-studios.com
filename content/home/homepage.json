@@ -5,16 +5,14 @@
     "title": "18 Holes",
     "copy": "18 Holes is a strategy golfing board game where hitting off-course, on-purpose may be the fastest way to the green.",
     "image": "../images/gallery/18-holes.png",
-    "url": "18holesgame.com",
-    "platforms": "Physical Board Game",
-    "status": ""
+    "url": "https://18holesgame.com",
+    "platforms": "Physical Board Game"
   },
   {
     "title": "Victory Lap",
     "copy": "Race with your head. Not with your thumbs. Victory Lap is a turn-based racing action emphasising tactics over twitch.",
     "image": "../images/gallery/victory-lap.png",
-    "url": "playvictorylap.com",
-    "platforms": "iOS, Google Play",
-    "status": "Early Access"
+    "url": "https://playvictorylap.com",
+    "platforms": "iOS, Google Play"
   }]
 }

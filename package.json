@@ -7,10 +7,14 @@
     "serve": "gatsby serve",
     "ssr": "npm run build && npm run serve",
     "format": "prettier --config ./.prettierrc --write src/**/*.js",
+    "presskit:clean": "rm -rf static/presskit",
+    "presskit:copy": "cp -r ../presskit.html/build static/presskit",
+    "prebuild": "npm run presskit:clean && npm run presskit:copy",
     "build:dir": "mkdirp ./public/icons/",
     "build:favicons": "node scripts/favicons",
     "build": "npm run build:dir && npm run build:favicons && gatsby build",
-    "test": "ava **/*.test.js --verbose"
+    "predeploy": "npm run build",
+    "deploy": "./sync.sh"
   },
   "greenkeeper": {
     "ignore": [

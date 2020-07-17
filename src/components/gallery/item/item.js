@@ -5,7 +5,11 @@ import { Title, Copy, Platforms, Url } from './item.css';
 
 const Item = ({ title, copy, image, url, platforms }) => (
   <figure>
-    <Img fluid={image ? image.childImageSharp.fluid : {}} alt={title} />
+    <Img
+      fluid={image ? image.childImageSharp.fluid : {}}
+      alt={title}
+      style={{ height: 250 }}
+    />
     <figcaption>
       <Title>{title}</Title>
       <Platforms>{platforms}</Platforms>

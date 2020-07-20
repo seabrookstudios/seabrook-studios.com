@@ -15,6 +15,9 @@ const TextLi = styled.li`
 const Nav = () => (
   <Container>
     <ul>
+      <TextLi>
+        <a href="https://shop.seabrook-studios.com">SHOP</a>
+      </TextLi>
       <li>
         <SocialIcon
           url="https://twitter.com/seabrookstudios"

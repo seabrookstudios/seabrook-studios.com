@@ -34,7 +34,7 @@ const Nav = () => (
       </li>
       <li>
         <SocialIcon
-          url="mailto:hi@seabrook-studios.com"
+          url="mailto:hello@seabrook-studios.com"
           bgColor="white"
           fgColor="#222"
         />

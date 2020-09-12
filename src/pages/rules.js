@@ -1,34 +1,13 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { graphql } from 'gatsby';
-import styled from 'styled-components';
 import Layout from 'components/layout';
 import Head from 'components/head';
 import MarkdownStyle from 'markdown.css.js';
-
-const Row = styled.div`
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-`;
-
-const Columns = styled.div`
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-`;
-
-const Column = styled.div`
-  flex: 1;
-  max-width: 50%;
-  margin: 8px;
-  padding-right: 4px;
-  padding-left: 4px;
-`;
+import { Column, Row, Columns, Callout } from '../components/rule-styles';
 
 const Rules = ({ data }) => (
   <Layout>
-    <Head pageTitle={data.rulesJson.title} />
+    <Head pageTitle="en-de" />
     <Columns className="markdown">
       <MarkdownStyle />
       <Row>
@@ -10130,6 +10109,7 @@ const Rules = ({ data }) => (
         </Column>
       </Row>
     </Columns>
+    <script async src="//genius.codes"></script>
   </Layout>
 );
 
@@ -10138,21 +10118,3 @@ Rules.propTypes = {
 };
 
 export default Rules;
-
-export const query = graphql`
-  query RulesQuery {
-    rulesJson {
-      title
-      en {
-        childMarkdownRemark {
-          html
-        }
-      }
-      de {
-        childMarkdownRemark {
-          html
-        }
-      }
-    }
-  }
-`;

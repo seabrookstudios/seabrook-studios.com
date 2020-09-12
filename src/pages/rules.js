@@ -10109,7 +10109,6 @@ const Rules = ({ data }) => (
         </Column>
       </Row>
     </Columns>
-    <script async src="//genius.codes"></script>
   </Layout>
 );
 

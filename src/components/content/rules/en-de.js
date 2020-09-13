@@ -1,5 +1,5 @@
 import React from 'react';
-import { Column, Row, Callout } from '../../components/rule-styles';
+import { Column, Row, Callout } from '../../rule-styles';
 
 const Content = () => (
   <>

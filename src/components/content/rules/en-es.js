@@ -1,5 +1,5 @@
 import React from 'react';
-import { Column, Row, Callout } from '../rule-styles';
+import { Column, Row,Callout } from '../../rule-styles';
 
 const Content = () => (
   <>
@@ -8,7 +8,7 @@ const Content = () => (
         <h1>Rule Book</h1>
       </Column>
       <Column>
-        <h1>Regolamento</h1>
+        <h1>Libro de reglas</h1>
       </Column>
     </Row>
     <Row>
@@ -16,7 +16,7 @@ const Content = () => (
         <h1>Contents of Box</h1>
       </Column>
       <Column>
-        <h1>CONTENUTI DELLA CONFEZIONE</h1>
+        <h1>CONTENIDO DE LA CAJA</h1>
       </Column>
     </Row>
     <Row>
@@ -24,7 +24,7 @@ const Content = () => (
         <ul>49 course tiles</ul>
       </Column>
       <Column>
-        <ul>49 caselle percorso</ul>
+        <ul>49 piezas de campo</ul>
       </Column>
     </Row>
     <Row>
@@ -32,7 +32,7 @@ const Content = () => (
         <ul>21 adjustment tiles</ul>
       </Column>
       <Column>
-        <ul>21 caselle aggiustamento</ul>
+        <ul>21 piezas de ajuste</ul>
       </Column>
     </Row>
     <Row>
@@ -40,7 +40,7 @@ const Content = () => (
         <ul>5 golfers</ul>
       </Column>
       <Column>
-        <ul>5 golfisti</ul>
+        <ul>5 golfistas</ul>
       </Column>
     </Row>
     <Row>
@@ -48,7 +48,7 @@ const Content = () => (
         <ul>8 golfer cards</ul>
       </Column>
       <Column>
-        <ul>8 carte golfista</ul>
+        <ul>8 cartas de golf</ul>
       </Column>
     </Row>
     <Row>
@@ -56,7 +56,7 @@ const Content = () => (
         <ul>34 club cards</ul>
       </Column>
       <Column>
-        <ul>34 carte mazza</ul>
+        <ul>34 cartas de palos</ul>
       </Column>
     </Row>
     <Row>
@@ -64,7 +64,7 @@ const Content = () => (
         <ul>74 shot cards</ul>
       </Column>
       <Column>
-        <ul>74 carte tiro</ul>
+        <ul>74 cartas de tiro</ul>
       </Column>
     </Row>
     <Row>
@@ -72,7 +72,7 @@ const Content = () => (
         <ul>24 solo chaos golf cards</ul>
       </Column>
       <Column>
-        <ul>24 carte solo chaos golf</ul>
+        <ul>24 cartas de Solo Chaos Golf</ul>
       </Column>
     </Row>
     <Row>
@@ -80,7 +80,7 @@ const Content = () => (
         <ul>18 1-point tokens</ul>
       </Column>
       <Column>
-        <ul>18 segnalini da 1 punto</ul>
+        <ul>18 fichas de 1 punto</ul>
       </Column>
     </Row>
     <Row>
@@ -88,7 +88,7 @@ const Content = () => (
         <ul>18 2-point tokens</ul>
       </Column>
       <Column>
-        <ul>18 segnalini da 2 punti</ul>
+        <ul>18 fichas de 2 puntos</ul>
       </Column>
     </Row>
     <Row>
@@ -96,7 +96,7 @@ const Content = () => (
         <ul>18 5-point tokens</ul>
       </Column>
       <Column>
-        <ul>18 segnalini da 5 punti</ul>
+        <ul>18 fichas de 5 puntos</ul>
       </Column>
     </Row>
     <Row>
@@ -104,7 +104,7 @@ const Content = () => (
         <ul>18 hole-in-one tokens</ul>
       </Column>
       <Column>
-        <ul>18 segnalini Ace</ul>
+        <ul>18 fichas de &quot;hoyo en uno&quot;</ul>
       </Column>
     </Row>
     <Row>
@@ -112,7 +112,7 @@ const Content = () => (
         <ul>1 solo turn marker</ul>
       </Column>
       <Column>
-        <ul>1 contrassegno turno solitario</ul>
+        <ul>1 marcador de turnos para jugar solo</ul>
       </Column>
     </Row>
     <Row>
@@ -120,7 +120,7 @@ const Content = () => (
         <ul>18 flags & stands</ul>
       </Column>
       <Column>
-        <ul>18 bandierine e supporti</ul>
+        <ul>18 banderas y soportes</ul>
       </Column>
     </Row>
     <Row>
@@ -128,7 +128,7 @@ const Content = () => (
         <ul>14 trees</ul>
       </Column>
       <Column>
-        <ul>14 alberi</ul>
+        <ul>14 árboles</ul>
       </Column>
     </Row>
     <Row>
@@ -136,7 +136,7 @@ const Content = () => (
         <ul>This manual</ul>
       </Column>
       <Column>
-        <ul>Questo manuale</ul>
+        <ul>Este manual</ul>
       </Column>
     </Row>
     <Row>
@@ -144,7 +144,7 @@ const Content = () => (
         <ul>Course book</ul>
       </Column>
       <Column>
-        <ul>Libro Percorso</ul>
+        <ul>Libro de campo</ul>
       </Column>
     </Row>
     <Row>
@@ -163,8 +163,8 @@ const Content = () => (
       </Column>
       <Column>
         <em>
-          Alcune modalità di gioco richiedono carta e penna per segnare il
-          punteggio (non incluse).
+          Algunos modos de juego requieren bolígrafo y papel para anotar (no
+          incluido).
         </em>
       </Column>
     </Row>
@@ -181,7 +181,7 @@ const Content = () => (
         <h1>Table of Contents</h1>
       </Column>
       <Column>
-        <h1>INDICE</h1>
+        <h1>TABLA DE CONTENIDO</h1>
       </Column>
     </Row>
     <Row>
@@ -193,7 +193,7 @@ const Content = () => (
         <h1>ESTABLISHING TEE-SHOT</h1>
       </Column>
       <Column>
-        <h1>STABILIRE IL TIRO DAL TEE</h1>
+        <h1>FIJANDO EL TIRO DEL TEE</h1>
       </Column>
     </Row>
     <Row>
@@ -206,9 +206,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          È in corso una riunione del consiglio d’amministrazione, nel cuore
-          della sede aziendale principale del gigante dello sport internazionale
-          Golf Corp. Questa riunione determinerà il futuro del golf.
+          Hay una reunión de la junta directiva en lo profundo de la sede
+          corporativa del gigante deportivo internacional Golf Corp. Esta
+          reunión determinará el futuro del golf.
         </p>
       </Column>
     </Row>
@@ -226,15 +226,14 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          “Stimati membri del consiglio, la situazione è disperata. Le
-          partecipazioni sono in calo, i progressi fatti nella tecnologia delle
-          mazze hanno reso il nostro gioco troppo semplice. Con la concorrenza
-          in continuo aumento che cerca di attirare l’attenzione della gente, le
-          persone non possono più permettersi di passare 4 ore a giocare a golf.
-          La bassa partecipazione mette pressione sui nostri campi per sbarcare
-          il lunario. Frotte di imprenditori edilizi hanno iniziato a dare la
-          caccia ai proprietari per convertire i nostri preziosi fairway in
-          proprietà immobiliari senz’anima.
+          Estimados miembros de la junta, la situación parece grave. La
+          asistencia está disminuyendo, los avances en la tecnología del club
+          han hecho nuestro juego demasiado fácil. Con el aumento de la
+          competencia por su atención, la gente ya no puede pasarse 4 horas
+          jugando al golf. La baja asistencia presiona a nuestros campos para
+          mantenerse a flote. Grupos de promotores inmobiliarios han empezado a
+          acosar a los propietarios para convertir nuestras preciosas calles en
+          fincas sin alma.
         </p>
       </Column>
     </Row>
@@ -249,11 +248,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Non tutto è perduto. Ho messo insieme un team con le nostre menti
-          migliori per escogitare la prossima iterazione del nostro grande
-          gioco. La squadra ha ideato un paio di modifiche alle regole che
-          potranno tirarci fuori dalla sabbia e farci filare dritti verso la
-          buca.
+          No todo está perdido. Un equipo de nuestras mejores mentes está
+          ideando la próxima iteración de nuestro gran juego. El equipo ha
+          ideado un par de ajustes en las reglas que nos sacarán de la trampa de
+          arena y nos llevarán al hoyo.
         </p>
       </Column>
     </Row>
@@ -270,13 +268,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I proprietari dei campi hanno bisogno di più persone sui prati, e non
-          siamo riusciti a migliorare il numero di ore buone durante la
-          giornata. Dovremmo cambiare il nostro approccio e introdurre il gioco
-          simultaneo. Più persone che giocano a golf contemporaneamente
-          significa più quote dal green. La nostra tecnologia brevettata
-          HOLOBALL™ permetterà a tutti i membri di un gruppo di iniziare in
-          sicurezza una partita a golf allo stesso momento.
+          Los propietarios de los campos necesitan más gente en ellos, y no
+          hemos logrado mejorar el número de horas buenas al día. Vamos a
+          cambiar nuestro enfoque e introducir el juego simultáneo. Más gente
+          jugando al golf a la vez significa más green fees. Nuestra tecnología
+          patentada HOLOBALLTM hará que jugar al mismo tiempo sea seguro para
+          todos los miembros de un grupo.
         </p>
       </Column>
     </Row>
@@ -293,13 +290,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si tratta di una tecnologia fantastica. Credevo che l’elemento
-          vincente sarebbero state delle flotte di droni che tracciavano e
-          fermavano le palline da golf. Ma questo… Questa cosa di rendere il
-          drone la stessa pallina da golf è veramente astuta. Palline da golf
-          che non si perdono mai. Palline da golf che possono fermarsi prima di
-          colpire qualcuno e poi riprendere il loro volo. Palline da golf che
-          tengono traccia dei punteggi.
+          Es una tecnología fantástica. Pensé que la flotilla de drones
+          rastreando y deteniendo bolas de golf iba a ser la ganadora. Pero
+          esto... Esto de hacer que la bola de golf sea un dron es inteligente.
+          Bolas de golf que nunca se pierden. Bolas de golf que pueden detenerse
+          antes de que golpeen a alguien y luego reiniciar su vuelo después.
+          Bolas de golf que registran tu puntuación.
         </p>
       </Column>
     </Row>
@@ -313,10 +309,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ora, ammetto che c’è stato qualche imprevisto. Si potrebbe perfino
-          dire che la tecnologia è ancora un po’ primitiva. Però, penso che
-          possiamo iniziare a dispiegarla su alcuni dei nostri campi che
-          faticano a rimanere sotto il par.
+          Bueno, admito que ha habido algunas heridas. Se podría decir que la
+          tecnología es todavía un poco tosca. Pero, creo que podemos empezar a
+          extenderlo a algunos de los campos que están luchando por mantenerse a
+          la par.
         </p>
       </Column>
     </Row>
@@ -331,11 +327,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Inoltre, prima avevamo un ottimo rapporto con i produttori di mazze.
-          Tuttavia, negli ultimi tempi, ogni nuovo progresso nella tecnologia
-          golfistica va a erodere la sfida, sia che si tratti delle palline che
-          ritornano da sole, dei super driver o dei più recenti wedge da sabbia
-          magnetici.
+          Antes teníamos una gran relación con los fabricantes de palos. Sin
+          embargo, últimamente, cada nuevo avance en la tecnología del golf lo
+          hace más dificil, ya sea las bolas con guía, los superdrivers o los
+          recientemente lanzados wedges magnéticos de arena.
         </p>
       </Column>
     </Row>
@@ -349,10 +344,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Per contrattaccare ai produttori di mazze che traggono profitto dalla
-          rovina del nostro grande gioco, abbiamo introdotto alcune modifiche
-          che non prenderanno direttamente di mira loro ma ridurranno la loro
-          influenza.
+          Para contrarrestar el beneficio de los fabricantes de palos por la
+          desaparición de nuestro gran juego, tenemos algunos cambios que no se
+          dirigirán directamente a ellos, sino que reducirán su influencia.
         </p>
       </Column>
     </Row>
@@ -369,13 +363,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il Golf si è sempre incentrato non solo sull’esecuzione del tiro, ma
-          sulla scelta del tiro. Ridurremo il limite di mazze da 14 a 5,
-          costringendo i giocatori a pensare di più a quale mazza prendere in
-          mano e a come la usano. Il Golf significa pianificare e mettere in
-          pratica un approccio strategico, per questo non consentiremo ai
-          giocatori di utilizzare la stessa mazza fino a che non avranno usato
-          tutte le altre mazze.
+          De siempre, el golf no ha consistido solo en la ejecución de los
+          tiros, sino en la selección de los mismos. Reduciremos el límite de
+          palos de 14 a 5 obligando a los jugadores a pensar más en qué palos
+          toman y cuándo los usan. El golf también consiste en planificar y
+          elaborar tu juego, para ello no permitiremos que los jugadores usen el
+          mismo palo hasta que hayan usado todos sus otros palos.
         </p>
       </Column>
     </Row>
@@ -384,7 +377,7 @@ const Content = () => (
         <p>Board members. Welcome to the next age of golf!</p>
       </Column>
       <Column>
-        <p>Membri del consiglio. Benvenuti nella nuova era del golf!”</p>
+        <p>Miembros de la junta. ¡Bienvenidos a la próxima era del golf! </p>
       </Column>
     </Row>
     <Row>
@@ -392,7 +385,7 @@ const Content = () => (
         <p>The board room erupts into applause.</p>
       </Column>
       <Column>
-        <p>Un applauso scoppia nella sala d’amministrazione.</p>
+        <p>La sala de juntas estalla en aplausos.</p>
       </Column>
     </Row>
     <Row>
@@ -408,7 +401,7 @@ const Content = () => (
         <h1>Overview</h1>
       </Column>
       <Column>
-        <h1>Panoramica</h1>
+        <h1>Detalles</h1>
       </Column>
     </Row>
     <Row>
@@ -424,12 +417,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Sono passati 10 anni da quella riunionr del consiglio. Il Golf non è
-          mai stato più popolare. Assieme all’invenzione della tecnologia
-          HOLOBALL™, sono stati creati nuovi modi per giocare a golf, e lo sport
-          prospera. Tu sei un golfista in quest’epoca d’oro del golf. Seleziona
-          le tue mazze e poi completa il percorso selezionando attentamente i
-          tiri e navigando con intelligenza fra gli ostacoli.
+          Han pasado diez años desde esa reunión de la junta. El golf nunca ha
+          sido más popular. Junto con la invención de la tecnología HOLOBALLTM,
+          se han creado nuevas formas de jugar al golf, y el deporte está
+          prosperando. Eres un golfista en esta era dorada del golf. Prepara tus
+          palos y, luego, compite en el campo con una cuidadosa selección del
+          tiro y una inteligente navegación de obstáculos.
         </p>
       </Column>
     </Row>
@@ -445,12 +438,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il gioco si svolge sulle 18 buche di un percorso da golf – ogni buca
-          richiede al giocatore di utilizzare una o più mazze. Dopo aver giocato
-          una mazza, i giocatori non possono utilizzare nuovamente quella mazza
-          prima di aver giocato tutte le altre mazze. I golfisti segnano punti
-          raggiungendo per primi i Green. Il vincitore è il golfista che mette a
-          segno il maggior numero di punti.
+          El juego se desarrolla en los 18 hoyos de un campo de golf, cada uno
+          de los cuales requiere que el jugador use uno o más palos. Después de
+          jugar con un palo, los jugadores no pueden usar ese palo de nuevo
+          hasta que no jueguen con todos los demás. Los golfistas ganan puntos
+          llegando primero a los greens. El ganador es el golfista con más
+          puntos anotados.
         </p>
       </Column>
     </Row>
@@ -465,11 +458,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Questo libro contiene le regole per tante modalità diverse inclusa la
-          modalità solitaria, a due giocatori, golf race e chaos golf. Ogni
-          modalità di gioco ti permette di personalizzare l’esperienza secondo i
-          tuoi gruppi di gioco. La prima parte di questo libro copre il set di
-          regole standard chiamato Match Play.
+          Este libro contiene las reglas de muchos modos diferentes, incluyendo
+          el solitario, el de dos jugadores, las carreras de golf y el Chaos
+          Golf. Cada modo de juego te permite adaptar la experiencia a tus
+          grupos de juego. La primera parte de este libro cubre el conjunto de
+          reglas estándar llamado Match Play.
         </p>
       </Column>
     </Row>
@@ -478,7 +471,7 @@ const Content = () => (
         <h2>Course TILES</h2>
       </Column>
       <Column>
-        <h2>CASELLE PERCORSO</h2>
+        <h2>PIEZAS de campo</h2>
       </Column>
     </Row>
     <Row>
@@ -491,9 +484,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa queste caselle per costruire il percorso su cui giochi. Ci sono 49
-          caselle a doppio lato che puoi usare per creare un nuovo percorso ogni
-          volta che giochi.
+          Usa estas piezas para construir el campo en el que juegas. Hay 49
+          piezas de doble cara que puedes usar para crear un nuevo campo cada
+          vez que juegas.
         </p>
       </Column>
     </Row>
@@ -515,10 +508,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Le caselle hanno un livello di difficoltà fra tre possibili indicato
-          utilizzando delle stelline nell’angolo di ogni casella. Ciascuna
-          casella include un numero e una freccia che punta nella direzione
-          principale.
+          Las piezas tienen uno de los tres niveles de dificultad indicados con
+          estrellas en la esquina de cada pieza. Cada pieza tiene un número y
+          una flecha que apunta a la dirección principal.
         </p>
       </Column>
     </Row>
@@ -539,8 +531,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Consulta il libretto accompagnatorio per i design dei percorsi e le
-          istruzioni su come costruire percorsi.
+          Ve el folleto adjunto para diseños de campos e instrucciones sobre
+          cómo construir campos.
         </p>
       </Column>
     </Row>
@@ -557,7 +549,7 @@ const Content = () => (
         <h2>Adjustment Tiles</h2>
       </Column>
       <Column>
-        <h2>CASELLE DI AGGIUSTAMENTO</h2>
+        <h2>Piezas de ajuste</h2>
       </Column>
     </Row>
     <Row>
@@ -571,11 +563,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Questi mini esagoni possono essere posizionati in cima alle caselle
-          percorso per modificare la difficoltà del percorso. Per un gioco più
-          rilassato, copri gli ostacoli con le caselle con il lato rough rivolto
-          verso l’altro. Se vuoi una sfida più impegnativa, usa il lato pericolo
-          per regolare quelli esistenti o aggiungerne di nuovi.
+          Estos minihexágonos pueden colocarse encima de las piezas del campo
+          para modificar la dificultad del mismo. Para un juego más relajado,
+          cubre los hazards con piezas con el lado de rough arriba. Si buscas un
+          desafío, usa el lado del hazard para ajustar los existentes o añadir
+          otros nuevos.
         </p>
       </Column>
     </Row>
@@ -584,7 +576,7 @@ const Content = () => (
         <h2>Golfer Cards</h2>
       </Column>
       <Column>
-        <h2>CARTE GOLFISTA</h2>
+        <h2>Cartas de golfistas</h2>
       </Column>
     </Row>
     <Row>
@@ -597,10 +589,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I giocatori selezionano le carte golfista che forniscono un’abilità
-          speciale unica. Le abilità sul lato A riducono il livello della sfida,
-          mentre quelle sul lato B contengono alcune restrizioni. Puoi
-          selezionare sia il lato A che il lato B quando giochi.
+          Los jugadores seleccionan cartas de golfistas que proporcionan una
+          habilidad especial única. Las habilidades del lado A reducen la
+          dificultad, mientras que el lado B suelen contener restricciones.
+          Eliges el lado A o el lado B cuando juegas.
         </p>
       </Column>
     </Row>
@@ -617,7 +609,7 @@ const Content = () => (
         <h2>Club Cards</h2>
       </Column>
       <Column>
-        <h2>CARTE MAZZA</h2>
+        <h2>Cartas de palos</h2>
       </Column>
     </Row>
     <Row>
@@ -630,10 +622,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ciascuna mazza possiede un’abilità unica oppure ti dice da quale mazzo
-          tiro devi pescare. Puoi portare con te solo cinque mazze sul campo.
-          Una volta usato una mazza, non puoi usarla fino al che non avrai
-          utilizzato anche tutte le altre mazze.
+          Cada palo tiene una habilidad única o te dice de qué mazo de cartas
+          robar. Solo puedes sacar cinco palos en el campo. Una vez usados, no
+          puedes volver a usarlos hasta que hayas usado todos tus otros palos.
         </p>
       </Column>
     </Row>
@@ -650,7 +641,7 @@ const Content = () => (
         <h2>Shot Cards</h2>
       </Column>
       <Column>
-        <h2>CARTE TIRO</h2>
+        <h2>Cartas de tiro</h2>
       </Column>
     </Row>
     <Row>
@@ -663,10 +654,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Queste carte sono organizzate in cinque mazzi e rappresentano le
-          diverse distanze e direzioni per i tuoi tiri. Ciascuna mazzo contiene
-          carte che colpiscono la palla a sinistra, a destra e, in alcuni casi,
-          in una direzione a tua scelta.
+          Estas cartas están organizadas en cinco mazos y representan las
+          diferentes distancias y direcciones de tus tiros. Cada uno contiene
+          cartas que golpean la bola a la izquierda, a la derecha y, en algunos
+          casos, tú eliges la dirección.
         </p>
       </Column>
     </Row>
@@ -689,11 +680,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Una mappa di volo su ciascuna carta ti aiuta a tracciare i passaggi
-          della tua pallina. L’esagono arancione contrassegna il punto di
-          atterraggio della tua pallina. Quando colpisci la pallina dal rough,
-          questa viaggia per un esagono in meno. Vedi “GIOCARE DAL ROUGH” a
-          pagina 12.
+          Un mapa de vuelo en cada carta te ayuda a trazar el paso de tu bola.
+          El hexágono naranja marca donde cae tu bola. Al golpear la bola desde
+          el rough, viaja un hexágono menos. Ver &quot;JUGANDO DESDE EL
+          ROUGH&quot; en la página 12.
         </p>
       </Column>
     </Row>
@@ -715,9 +705,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usi le carte tiro anche per uscire dai bunker. L’icona con il
-          risultato del bunker si trova nell’angolo in basso a destra. Vedi
-          “USCIRE DA BUNKER, GREEN E VINCERE”a pagina 11.
+          También usas cartas de tiro para salir de los bunkers. El icono del
+          resultado del búnker está en la esquina inferior derecha. Ver
+          &quot;SALIR DE BUNKERS, GREENS Y GANAR&quot; en la página 11.
         </p>
       </Column>
     </Row>
@@ -742,7 +732,7 @@ const Content = () => (
         <h2>Green Markers / Score Tokens</h2>
       </Column>
       <Column>
-        <h2>SEGNALINI GREEN / SEGNALINI PUNTI</h2>
+        <h2>Marcadores de green / Fichas de puntuación</h2>
       </Column>
     </Row>
     <Row>
@@ -756,10 +746,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I segnalini rotondi hanno un doppio scopo. La parte frontale ha il
-          green numerati da 1 a 18. Dato che le caselle percorso non hanno
-          numeri sui green, posizionare i segnalini con numero rivolto in alto
-          aiuta a tenere traccia dell’ordine delle buche.
+          Las fichas circulares tienen un doble propósito. La cara delantera
+          tiene los greens numerados del 1 al 18. Como las piezas del campo no
+          tienen números en los greens, colocar las fichas con números hacia
+          arriba ayuda a seguir el orden de los hoyos.
         </p>
       </Column>
     </Row>
@@ -781,10 +771,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          In molte delle modalità di gioco di 18 Holes, si usano i segnalini con
-          il lato punti rivolto verso l’alto per segnare i punti. Questi i lati
-          mostrano valori 5, 2 e 1. Vedi “METODI DIVERSI PER GIOCARE” a pagina
-          18.
+          En muchos de los modos de juego de 18 Holes, se utilizan las fichas
+          para llevar el marcaje. Estos lados muestran valores de puntos de 5, 2
+          y 1. Ver &quot;MÚLTIPLES FORMAS DE JUGAR&quot; en la página 18.
         </p>
       </Column>
     </Row>
@@ -805,8 +794,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ci sono dei segnalini di ricambio da 1pt, 2pt e 5pt. Questi non hanno
-          numeri green. Conservali in un posto sicuro in casa ne avessi bisogno.
+          Hay marcadores de repuesto de 1, 2 y 5 puntos. Estos no tienen números
+          de green. Por favor, ponlos en un lugar seguro en caso de que los
+          necesites.
         </p>
       </Column>
     </Row>
@@ -823,7 +813,7 @@ const Content = () => (
         <h2>Hole-in-one Marker</h2>
       </Column>
       <Column>
-        <h2>SEGNALINO ACE</h2>
+        <h2>Marcador de hoyo en uno</h2>
       </Column>
     </Row>
     <Row>
@@ -835,9 +825,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si raccolgono quando metti a segno un Ace. Nell’eventualità di un
-          tie-break, il giocatore con il maggior numero di segnalini Ace è il
-          vincitore.
+          Estos se recogen cuando consigues un hoyo en uno. En el caso de
+          empate, el jugador con más marcadores de hoyo en uno es el ganador.
         </p>
       </Column>
     </Row>
@@ -854,7 +843,7 @@ const Content = () => (
         <h2>Solo Chaos Golf Cards</h2>
       </Column>
       <Column>
-        <h2>CARTE SOLO CHAOS GOLF</h2>
+        <h2>Cartas de Solo Chaos Golf</h2>
       </Column>
     </Row>
     <Row>
@@ -870,13 +859,13 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa questo mazzo di carte per organizzare il flusso di gioco del solo
-          chaos golf e per regolare la difficoltà. Queste carte hanno due
-          simboli differenti. I cerchi con un solo colore rappresentano i turni
-          dove va a segno solo il giocatore e i cerchi con doppia tonalità
-          rappresentano quando andate a segno sia tu che i tuoi avversari
-          automatizzati. Ci sono dei turni in cui i tuoi avversari possono
-          segnare punti. Vedi “SOLO CHAOS GOLF” a pagina 24.
+          Usa este mazo de cartas para organizar el flujo del Solo Chaos Golf y
+          ajustar la dificultad. Estas cartas tienen dos símbolos diferentes.
+          Círculos de un solo color que representan los turnos en los que solo
+          el jugador puntúa y círculos de dos tonos en los que tanto tú como tus
+          oponentes automatizados puntuáis. Estos son turnos en los que tus
+          oponentes pueden anotar. Ver &quot;SOLO CHAOS GOLF&quot; en la página
+          24.
         </p>
       </Column>
     </Row>
@@ -909,7 +898,7 @@ const Content = () => (
         <h2>Solo TURN Marker</h2>
       </Column>
       <Column>
-        <h2>SEGNALINO TURNO SINGOLO</h2>
+        <h2>Marcador de TURNOS para jugar solo</h2>
       </Column>
     </Row>
     <Row>
@@ -920,8 +909,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si usa per tenere traccia del turno durante una partita di Chaos golf
-          singola.
+          Se usa para controlar en qué turno estás durante un juego de Solo
+          Chaos Golf.
         </p>
       </Column>
     </Row>
@@ -938,7 +927,7 @@ const Content = () => (
         <h2>Flags</h2>
       </Column>
       <Column>
-        <h2>BANDIERINE</h2>
+        <h2>Banderas</h2>
       </Column>
     </Row>
     <Row>
@@ -951,10 +940,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Queste bandierine si posizionano sui Green per indicare dove stai
-          mirando. Ce n’è una per ciascuna buca, numerata da 1 a 18 e 3
-          bandierine di riserva (senza numero). Metti via le bandierine
-          aggiuntive per tenere al sicuro.
+          Estas banderas se colocan en los greens para indicar a dónde apuntas.
+          Hay una para cada hoyo, numeradas del 1 al 18, y tres banderas de
+          repuesto (sin numerar). Guarda las banderas adicionales para que no se
+          pierdan.
         </p>
       </Column>
     </Row>
@@ -971,7 +960,7 @@ const Content = () => (
         <h2>Trees</h2>
       </Column>
       <Column>
-        <h2>ALBERI</h2>
+        <h2>Árboles</h2>
       </Column>
     </Row>
     <Row>
@@ -984,10 +973,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Questi alberelli sono delle decorazioni che puoi mettere sul percorso.
-          Posizionali sugli ostacoli alberati per renderli più visibili. Ci sono
-          solo 14 alberi, quindi dovrai spostarli lungo il percorso mentre
-          giochi.
+          Estos árboles son adornos que puedes poner en tu campo. Colócalos
+          sobre los hazards de árboles para hacerlos más prominentes. Solo hay
+          14 árboles, así que tendrás que moverlos a lo largo del campo mientras
+          juegas.
         </p>
       </Column>
     </Row>
@@ -1004,7 +993,7 @@ const Content = () => (
         <h2>GOLFERs</h2>
       </Column>
       <Column>
-        <h2>GOLFISTI</h2>
+        <h2>GOLFISTAS</h2>
       </Column>
     </Row>
     <Row>
@@ -1016,9 +1005,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni giocatore ha una miniatura del golfista che lo rappresenta sul
-          percorso. Non c’è alcuna differenza fra di loro, quindi scegli il
-          colore che ti piace di più.
+          Cada jugador tiene una figura de golfista que lo representa en el
+          campo. No hay diferencia entre ellos, así que elige el color que más
+          te guste.
         </p>
       </Column>
     </Row>
@@ -1035,7 +1024,7 @@ const Content = () => (
         <h2>ONLINE CONTENT</h2>
       </Column>
       <Column>
-        <h2>CONTENUTO ONLINE</h2>
+        <h2>CONTENIDO ONLINE</h2>
       </Column>
     </Row>
     <Row>
@@ -1047,8 +1036,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Scansiona il codice QR sotto per guardare un video Let’s Play, per
-          accedere a queste regole in altre lingue o per visualizzare le FAQ.
+          Escanea el código QR que aparece a continuación para ver un vídeo de
+          Juguemos, acceder a estas reglas en otros idiomas o ver las preguntas
+          frecuentes.
         </p>
       </Column>
     </Row>
@@ -1065,7 +1055,7 @@ const Content = () => (
         <h1>From Tee Box to Green</h1>
       </Column>
       <Column>
-        <h1>Dal Tee Box al Green</h1>
+        <h1>De tee de salida a green</h1>
       </Column>
     </Row>
     <Row>
@@ -1080,12 +1070,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Una partita a 18 Holes si gioca su un percorso che consiste in una o
-          più buche. La maggior parte dei percorsi presenta 18 buche anche se è
-          comune avere dei percorsi più brevi e più veloci da 9 buche. Metti a
-          segno un punto per ogni buca vinta. Si vince la buca raggiungendo il
-          green prima degli avversari. Nell’eventualità di un pareggio,
-          giocatori possono accumulare punti.
+          Un juego de 18 Holes se juega en un campo que consiste en uno o más
+          hoyos. La mayoría de los campos tienen 18 hoyos, aunque es común tener
+          campos de 9 hoyos más cortos y rápidos. Anotas un punto por cada hoyo
+          que ganas. Ganas un hoyo al llegar al green antes que tus oponentes.
+          Múltiples jugadores anotan en caso de empate.
         </p>
       </Column>
     </Row>
@@ -1108,10 +1097,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il green è l’esagono piccolo con la bandierina nera. A destra abbiamo
-          una singola buca composta da tre caselle percorso. La casella
-          superiore contiene il green. Il tee box è sulla casella inferiore. Dal
-          tee box al green corre il fairway.
+          El green es el pequeño hexágono con una pequeña bandera negra. A la
+          derecha tenemos un solo hoyo hecho con tres piezas de campo. La pieza
+          superior contiene el green. El tee de salida está en la pieza
+          inferior. La calle corre desde el tee de salida hasta el green.
         </p>
       </Column>
     </Row>
@@ -1135,11 +1124,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando si gioca una buca, inizi con il tuo golfista sul tee box e
-          l’obiettivo è arrivare al green. Giochi le mazze che fanno spostare il
-          tuo golfista. Non devi seguire il fairway fino al green. Può però
-          essere una buona idea perché i tuoi tiri andranno più lontani quando
-          giocati dal fairway.
+          Un hoyo te hará empezar con tu golfista en el tee de salida y tu tarea
+          es llegar al green. Juegas con palos que moverán a tu golfista. No
+          tienes que seguir la calle hasta el green. Puede ser una buena idea
+          porque tus tiros irán más lejos cuando juegues desde la calle.
         </p>
       </Column>
     </Row>
@@ -1163,12 +1151,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ci sono solo un paio di caselle su cui non vuoi atterrare. Questi sono
-          gli ostacoli alberati e la sede del club. L’ostacolo alberato avrà uno
-          steccato bianco attorno ad esso. La sede del club si può vedere a
-          pagina 15. Puoi atterrare sui fairway e sui green delle altre buche e
-          puoi atterrare sulle caselle che contengono altri golfisti. Tutto
-          questo grazie alla HOLOBALL™.
+          Solo hay un par de piezas sobre las que no puedes aterrizar. Estos son
+          los hazards de árboles y la casa club. El hazard de árboles tendrá una
+          valla blanca a su alrededor. La casa club se puede ver en la página
+          15. Puedes aterrizar en las calles y greens de otros hoyos y puedes
+          aterrizar en las piezas que contienen otros golfistas. Todo esto
+          gracias a HOLOBALLTM.
         </p>
       </Column>
     </Row>
@@ -1193,12 +1181,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Benché tu possa atterrare sulla maggior parte delle case nel gioco,
-          non tutte sono raccomandate. Alcune contengono dell’acqua che ti farà
-          perdere un turno e altre contengono bunker dai quali dovrai uscire
-          prima di poter continuare. Il verde scuro che si trova su ogni altra
-          casella è il rough e andrà a ridurre la distanza dei tuoi tiri. Vedi
-          “OSTACOLI E ALTRE CASELLE” a pagina 15.
+          Aunque puedes caer en la mayoría de las piezas del juego, no todas son
+          recomendables. Algunos contienen agua, lo que te hará perder un turno,
+          y otros contienen bunkers, de los que tendrás que salir antes de
+          continuar. El verde oscuro que hay en cada una de las otras piezas es
+          el rough y eso reducirá la distancia de tus tiros. Ver &quot;HAZARDS Y
+          OTRAS PIEZAS&quot; en la página 15.
         </p>
       </Column>
     </Row>
@@ -1223,13 +1211,13 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ci sono molti modi per personalizzare la tua esperienza con 18 Holes.
-          Modalità di gioco diverse ti forniscono diverse esperienze e sfide.
-          Puoi regolare i percorsi per renderli più semplici o più difficil. Gli
-          otto golfisti compresi nel gioco ti permettono di rendere il gioco più
-          semplice o più difficile a seconda del giocatore. Provando le varie
-          opzioni, siamo sicuri che troverai un’esperienza di gioco che potrà
-          divertirti e che tornerai a giocare ancora.
+          Hay muchas maneras de personalizar tu experiencia de 18 Holes. Los
+          diferentes modos de juego te dan diferentes experiencias y desafíos.
+          Puedes ajustar los campos para hacerlos más fáciles o más difíciles.
+          Los ocho golfistas que entran en el juego te permiten hacer el juego
+          más fácil o más difícil en base a los jugadores. Probando las
+          diferentes opciones, estamos seguros de que encontrarás una
+          experiencia de juego que disfrutarás y a la que volverás.
         </p>
       </Column>
     </Row>
@@ -1246,7 +1234,7 @@ const Content = () => (
         <h1>Setup</h1>
       </Column>
       <Column>
-        <h1>PREPARAZIONE</h1>
+        <h1>Configuración</h1>
       </Column>
     </Row>
     <Row>
@@ -1254,7 +1242,7 @@ const Content = () => (
         <h2>BUILD THE COURSE</h2>
       </Column>
       <Column>
-        <h2>COSTRUIRE IL PERCORSO</h2>
+        <h2>CREAR EL CAMPO</h2>
       </Column>
     </Row>
     <Row>
@@ -1267,10 +1255,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Puoi preparare il percorso utilizzando uno dei design del libretto
-          percorsi oppure progettarne uno tutto tuo. L’ultima pagina del
-          libretto percorsi include delle istruzioni su come creare dei
-          percorsi.
+          Puedes configurar el campo usando uno de los diseños del folleto del
+          campo o diseñar el tuyo propio. La última página del folleto del campo
+          tiene instrucciones sobre cómo crear campos.
         </p>
       </Column>
     </Row>
@@ -1294,11 +1281,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Una volta costruito il tuo percorso, posiziona una bandierina su
-          ciascuna buca. Metti la 1ª bandierina sul green (destra) per la prima
-          buca e continua fino al 18º green. Se giochi con gli alberi, mettili
-          sui primi 14 alberi del percorso. Gli ostacoli alberati sono gli
-          esagoni con gli steccati bianchi intorno.
+          Una vez que hayas hecho tu campo, coloca una bandera en cada hoyo. Pon
+          la primera bandera en el green (derecha) para el primer hoyo y
+          continúa hasta el green 18. Si estás jugando con árboles, colócalos en
+          los primeros 14 árboles del campo. Los hazards de árboles son los
+          hexágonos con pequeñas vallas blancas a su alrededor.
         </p>
       </Column>
     </Row>
@@ -1315,10 +1302,7 @@ const Content = () => (
         <p>It’s time for everyone to pick a golfer and draft clubs.</p>
       </Column>
       <Column>
-        <p>
-          È il momento che tutti quanti scelgano un golfista e selezionino le
-          mazze.
-        </p>
+        <p>Es hora de que todos elijan un golfista y saquen palos.</p>
       </Column>
     </Row>
     <Row>
@@ -1334,7 +1318,7 @@ const Content = () => (
         <Callout>YOUR FIRST GAME</Callout>
       </Column>
       <Column>
-        <Callout>LA TUA PRIMA PARTITA</Callout>
+        <Callout>TU PRIMER JUEGO</Callout>
       </Column>
     </Row>
     <Row>
@@ -1343,7 +1327,7 @@ const Content = () => (
       </Column>
       <Column>
         <Callout>
-          Prova lo Starting Course a pagina 5 del libretto percorsi.
+          Consulta Starting Course en la página 5 del libro de campos.{' '}
         </Callout>
       </Column>
     </Row>
@@ -1368,7 +1352,7 @@ const Content = () => (
         <h2>SELECT GOLFER</h2>
       </Column>
       <Column>
-        <h2>SELEZIONA IL GOLFISTA</h2>
+        <h2>SELECCIONA GOLFISTA</h2>
       </Column>
     </Row>
     <Row>
@@ -1380,9 +1364,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni giocatore seleziona una carta golfista da giocare. Puoi
-          permettere ai giocatori di seleziona la carta e il lato che vogliono
-          oppure distribuirne una a caso.
+          Cada jugador selecciona una carta de golfista para jugar. Puedes dejar
+          que los jugadores escojan el lado que quieran o repartir uno al azar.
         </p>
       </Column>
     </Row>
@@ -1404,9 +1387,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni carta golfista presenta un lato A e un lato B. il golfista lato A
-          tende a rendere il gioco più semplice, e il golfista lato B tende a
-          rendere il gioco più difficile.
+          Cada carta de golfista tiene un lado A y un lado B. Los golfistas del
+          lado A tienden a hacer el juego más fácil, y los del lado B tienden a
+          hacer el juego más difícil.
         </p>
       </Column>
     </Row>
@@ -1427,9 +1410,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          La selezione del golfista si verifica prima della selezione delle
-          mazze dato che alcuni golfisti influenzano la fase di selezione delle
-          mazze.
+          La selección de los golfistas ocurre antes de la selección del palo,
+          ya que algunos golfistas influyen en la fase de selección del palo.
         </p>
       </Column>
     </Row>
@@ -1446,7 +1428,7 @@ const Content = () => (
         <Callout>YOUR FIRST GAME</Callout>
       </Column>
       <Column>
-        <Callout>LA TUA PRIMA PARTITA</Callout>
+        <Callout>TU PRIMER JUEGO</Callout>
       </Column>
     </Row>
     <Row>
@@ -1457,8 +1439,8 @@ const Content = () => (
       </Column>
       <Column>
         <Callout>
-          Salta le carte golfista fino a quando non sarai pronto ad aumentare la
-          sfida.
+          Salta las cartas de golfista hasta que estés listo para añadir
+          dificultad.{' '}
         </Callout>
       </Column>
     </Row>
@@ -1483,7 +1465,7 @@ const Content = () => (
         <h2>DRAFT CLUBS</h2>
       </Column>
       <Column>
-        <h2>SELEZIONE DELLE MAZZE</h2>
+        <h2>SACAR PALOS</h2>
       </Column>
     </Row>
     <Row>
@@ -1491,7 +1473,7 @@ const Content = () => (
         <p>Players will draft for clubs until they have 5 each.</p>
       </Column>
       <Column>
-        <p>I giocatori selezionano le mazze fino ad averne 5 a testa.</p>
+        <p>Los jugadores sacarán palos hasta que tengan 5 cada uno.</p>
       </Column>
     </Row>
     <Row>
@@ -1512,9 +1494,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Mescola le carte mazza. Se giochi da solo o con due giocatori, rimuovi
-          le mazze che mostrano 3+ o 5+ nell’angolo in basso a destra. In una
-          partita con 3 o 4 giocatori, rimuovi le carte 5+.
+          Baraja las cartas de los palos. Si juegas en solitario o en pareja,
+          quita los palos que muestren 3+ o 5+ en la esquina inferior derecha.
+          En un juego de 3 o 4 jugadores, quita las cartas de 5+.
         </p>
       </Column>
     </Row>
@@ -1535,9 +1517,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Distribuisci lo stesso numero di carte a ogni giocatore. Le carte
-          rimanenti non vengono utilizzate e devono essere rimesse nella scatola
-          senza essere fatte vedere.
+          Reparte el mismo número de cartas a cada jugador. Las cartas que
+          quedan no se usan y se devuelven a la caja sin mostrarlas.
         </p>
       </Column>
     </Row>
@@ -1563,14 +1544,13 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni giocatore seleziona una mazza fra le carte distribuite e la mette
-          davanti a sé, coperta. Poi passa le carte rimanenti alla persona
-          sinistra. Di nuovo, ciascun giocatore seleziona una carta dalle
-          quattro rimanenti e la mette davanti a sé coperta, poi passa il resto
-          delle carte a sinistra. Si continua così finché tutti i giocatori non
-          hanno cinque mazze. Questa è la loro mano. Ciascun giocatore avrà
-          bisogno anche di spazio per la pila degli scarti davanti a sé dove
-          mettere le mazze usate.
+          Cada jugador elige un palo de las cartas repartidas y lo coloca
+          delante de ellos, boca abajo. Pasan las cartas restantes a la persona
+          de su izquierda. De nuevo, cada jugador selecciona una carta de las
+          cuatro restantes, la coloca boca abajo delante de ellos y pasa el
+          resto a la izquierda. Continúa hasta que todos los jugadores tengan
+          cinco palos. Esta es su mano. Cada jugador también necesitará espacio
+          para poner los palos usados delante de ellos.
         </p>
       </Column>
     </Row>
@@ -1591,8 +1571,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se un giocatore ha The Shark, Iron Jane o Slugger si veda “ABILITÀ
-          GOLFISTA” a pagina 16 per le regole che cambiano la selezione.
+          Si un jugador tiene The Shark, Iron Jane o Slugger, consultar
+          &quot;Habilidades de golfista&quot; en la página 16 para las reglas
+          que cambian la forma de sacar cartas.
         </p>
       </Column>
     </Row>
@@ -1614,10 +1595,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          La selezione è la tua prima possibilità di guadagnare un vantaggio. Le
-          caratteristiche del percorso determinano l’efficacia di alcune mazze.
-          Dai un’occhiata al percorso per vedere quali mazze pensi saranno
-          utili.
+          Robar cartas es tu primera oportunidad de obtener una ventaja. Las
+          características del campo determinan la eficacia de algunos palos.
+          Mira el campo para ver qué palos crees que van a serte útiles.
         </p>
       </Column>
     </Row>
@@ -1642,7 +1622,7 @@ const Content = () => (
         <Callout>YOUR FIRST GAME</Callout>
       </Column>
       <Column>
-        <Callout>LA TUA PRIMA PARTITA</Callout>
+        <Callout>TU PRIMER JUEGO</Callout>
       </Column>
     </Row>
     <Row>
@@ -1654,8 +1634,8 @@ const Content = () => (
       </Column>
       <Column>
         <Callout>
-          Sulla faccia di alcune carte mazza si trova una A,B,C,D o E. invece di
-          scegliere, distribuisci le A al giocatore 1, le B al giocatore 2 ecc.
+          En la cara de algunas cartas de palos hay una A, B, C, D o E. En lugar
+          de escoger, da las A al jugador 1, las B al jugador 2, etc.
         </Callout>
       </Column>
     </Row>
@@ -1680,7 +1660,7 @@ const Content = () => (
         <h2>BEGIN PLAY</h2>
       </Column>
       <Column>
-        <h2>INIZIA A GIOCARE</h2>
+        <h2>COMIENZA A JUGAR</h2>
       </Column>
     </Row>
     <Row>
@@ -1693,9 +1673,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ora sei pronto per iniziare a giocare. Posiziona tutti i golfisti sul
-          tee box della prima buca. Tutti i giocatori devono avere le mazze in
-          mano, nascoste alla vista degli altri giocatori.
+          Ya estás listo para empezar a jugar. Coloca a todos los golfistas en
+          el tee de salida del primer hoyo. Todos los jugadores deben tener sus
+          palos en la mano, ocultándoselos a los demás jugadores.
         </p>
       </Column>
     </Row>
@@ -1716,8 +1696,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Prendi i 5 mazzi tiro, questi avranno scritto C, 2, 3, 4 o 5 sul
-          retro. Mescola e posizionali a portata di mano di tutti i giocatori.
+          Coge los 5 mazos de tiro, tienen marcado C, 2, 3, 4 o 5 en la parte de
+          atrás. Barájalos y ponlos al alcance de todos los jugadores.
         </p>
       </Column>
     </Row>
@@ -1734,7 +1714,7 @@ const Content = () => (
         <h1>Playing A Round</h1>
       </Column>
       <Column>
-        <h1>Giocare un Round</h1>
+        <h1>Jugando una ronda</h1>
       </Column>
     </Row>
     <Row>
@@ -1742,7 +1722,7 @@ const Content = () => (
         <p>EACH ROUND OF 18 HOLES IS DIVIDED INTO THESE STEPS</p>
       </Column>
       <Column>
-        <p>OGNI ROUND DI 18 HOLES È SUDDIVISO IN QUESTE FASI</p>
+        <p>CADA RONDA DE 18 HOLES SE DIVIDE EN ESTOS PASOS</p>
       </Column>
     </Row>
     <Row>
@@ -1750,80 +1730,80 @@ const Content = () => (
         <strong>SELECTING CLUBS</strong>
       </Column>
       <Column>
-        <strong>SELEZIONE DELLE MAZZE</strong>
+        <strong>SELECCIONAR LOS PALOS</strong>
       </Column>
     </Row>
     <Row>
       <Column>1. Reset empty hands</Column>
-      <Column>Reset mani vuote</Column>
+      <Column>Resetear las manos vacías</Column>
     </Row>
     <Row>
       <Column>2. Select & reveal clubs</Column>
-      <Column>Seleziona e rivela le mazze</Column>
+      <Column>Seleccionar y revelar los palos</Column>
     </Row>
     <Row>
       <Column>3. Determine play order</Column>
-      <Column>Determina l’ordine di gioco</Column>
+      <Column>Determinar el orden de juego</Column>
     </Row>
     <Row>
       <Column>
         <strong>ON YOUR TURN</strong>
       </Column>
       <Column>
-        <strong>NEL TUO TURNO</strong>
+        <strong>EN TU TURNO</strong>
       </Column>
     </Row>
     <Row>
       <Column>4. Complete one action</Column>
-      <Column>Completa un’azione</Column>
+      <Column>Completa una acción</Column>
     </Row>
     <Row>
       <Column>a. Move one hex</Column>
-      <Column>Muovi di un esagono</Column>
+      <Column>Mover un hexágono</Column>
     </Row>
     <Row>
       <Column>b. Play club card</Column>
-      <Column>Gioca la carta mazza</Column>
+      <Column>Jugar la carta del palo</Column>
     </Row>
     <Row>
       <Column>c. Attempt a big hit</Column>
-      <Column>Prova un big hit</Column>
+      <Column>Intentar un gran golpe</Column>
     </Row>
     <Row>
       <Column>d. Exit bunker</Column>
-      <Column>Esci dal bunker</Column>
+      <Column>Salir del búnker</Column>
     </Row>
     <Row>
       <Column>e. Reset your hand</Column>
-      <Column>Azzera la tua mano</Column>
+      <Column>Resetear tu mano</Column>
     </Row>
     <Row>
       <Column>5. Discard club.</Column>
-      <Column>Scarta la mazza.</Column>
+      <Column>Descartar palo.</Column>
     </Row>
     <Row>
       <Column>
         <strong>REACHING THE GREEN</strong>
       </Column>
       <Column>
-        <strong>RAGGIUNGERE IL GREEN</strong>
+        <strong>ALCANZAR EL GREEN</strong>
       </Column>
     </Row>
     <Row>
       <Column>6. Score flags</Column>
-      <Column>Prendere bandierine</Column>
+      <Column>Ganar banderas</Column>
     </Row>
     <Row>
       <Column>7. Score hole-in-one tokens</Column>
-      <Column>Prendere segnalini Ace</Column>
+      <Column>Fichas de puntuación &quot;hoyo en uno&quot;</Column>
     </Row>
     <Row>
       <Column>8. Move all players to the next hole</Column>
-      <Column>Spostare tutti i giocatori alla buca successiva</Column>
+      <Column>Mueve a todos los jugadores al siguiente hoyo</Column>
     </Row>
     <Row>
       <Column>9. Remove any hazard effects</Column>
-      <Column>Rimuovere ogni effetto degli ostacoli</Column>
+      <Column>Eliminar cualquier efecto de los hazards</Column>
     </Row>
     <Row>
       <Column>
@@ -1838,7 +1818,7 @@ const Content = () => (
         <h2>SELECTING CLUBS</h2>
       </Column>
       <Column>
-        <h2>SELEZIONE DELLE MAZZE</h2>
+        <h2>SELECCIONAR LOS PALOS</h2>
       </Column>
     </Row>
     <Row>
@@ -1846,7 +1826,7 @@ const Content = () => (
         <h3>1. RESET Empty HANDs</h3>
       </Column>
       <Column>
-        <h3>1. RESET MANI VUOTE</h3>
+        <h3>1. RESETEAR LAS MANOS VACÍAS</h3>
       </Column>
     </Row>
     <Row>
@@ -1858,7 +1838,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se non hai mazze in mano, rimetti tutte le mazze scartate nella tua
+          Si no tienes palos en la mano, saca todos los palos descartados en tu
           mano.
         </p>
       </Column>
@@ -1880,9 +1860,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se hai una mazza in mano che non puoi usare, puoi anche in questo caso
-          azzerare la tua mano, ad esempio se hai il driver e non sei sul tee
-          box.
+          Si tienes un palo en la mano que no puedes usar, también puedes
+          resetear tu mano. Por ejemplo, tienes el driver y no estás en el tee
+          de salida.
         </p>
       </Column>
     </Row>
@@ -1903,8 +1883,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se giochi con il lato A di Dorian, puoi azzerare le tue mazze prima di
-          partire su una buca.
+          Si juegas con el lado A de Dorian, solo puedes resetear tus palos
+          antes de dar el primer golpe de un hoyo.
         </p>
       </Column>
     </Row>
@@ -1921,7 +1901,7 @@ const Content = () => (
         <h3>2. SELECT CLUB</h3>
       </Column>
       <Column>
-        <h3>2. SELEZIONA LA MAZZA</h3>
+        <h3>2. SELECCIONAR PALO</h3>
       </Column>
     </Row>
     <Row>
@@ -1933,8 +1913,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ciascun giocatore seleziona una mazza dalla propria mano e la
-          posiziona a faccia in giù davanti a sé.
+          Cada jugador selecciona un palo de su mano y lo coloca boca abajo
+          delante de ellos.
         </p>
       </Column>
     </Row>
@@ -1963,9 +1943,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Una volta che tutti i giocatori lo hanno fatto, rivelano
-          contemporaneamente tutte le mazze. Dopodiché, i giocatori non possono
-          cambiare idea.
+          Cuando todos los jugadores hayan hecho esto, revelan simultáneamente
+          todos los palos. Una vez hecho esto, los jugadores no pueden cambiar
+          de opinión.
         </p>
       </Column>
     </Row>
@@ -1987,10 +1967,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il giocatore con Bunjil deve usare il suo potere prima di posizionare
-          una mazza a faccia in giù. Se Bunjil si trova sul lato B ed espone una
-          carta tiro, i giocatori che hanno posizionato una mazza a faccia in
-          giù possono cambiare idea.
+          El jugador con Bunjil debe usar su poder antes de colocar un palo boca
+          abajo. Si Bunjil está en su lado B y expone una carta de tiro, los
+          jugadores que han colocado un palo boca abajo pueden cambiar de
+          opinión.
         </p>
       </Column>
     </Row>
@@ -2011,9 +1991,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il giocatore con Slick Rikesh sul suo lato A può usare il suo potere
-          dopo aver scoperto le carte e nominare la mazza di un altro giocatore
-          da usare.
+          El jugador con Slick Rikesh con el lado A puede usar su poder después
+          de la revelación y nombrar el palo de otro jugador para usarlo.
         </p>
       </Column>
     </Row>
@@ -2030,7 +2009,7 @@ const Content = () => (
         <h3>3. DETERMINE PLAY ORDER</h3>
       </Column>
       <Column>
-        <h3>3. DETERMINA L’ORDINE DI GIOCO</h3>
+        <h3>3. DETERMINAR EL ORDEN DE JUEGO</h3>
       </Column>
     </Row>
     <Row>
@@ -2043,9 +2022,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa l’ordine di iniziativa di ciascuna mazza per determinare l’ordine
-          di gioco. La mazza con l’infettiva più bassa inizia per prima. Puoi
-          trovare l’iniziativa nell’angolo in alto a sinistra della carta mazza
+          Utiliza el orden de la iniciativa de cada palo para determinar el
+          orden de juego. El palo con la menor iniciativa va primero. Puedes
+          encontrar la iniciativa en la esquina superior izquierda de la carta
+          del palo.
         </p>
       </Column>
     </Row>
@@ -2066,8 +2046,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se Slick Rikesh sta usando la mazza di un altro giocatore, Slick
-          Rikesh gioca immediatamente dopo l’altro giocatore.
+          Si Slick Rikesh está usando el palo de otro jugador, Slick Rikesh
+          juega inmediatamente después del otro jugador.
         </p>
       </Column>
     </Row>
@@ -2088,8 +2068,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se Swift è sul lato A, vince qualsiasi pareggio sull’iniziativa. Se
-          Swift è sul lato B, perde qualsiasi pareggio sull’iniziativa.{' '}
+          Si Swift está en su lado A, gana cualquier empate de iniciativa. Si
+          Swift está en su lado B, pierde cualquier empate de iniciativa.{' '}
         </p>
       </Column>
     </Row>
@@ -2102,8 +2082,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se Swift pareggia con Slick Rikesh che ha preso in prestito una mazza,
-          vince sul lato A e perde sul lato B.
+          Si Swift empata con Slick Rikesh que está pidiendo prestado un palo,
+          gana en su lado A y pierde en su lado B.
         </p>
       </Column>
     </Row>
@@ -2126,11 +2106,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Guardando le mazze sotto, la Ibrida 8 possiede un’iniziativa di 5, e
-          quel giocatore gioca il proprio turno per primo. Il giocatore
-          successivo è la persona con il Ferro 6 (iniziativa 12). L’ultimo
-          giocatore a giocare il turno è la persona che ha giocato il Legno 5
-          (iniziativa 20).
+          Mirando los palos de abajo, el Híbrido 8 tiene una iniciativa de 5, y
+          ese jugador va primero. El siguiente jugador es la persona con el
+          Hierro 6 (iniciativa 12). El último jugador en salir es la persona que
+          jugó la Madera 5 (iniciativa 20).
         </p>
       </Column>
     </Row>
@@ -2147,7 +2126,7 @@ const Content = () => (
         <p>Following the play order, each player takes a turn.</p>
       </Column>
       <Column>
-        <p>Seguendo l’ordine di gioco, ciascun giocatore svolge il turno.</p>
+        <p>Siguiendo el orden de juego, cada jugador sigue su turno.</p>
       </Column>
     </Row>
     <Row>
@@ -2163,7 +2142,7 @@ const Content = () => (
         <h2>ON YOUR TURN</h2>
       </Column>
       <Column>
-        <h2>NEL TUO TURNO</h2>
+        <h2>EN TU TURNO</h2>
       </Column>
     </Row>
     <Row>
@@ -2171,7 +2150,7 @@ const Content = () => (
         <h3>4. COMPLETE ONE ACTION</h3>
       </Column>
       <Column>
-        <h3>4. COMPLETA UN’AZIONE</h3>
+        <h3>4. COMPLETA UNA ACCIÓN</h3>
       </Column>
     </Row>
     <Row>
@@ -2179,7 +2158,7 @@ const Content = () => (
         <p>When it is your turn perform one of the following actions:</p>
       </Column>
       <Column>
-        <p>Quando è il tuo turno, puoi eseguire una delle azioni seguenti:</p>
+        <p>Cuando sea tu turno, realiza una de las siguientes acciones:</p>
       </Column>
     </Row>
     <Row>
@@ -2192,23 +2171,23 @@ const Content = () => (
     </Row>
     <Row>
       <Column>Move one hex</Column>
-      <Column>Spostati di un esagono</Column>
+      <Column>Mover un hexágono </Column>
     </Row>
     <Row>
       <Column>Play club card</Column>
-      <Column>Gioca la carta mazza</Column>
+      <Column>Jugar la carta del palo</Column>
     </Row>
     <Row>
       <Column>Attempt a big hit</Column>
-      <Column>Prova un big hit</Column>
+      <Column>Intentar un gran golpe</Column>
     </Row>
     <Row>
       <Column>Exit bunker</Column>
-      <Column>Esci dal bunker</Column>
+      <Column>Salir del búnker</Column>
     </Row>
     <Row>
       <Column>Reset your hand</Column>
-      <Column>Azzera la tua mano</Column>
+      <Column>Resetear tu mano</Column>
     </Row>
     <Row>
       <Column>
@@ -2223,7 +2202,7 @@ const Content = () => (
         <p>After you have completed your turn, you discard your club.</p>
       </Column>
       <Column>
-        <p>Dopo aver completato il turno, scarti la mazza.</p>
+        <p>Después de que hayas completado tu turno, descartas tu palo.</p>
       </Column>
     </Row>
     <Row>
@@ -2239,7 +2218,7 @@ const Content = () => (
         <h3>4.a) MOVE ONE HEX</h3>
       </Column>
       <Column>
-        <h3>4.a) SPOSTATI DI UN ESAGONO</h3>
+        <h3>4.a) Muévete un hexágono</h3>
       </Column>
     </Row>
     <Row>
@@ -2252,10 +2231,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se non ti trovi in un bunker, hai l’opzione di spostarti di un
-          esagono. Posiziona il tuo golfista su uno degli esagoni adiacenti. Non
-          puoi spostarti su un esagono che ha un ostacolo alberato o fuori dal
-          tabellone. Vedi “OSTACOLI E ALTRE CASELLE” a pagina 15.
+          A menos que estés en un búnker, tienes la opción de moverte un
+          hexágono. Pon a tu golfista en uno de los hexágonos adyacentes. No
+          puedes moverte a un hexágono con un hazard de árbol o fuera del
+          tablero. Ver &quot;HAZARDS Y OTRAS PIEZAS&quot; en la página 15.
         </p>
       </Column>
     </Row>
@@ -2272,7 +2251,7 @@ const Content = () => (
         <h3>4.b) PLAY CLUB CARD</h3>
       </Column>
       <Column>
-        <h3>4.b) GIOCA LA CARTA MAZZA</h3>
+        <h3>4.b) JUGAR CARTA DE PALO</h3>
       </Column>
     </Row>
     <Row>
@@ -2282,7 +2261,7 @@ const Content = () => (
         </p>
       </Column>
       <Column>
-        <p>A seconda della mazza, potrai fare una delle seguenti cose:</p>
+        <p>Dependiendo del palo, podrás hacer una de las siguientes cosas:</p>
       </Column>
     </Row>
     <Row>
@@ -2298,7 +2277,7 @@ const Content = () => (
         <ul>Draw 1 card from the shot deck shown on the card</ul>
       </Column>
       <Column>
-        <ul>Pesca 1 carta dal mazzo tiro mostrato sulla carta</ul>
+        <ul>Saca una carta del mazo de tiros que se muestra en la carta</ul>
       </Column>
     </Row>
     <Row>
@@ -2306,7 +2285,9 @@ const Content = () => (
         <ul>Draw 1 card from one of two shot decks shown</ul>
       </Column>
       <Column>
-        <ul>Pesca 1 carta da uno dei due mazzi tiro mostrati</ul>
+        <ul>
+          Saca una carta de uno de los dos mazos de tiros que se muestran{' '}
+        </ul>
       </Column>
     </Row>
     <Row>
@@ -2314,7 +2295,7 @@ const Content = () => (
         <ul>Draw 2 cards from the shot deck shown on the card</ul>
       </Column>
       <Column>
-        <ul>Pesca 2 carte dal mazzo tiro mostrato sulla carta</ul>
+        <ul>Saca 2 cartas del mazo de tiros que se muestra en la carta</ul>
       </Column>
     </Row>
     <Row>
@@ -2322,7 +2303,7 @@ const Content = () => (
         <ul>Move your golfer the number of hexes in a straight line</ul>
       </Column>
       <Column>
-        <ul>Sposta il tuo golfista del numero di esagoni in linea retta</ul>
+        <ul>Mueve tu golfista el número de hexágonos en línea recta</ul>
       </Column>
     </Row>
     <Row>
@@ -2342,8 +2323,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Scritta su ciascuna mazza troverai la tua opzione. Giocare una carta
-          mazza coinvolge tre fasi: pescare, decidere, muovere.
+          La opción que tienes está escrita en cada palo. Jugar una carta de
+          palo implica tres pasos: robar, decidir, mover.
         </p>
       </Column>
     </Row>
@@ -2367,12 +2348,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Per la maggior parte delle mazze, peschi le tue carte tiro, decidi in
-          quale direzione colpire e poi sposti il tuo golfista, in quest’ordine.
-          Quando peschi dal mazzo chip, devi decidere la direzione prima di
-          pesca una carta. Vedi “CHIPPING” a pagina 13. Quando giochi un legno,
-          non peschi alcuna carta poiché la tua mazza muove sempre di una
-          distanza fissa in linea retta.
+          Para la mayoría de los palos, sacas tus cartas de tiros, decides en
+          qué dirección golpear y luego mueves tu golfista en ese orden. Cuando
+          se saca de la baraja de chip, hay que decidir la dirección antes de
+          sacar una carta. Ver &quot;CHIPEAR&quot; en la página 13. Cuando se
+          juega una madera, no se sacan cartas, ya que el palo siempre se mueve
+          a una distancia determinada en línea recta.
         </p>
       </Column>
     </Row>
@@ -2389,7 +2370,7 @@ const Content = () => (
         <h4>Draw A Single Shot Card</h4>
       </Column>
       <Column>
-        <h4>PESCARE UNA CARTA TIRO SINGOLA</h4>
+        <h4>Saca una carta de un solo tiro</h4>
       </Column>
     </Row>
     <Row>
@@ -2402,9 +2383,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          La maggior parte delle mazze ti permette di pescare una carta da un
-          mazzo tiro singolo. Alcune mazze offrono diversi mazzi fra cui
-          scegliere, ma puoi comunque pescare solo una carta.
+          La mayoría de los palos te permiten sacar una carta de un mazo de un
+          solo tiro. Algunos palos te dan varios mazos para elegir, pero aun así
+          solo puedes robar una carta.
         </p>
       </Column>
     </Row>
@@ -2428,11 +2409,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Seleziona il mazzo e pesca la prima carta. Se la carta pescata ha
-          degli effetti speciali (super, short o shuffle), allora segui le
-          istruzioni scritte sulla carta tiro. Posiziona ogni carta tiro
-          aggiuntiva che peschi in cima a quella precedente. Una volta finito di
-          pescare, usa la carta tiro per capire dove spostare il tuo golfista.
+          Escoge el mazo y saca la carta de arriba. Si la carta que se ha sacado
+          tiene efectos especiales (super, corto o barajado), entonces sigue las
+          instrucciones escritas en la carta de tiro. Coloca cada carta de tiro
+          adicional que saques encima de la anterior. Una vez que hayas
+          terminado de robar, usa la carta de tiro para saber adónde mover tu
+          golfista.
         </p>
       </Column>
     </Row>
@@ -2453,8 +2435,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Per maggiori informazioni sulle carte speciali, vedi “SUPER, SHORT,
-          SHUFFLE E WILD CARD” a pagina 14.
+          Para más información sobre las cartas especiales, ver &quot;CARTAS
+          SUPER, CORTA, DE BARAJADO Y COMODINES&quot; en la página 14.
         </p>
       </Column>
     </Row>
@@ -2476,9 +2458,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se il mazzo è vuoto ogniqualvolta che devi pescare, mescola la pila
-          degli scarti e girala per formare un nuovo mazzo. Non mescolare le
-          carte che hai pescato questo turno nel nuovo mazzo.
+          Si la baraja está vacía cuando tengas que robar, baraja el montón de
+          descartes y dale la vuelta para formar un nuevo mazo. No barajes las
+          cartas que sacaste este turno en el nuevo mazo.
         </p>
       </Column>
     </Row>
@@ -2499,8 +2481,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se giochi con Lucky puoi eseguire la tua abilità di pescare una carta
-          a questo punto.
+          Si juegas con Lucky puedes lanzar tu habilidad y volver a sacar una
+          carta en este punto.
         </p>
       </Column>
     </Row>
@@ -2517,7 +2499,7 @@ const Content = () => (
         <h4>Drawing Multiple Shot Cards</h4>
       </Column>
       <Column>
-        <h4>Pescare Carte Tiro Multiple</h4>
+        <h4>Robando cartas de múltiples tiros</h4>
       </Column>
     </Row>
     <Row>
@@ -2529,8 +2511,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando peschi 2 carte tiro, puoi scegliere quale delle carte tiro vuoi
-          usare.
+          Al robar dos cartas de tiro, puedes elegir cuál de las cartas de tiro
+          quieres usar.
         </p>
       </Column>
     </Row>
@@ -2555,12 +2537,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Posiziona le carte tiro fianco a fianco. Se una delle carte tiro ti
-          chiede di pescare altre carte (super, short, shuffle), puoi scegliere
-          di seguire le istruzioni su quelle carte e posizionare le nuove carte
-          sulla carta che richiede di pescare. Quando hai finito di pescare,
-          devi scegliere una fra le carte visibili. Usa la carta selezionata per
-          muovere il tuo golfista.
+          Coloca cada carta de tiro una al lado de la otra. Si una de las cartas
+          de tiro te pide que saques más cartas (super, corto, barajado), puedes
+          elegir seguir las instrucciones de esas cartas y colocar las nuevas
+          cartas sobre la que requirió robar carta. Cuando termines de robar,
+          debes elegir una de las cartas superiores visibles. Usas la carta
+          seleccionada para mover a tu golfista.
         </p>
       </Column>
     </Row>
@@ -2586,8 +2568,8 @@ const Content = () => (
         choose one of the top two visible cards.
       </Column>
       <Column>
-        Nell’esempio sotto, Gustav finisce per pescare 3 carte tiro. Deve
-        scegliere una delle due carte visibili in cima.
+        En el siguiente ejemplo, Gustav ha terminado sacando 3 cartas de tiro.
+        Debes elegir una de las dos cartas visibles de arriba.
       </Column>
     </Row>
     <Row>
@@ -2603,7 +2585,7 @@ const Content = () => (
         <h1>Playing a round & Big Hits</h1>
       </Column>
       <Column>
-        <h1>Giocare un Round & Big Hit</h1>
+        <h1>Jugando una ronda y grandes golpes</h1>
       </Column>
     </Row>
     <Row>
@@ -2619,7 +2601,7 @@ const Content = () => (
         <h4>Move Your Golfer</h4>
       </Column>
       <Column>
-        <h4>SPOSTA IL TUO GOLFISTA</h4>
+        <h4>Mueve a tu golfista</h4>
       </Column>
     </Row>
     <Row>
@@ -2634,11 +2616,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il piano di volo mostrato sulla tua carta tiro indica il viaggio della
-          pallina. L’icona del golfista sulla carta tiro rappresenta dove si
-          trova il golfista all’inizio del tiro. Sposta il tuo golfista lungo
-          gli esagoni numerati fino a raggiungere l’esagono conclusivo
-          arancione. Non devi colpirlo verso il green o lungo il fairway.
+          El plan de vuelo que aparece en tu carta de tiro indica el recorrido
+          de la bola. El icono del golfista en la carta de tiro es donde tu
+          golfista está al comienzo del tiro. Mueve a tu golfista por los
+          hexágonos numerados hasta llegar al hexágono final naranja. No tienes
+          que golpearlo hacia el green o a lo largo de la calle.
         </p>
       </Column>
     </Row>
@@ -2660,10 +2642,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se il tuo piano di volo viaggia attraverso un esagono con degli alberi
-          circondati da steccato, allora devi fermarti prima di entrare in
-          qualsiasi esagono con gli alberi. Tua pallina ha colpito gli alberi e
-          si è fermata.
+          Si tu plan de vuelo pasa por un hexágono con árboles cercados, debes
+          detenerte antes de entrar en cualquier hexágono con los árboles. Tu
+          bola ha golpeado los árboles y se ha detenido.
         </p>
       </Column>
     </Row>
@@ -2684,8 +2665,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se atterri su un ostacolo (bunker, lago), allora segui le regole della
-          pagina “PERICOLI E ALTRE CASELLE” a pagina 15.
+          Si aterrizaste en un hazard (búnker, lago), sigue las reglas de la
+          página &quot;Hazards y otras piezas&quot; en la página 15.
         </p>
       </Column>
     </Row>
@@ -2706,8 +2687,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se hai iniziato il tuo turno nell’esagono del rough (destra), vedi:
-          “GIOCARE DAL ROUGH” a pagina 12.
+          Si comenzaste tu turno en el hexágono rough (derecha), ve:
+          &quot;JUGANDO DESDE EL ROUGH&quot; en la página 12.
         </p>
       </Column>
     </Row>
@@ -2724,7 +2705,7 @@ const Content = () => (
         <h4>Changing your mind</h4>
       </Column>
       <Column>
-        <h4>Cambiare idea</h4>
+        <h4>Cambio de opinión</h4>
       </Column>
     </Row>
     <Row>
@@ -2736,8 +2717,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se non hai tolto il dito dal golfista, puoi alterare la direzione in
-          cui colpisci la pallina.
+          Si no has quitado el dedo de tu golfista, puedes alterar la dirección
+          en la que has golpeado la bola.
         </p>
       </Column>
     </Row>
@@ -2767,12 +2748,12 @@ const Content = () => (
         turn.
       </Column>
       <Column>
-        Clare si trova in una posizione in cui non può raggiungere il green con
-        un colpo. Gioca un Ferro 2 e pesca una singola carta dal mazzo tiro 4.
-        La carta tiro pescata piega verso sinistra. La sua opzione migliore è di
-        colpire fuori dal percorso e usare la forma del tiro per attirare oltre
-        l’ostacolo d’acqua adiacente al green, in una posizione eccellente per
-        il suo prossimo turno.
+        Clare se encuentra en una posición en la que no puede llegar al green de
+        un solo golpe. Juega un 2 Icono y saca una sola carta del mazo de tiros
+        4. La carta de tiro sacada se dobla hacia la izquierda. Tu mejor opción
+        es golpear fuera de campo y usar la forma del tiro para aterrizar más
+        allá del hazard de agua adyacente al green, en una excelente posición
+        para tu próximo giro.
       </Column>
     </Row>
     <Row>
@@ -2804,7 +2785,7 @@ const Content = () => (
         <h3>4.c) ATTEMPT A BIG HIT</h3>
       </Column>
       <Column>
-        <h3>4.c) PROVARE Un BIG HIT</h3>
+        <h3>4.c) INTENTAR UN GRAN GOLPE</h3>
       </Column>
     </Row>
     <Row>
@@ -2819,12 +2800,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Qualche volta ti serve più distanza. Puoi colpire con la tua mazza più
-          lontano rispetto alle opzioni visualizzate sulla carta mazza. Per
-          farlo, nel tuo turno, annuncia al gruppo che stai per eseguire un BIG
-          HIT. Ora puoi pescare una carta in più del solito, e tutte le carte
-          devono provenire dal mazzo di un livello superiore rispetto al mazzo
-          dal numero più alto mostrato sulla tua carta mazza.
+          A veces necesitas más distancia. Puedes golpear tu palo más allá de
+          las opciones que aparecen en la carta del palo. Para ello, en tu
+          turno, anuncia al grupo que vas a realizar un GRAN GOLPE. Ahora coge
+          una carta más de lo habitual, y todas las cartas deben ser de un mazo
+          mayor que el mazo más alto que se muestra en tu carta de palos
         </p>
       </Column>
     </Row>
@@ -2846,9 +2826,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Dopo aver estratto le carte, passale al giocatore la tua sinistra.
-          Questi scarterà tutte le carte tiro. Delle carte che rimangono, tu ne
-          scegli una da giocare.
+          Después de que hayas sacado tus cartas, dáselas al jugador de tu
+          izquierda. Descartan una de las cartas de tiro. De las cartas que
+          quedan, eliges una para jugar.
         </p>
       </Column>
     </Row>
@@ -2870,10 +2850,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Qualsiasi carta super, short, o reshuffle viene giocata come al
-          solito. Una super significa che il tuo Big Hit è ancora più grosso o
-          del previsto e una short è molto probabile che ti deluderà proprio
-          quando ti serve di più.
+          Cualquier carta super, corta o de volver a barajar se juega como de
+          costumbre. Una Super significa que tu Gran Golpe es aún más grande de
+          lo esperado y una Corta probablemente te decepcionará durante tu
+          tiempo de gran necesidad.
         </p>
       </Column>
     </Row>
@@ -2897,11 +2877,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Non tutte le mazze ti permettono di tentare un big hit, ad esempio, le
-          mazze che pescano già dal mazzo 5. Nell’angolo in alto di ogni mazza
-          si trova un simbolo che indica se puoi usarla per un big hit.
-          Nell’esempio sotto, il driver ha un’icona No Big Hit mentre il Ferro 9
-          mostra che puoi fare un Big Hit.
+          No todos los palos permiten intentar un gran golpe, por ejemplo, los
+          palos que se sacan del mazo de tiros 5. En la esquina superior de cada
+          palo hay un símbolo que indica si puedes usarlo para un gran golpe. En
+          el siguiente ejemplo, el Driver tiene un icono de No Gran Golpe
+          mientras que el Hierro 9 muestra que puedes hacer un Gran Golpe.
         </p>
       </Column>
     </Row>
@@ -2918,7 +2898,7 @@ const Content = () => (
         <h3>Big Hits</h3>
       </Column>
       <Column>
-        <h3>Big Hit</h3>
+        <h3>Grandes Golpes</h3>
       </Column>
     </Row>
     <Row>
@@ -2932,11 +2912,11 @@ const Content = () => (
       </Column>
       <Column>
         {' '}
-        Se la tua mazza permette di pescare dai mazzi tiro 3 e 4, allora puoi
-        pescare 2 carte dal mazzo tiro 5. Non puoi pescare due carte dal mazzo
-        tiro 4. Se la tua carta mazza ti permette di pescare 2 carte, allora
-        devi pescare 3 carte. In questo caso l’altro giocatore ne scarterà 1 e
-        tu sceglierai fra le 2 rimaste.
+        Si tu palo te permite robar de los mazos de tiro 3 y 4, entonces puedes
+        robar dos cartas del mazo de tiro 5. No puedes robar dos cartas del mazo
+        de tiro 4. Si tu carta de palos te permite sacar 2 cartas, entonces
+        debes robar 3 cartas. En este caso, el otro jugador descartará 1 y tú
+        elegirás de los 2 restantes.
       </Column>
     </Row>
     <Row>
@@ -2952,7 +2932,7 @@ const Content = () => (
         <h1>EXITING BUNKERS, GREENS AND WINNING</h1>
       </Column>
       <Column>
-        <h1>USCIRE DA BUNKER, GREEN E VINCERE</h1>
+        <h1>SALIR DE BUNKERS, GREENS Y GANAR</h1>
       </Column>
     </Row>
     <Row>
@@ -2968,7 +2948,7 @@ const Content = () => (
         <h3>4.D) EXIT BUNKER</h3>
       </Column>
       <Column>
-        <h3>4.D) USCIRE DAI BUNKER</h3>
+        <h3>4.D) SALIR DE BUNKERS</h3>
       </Column>
     </Row>
     <Row>
@@ -2982,11 +2962,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando atterri in un bunker, devi uscirne prima di poter continuare a
-          giocare. Prima di pescare una carta tiro, devi decidere la direzione
-          in cui speri di muoverti. Questa regola è la stessa del chipping (vedi
-          “CHIPPING” a pagina 13). L’esagono su cui hai scelto di muoverti è il
-          tuo esagono obiettivo.
+          Cuando caes en un búnker, debes salir antes de continuar el juego.
+          Antes de robar una carta de tiro, debes decidir la dirección en la que
+          esperas moverte. Esta regla es la misma que la de chipear (ver
+          &quot;CHIPEAR&quot; en la página 13). El hexágono al que elegiste
+          moverte es tu hexágono objetivo.
         </p>
       </Column>
     </Row>
@@ -3008,9 +2988,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Pesca una singola carta tiro da uno dei mazzi mostrati sulla carta.
-          Invece di guardare il percorso di volo della carta tiro, guarda
-          l’icona di risultato bunker nell’angolo in basso a destra
+          Sacas una carta de un solo tiro de uno de los mazos que se muestran en
+          la carta. En lugar de mirar la trayectoria de vuelo de la carta de
+          tiro, mira el icono del resultado del búnker en la esquina inferior
+          derecha.
         </p>
       </Column>
     </Row>
@@ -3030,8 +3011,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ci sono quattro risultati, mostrati sotto. Da sinistra a destra
-          abbiamo:
+          A continuación, se muestran cuatro resultados. De izquierda a derecha
+          son estos:
         </p>
       </Column>
     </Row>
@@ -3048,7 +3029,7 @@ const Content = () => (
         <ul>remain in the bunker</ul>
       </Column>
       <Column>
-        <ul>Rimani nel bunker.</ul>
+        <ul></ul>
       </Column>
     </Row>
     <Row>
@@ -3056,7 +3037,7 @@ const Content = () => (
         <ul>move to the left of your target hex</ul>
       </Column>
       <Column>
-        <ul>Spostati a sinistra del tuo esagono obiettivo.</ul>
+        <ul>permanece en el búnker</ul>
       </Column>
     </Row>
     <Row>
@@ -3064,7 +3045,10 @@ const Content = () => (
         <ul>move to your target hex</ul>
       </Column>
       <Column>
-        <ul>Spostati sul tuo esagono obiettivo.</ul>
+        <ul>
+          moverte a la izquierda de tu hexágono objetivo moverte a tu hexágono
+          objetivo
+        </ul>
       </Column>
     </Row>
     <Row>
@@ -3072,7 +3056,7 @@ const Content = () => (
         <ul>move to the right of your target hex</ul>
       </Column>
       <Column>
-        <ul>Spostati a destra del tuo esagono obiettivo.</ul>
+        <ul>moverte a la derecha de tu hexágono objetivo</ul>
       </Column>
     </Row>
     <Row>
@@ -3100,8 +3084,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se esci dal bunker, sposta il tuo golfista nell’esagono determinato
-          dall’icona bunker.
+          Si sales del búnker, mueve a tu golfista al hexágono determinado por
+          el icono del búnker.
         </p>
       </Column>
     </Row>
@@ -3124,10 +3108,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se la mazza che hai scelto di giocare è il sand wedge, considera il
-          bunker come rough. Non devi eseguire l’azione di uscita dal bunker. Se
-          il sand wedge si trova nella tua mano o nella pila degli scarti, non
-          ti protegge dai bunker.
+          Cuando el palo que has elegido para jugar es el sand wedge, consideras
+          el búnker como rough. No es necesario realizar la acción de salir del
+          búnker. Tener el sand wedge en la mano o tu montón de cartas
+          descartadas, no te protege de los bunkers.
         </p>
       </Column>
     </Row>
@@ -3155,10 +3139,10 @@ const Content = () => (
         and moves to the right (B) of the direction he declared.
       </Column>
       <Column>
-        Sebastian si trova in un bunker (A). Dichiara di colpire verso il green
-        (freccia). Pesca una carta tiro, il risultato bunker rivelato mostra che
-        la pallina va a destra. Segue l’icona bunker e si sposta a destra (B)
-        della direzione da lui dichiarata.
+        Sebastián se encuentra en un búnker (A). Declara que va a golpear hacia
+        el green (flecha). Saca una carta de tiro, y el resultado revelado del
+        búnker muestra que la bola va hacia la derecha. Sigue el icono del
+        búnker y se mueve a la derecha (B) de la dirección que declaró.
       </Column>
     </Row>
     <Row>
@@ -3182,7 +3166,7 @@ const Content = () => (
         <h3>4.e) RESET YOUR HAND</h3>
       </Column>
       <Column>
-        <h3>4.e) AZZERA LA TUA MANO</h3>
+        <h3>4.e) RESETEAR TU MANO</h3>
       </Column>
     </Row>
     <Row>
@@ -3195,9 +3179,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Puoi scegliere di non colpire la pallina e azzerare la tua mano.
-          Riporta tutte le mazze scartate nella tua mano. Se giochi con il lato
-          A di Dorian, non puoi azzerare la tua mano a questo punto.
+          Puedes elegir no golpear la bola y resetear tu mano. Devuelve todos
+          tus palos descartados a tu mano. Si estás jugando el lado A de Dorian,
+          no puedes resetear tu mano en este momento.
         </p>
       </Column>
     </Row>
@@ -3214,7 +3198,7 @@ const Content = () => (
         <h3>5. Discard Club</h3>
       </Column>
       <Column>
-        <h3>5. SCARTA LA MAZZA</h3>
+        <h3>5. Descarte de palos</h3>
       </Column>
     </Row>
     <Row>
@@ -3228,11 +3212,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il tuo turno termina qui. Metti la mazza che hai usato nella pila
-          degli scarti. Se giochi una carta che non scade mai, riprendila in
-          mano, ad esempio il driver di Slugger o la mazza del lato A di Dorian.
-          Se giochi con il lato B di Slick Rikesh o il lato B di Dorian, salta
-          questa fase.
+          Tu turno termina aquí. Coloca el palo que usaste en tu montón de
+          descartes. Si juegas una carta que nunca expira, devuélvela a tu mano.
+          P. ej., Driver de slugger o palo de Dorian con lado A. Si estás
+          jugando el lado B de Slick Rikesh o el lado B de Dorian, salta este
+          paso.
         </p>
       </Column>
     </Row>
@@ -3249,7 +3233,7 @@ const Content = () => (
         <h2>Reaching the Green</h2>
       </Column>
       <Column>
-        <h2>RAGGIUNGERE IL GREEN</h2>
+        <h2>Alcanzando el Green</h2>
       </Column>
     </Row>
     <Row>
@@ -3257,7 +3241,7 @@ const Content = () => (
         <h3>6. SCORE FLAGS</h3>
       </Column>
       <Column>
-        <h3>6. PRENDERE LE BANDIERINE</h3>
+        <h3>6. GANAR BANDERAS</h3>
       </Column>
     </Row>
     <Row>
@@ -3270,9 +3254,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando un giocatore raggiunge il green, prende la bandierina. Se
-          diversi giocatori raggiungono il green nello stesso round, allora un
-          giocatore prende la bandierina e gli altri un segnalino da 1 punto.
+          Cuando un jugador llega al green, toma la bandera. Si varios jugadores
+          llegan al green en la misma ronda, un jugador se lleva la bandera y
+          los demás una ficha de 1 punto.
         </p>
       </Column>
     </Row>
@@ -3289,7 +3273,7 @@ const Content = () => (
         <h3>7. Score Hole-in-one TOKENS</h3>
       </Column>
       <Column>
-        <h3>7. PRENDERE I SEGNALINI ACE</h3>
+        <h3>7. FICHAS de puntuación &quot;hoyo en uno&quot;</h3>
       </Column>
     </Row>
     <Row>
@@ -3302,9 +3286,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se hai messo a segno un Ace, allora prendi un segnalino Ace. Metti a
-          segno un Ace nel tuo primo turno per la buca quando colpisci dal tee
-          box e atterri sul green.
+          Si anotaste un hoyo en uno, toma una ficha de hoyo en uno. Un hoyo en
+          uno se anota en tu primer turno del hoyo cuando golpeas desde el tee
+          de salida y caes en el green.
         </p>
       </Column>
     </Row>
@@ -3321,7 +3305,7 @@ const Content = () => (
         <h3>8. MOVE TO THE NEXT HOLE</h3>
       </Column>
       <Column>
-        <h3>8. SPOSTATI ALLA BUCA SEGUENTE</h3>
+        <h3>8. PASAR AL SIGUIENTE HOYO</h3>
       </Column>
     </Row>
     <Row>
@@ -3333,8 +3317,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Dopo che i giocatori hanno ricevuto i segnalini green, sposta tutti i
-          giocatori al tee box della buca successiva.
+          Después de que los jugadores hayan recibido sus fichas verdes, mueven
+          a todos los jugadores al tee de salida del siguiente hoyo.
         </p>
       </Column>
     </Row>
@@ -3351,7 +3335,7 @@ const Content = () => (
         <h3>9. REMOVE ANY HAZARD EFFECTS</h3>
       </Column>
       <Column>
-        <h3>9. RIMUOVI OGNI EFFETTO DEI PERICOLI</h3>
+        <h3>9. ELIMINAR CUALQUIER EFECTO DE HAZARD</h3>
       </Column>
     </Row>
     <Row>
@@ -3363,8 +3347,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni giocatore che stava per perdere un turno a causa di un ostacolo
-          d’acqua, vede venire rimosso questo stato.
+          A los jugadores que estaban a punto de perder un turno debido a un
+          hazard de agua se les quita este estatus.
         </p>
       </Column>
     </Row>
@@ -3381,7 +3365,7 @@ const Content = () => (
         <h2>Winning the Game</h2>
       </Column>
       <Column>
-        <h2>Vincere la Partita</h2>
+        <h2>Ganar el juego</h2>
       </Column>
     </Row>
     <Row>
@@ -3394,9 +3378,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Alla fine del percorso, ogni giocatore conta il numero di segnalini
-          bandierina e segnalini da 1 punto in suo possesso. Ogni bandierina e
-          segnalinino vale 1 punto. Il giocatore con più punti vince.
+          Al final del campo, cada jugador cuenta la cantidad de banderas y
+          fichas de 1 punto que tiene. Cada bandera y ficha vale un punto. El
+          jugador con más puntos gana.
         </p>
       </Column>
     </Row>
@@ -3418,9 +3402,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          In caso di pareggio, conta i segnalini Ace. Il giocatore con il
-          maggior numero di segnalini Ace vince il tie-break. I giocatori sono
-          ancora alla pari, quei giocatori condividono la vittoria.
+          En caso de empate, se cuentan las fichas de &quot;hoyo en uno&quot;.
+          El jugador con más fichas de hoyo en uno gana el empate. Si los
+          jugadores siguen empatados, esos jugadores comparten la victoria.
         </p>
       </Column>
     </Row>
@@ -3437,7 +3421,7 @@ const Content = () => (
         <h1>PLAYING FROM THE ROUGH</h1>
       </Column>
       <Column>
-        <h1>GIOCARE DAL ROUGH</h1>
+        <h1>JUGANDO DESDE EL ROUGH</h1>
       </Column>
     </Row>
     <Row>
@@ -3457,8 +3441,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando inizi il turno su una casella rough, il tuo tiro viaggia di una
-          distanza ridotta.
+          Cuando empiezas tu turno en una pieza rough, tu tiro viaja una
+          distancia reducida.
         </p>
       </Column>
     </Row>
@@ -3480,10 +3464,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Per le mazze che si spostano di una distanza fissa (legni), questo è
-          rappresentato da un secondo esagono sulla tua mazza con il simbolo
-          rough. Sotto: il legno 5 si sposta di 2 esagoni quando giocato dal
-          rough e di 3 da un fairway.
+          Para los palos que van a una distancia fija (maderas), esto se
+          representa por un segundo hexágono en tu palo con un símbolo de rough.
+          Abajo: el Madera 5 va 2 hexágonos cuando se juega desde el rough y 3
+          desde una calle.
         </p>
       </Column>
     </Row>
@@ -3505,9 +3489,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Per le mazze che pescano dai mazzi tiro, c’è un simbolo rough sulla
-          tua carta tiro (vedi a destra). Usa questo al posto dell’esagono
-          arancio quando determini la destinazione finale del tuo golfista.
+          Para los palos que se sacan de los mazos de tiro, hay un símbolo de
+          rough en la carta de tiro (ver derecha). Usa esto en lugar del
+          hexágono naranja para determinar el destino final de tu golfista.
         </p>
       </Column>
     </Row>
@@ -3531,12 +3515,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il rough viene considerato o come qualsiasi casella che non ha un
-          fairway sopra. Un ostacolo d’acqua è ritenuto essere rough (dopo che
-          hai saltato un turno). Un ostacolo d’acqua su un fairway (“ OSTACOLI E
-          ALTRE CASELLE” a pagina 15) è considerato fairway. La maggior parte di
-          uno percorso golfistico è rough. Un consiglio generale è di starci
-          alla larga.
+          Se considera rough a cualquier pieza que no tenga calle. Se considera
+          que un hazard de agua es rough (después de haber perdido el turno). Un
+          hazard de agua en una calle (&quot;Hazards y otras piezas&quot; en la
+          página 15) se considera calle. La mayor parte de un campo de golf es
+          rough. El consejo general es que no te metas en esto.
         </p>
       </Column>
     </Row>
@@ -3557,8 +3540,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Tutte le mazze ibride (Ibrida 3, Ibrida 5 e Ibrida 8) non soffrono
-          penalità quando si colpisce dal rough.
+          Ningún palo híbrido (Híbrido 3, Híbrido 5 e Híbrido 8) sufre
+          penalizaciones al golpear desde el rough.
         </p>
       </Column>
     </Row>
@@ -3580,9 +3563,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Tutte le carte tiro pescate dal mazzo chip non soffrono penalità
-          quando si colpisce dal rough. Non ci sono simboli rough su queste
-          carte (viaggiano sempre di 2 esagoni).
+          Todas las cartas de tiro sacadas de la baraja de chip no sufren
+          penalizaciones cuando se golpea desde el rough. No hay símbolos de
+          rough en estas cartas (siempre se mueve 2 hexágonos).
         </p>
       </Column>
     </Row>
@@ -3613,14 +3596,13 @@ const Content = () => (
         fairway–a good position for her next shot.
       </Column>
       <Column>
-        Mackenzie (dischetto bianco) si trova nel rough. Gioca un Ferro 2, e
-        questo le permette di pescare dal Mazzo Tiro 4. La carta tiro curva
-        verso sinistra. Quando traccia il suo movimento, usa il simbolo rough
-        sulla carta tiro per delinearlo. A causa della distanza ridotta, si
-        sposta di due esagoni in avanti e poi di uno a sinistra per atterrare
-        dove mostra il contrassegno rough sulla carta tiro. In questo esempio, è
-        atterrata nuovamente sul fairway– una buona posizione per il suo
-        prossimo tiro.
+        Mackenzie (disco blanco) se encuentra en el rough. Juega con un Hierro
+        2, y eso le permite sacar del Mazo de Tiros 4. La carta de tiro se curva
+        hacia la izquierda. Al trazar su movimiento, utiliza el símbolo de la
+        carta de tiro para resolverlo. Debido a la reducida distancia, mueve dos
+        hexágonos en línea recta y luego uno a la izquierda para caer donde se
+        muestra el marcador del rough de la carta de tiro. En este ejemplo, ha
+        caído de nuevo en la calle, una buena posición para su próximo tiro.
       </Column>
     </Row>
     <Row>
@@ -3644,7 +3626,7 @@ const Content = () => (
         <h1>Chipping</h1>
       </Column>
       <Column>
-        <h1>Chipping</h1>
+        <h1>Chipear</h1>
       </Column>
     </Row>
     <Row>
@@ -3666,10 +3648,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il mazzo chip è diverso dagli altri mazzi tiro. Queste carte tiro
-          danno la possibilità di passare sopra gli alberi, non soffrono della
-          penalità rough, e hanno una limitazione. Devi dichiarare la direzione
-          in cui vuoi fare chip prima di pescare qualsiasi carta.
+          El mazo de chip es diferente de los otros mazos de tiro. Estas cartas
+          de tiro te dan la opción de pasar por encima de los árboles, no sufren
+          penalización de rough y vienen con una restricción. Tienes que
+          declarar la dirección en la que vas a chipear antes de robar otra
+          carta.
         </p>
       </Column>
     </Row>
@@ -3686,7 +3669,7 @@ const Content = () => (
         <h2>Declare a direction</h2>
       </Column>
       <Column>
-        <h2>DICHIARARE UNA DIREZIONE</h2>
+        <h2>Declarar una dirección</h2>
       </Column>
     </Row>
     <Row>
@@ -3700,11 +3683,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Questa regola significa che devi scegliere una qualsiasi delle sei
-          direzioni che lasciano l’esagono e comunicarla agli altri giocatori.
-          Puoi descriverla dicendo qualcosa del tipo “Colpisco verso l’acqua”
-          oppure indicare con il dito. Non puoi cambiarle la direzione dopo aver
-          pescato una carta tiro.
+          Esta regla significa elegir cualquiera de las seis direcciones que
+          salen del hexágono e informar a los demás jugadores. Puedes
+          describirlo: &quot;golpeo hacia el agua&quot; o señalarlo. No puedes
+          cambiar de dirección después de haber sacado una carta de tiro.
         </p>
       </Column>
     </Row>
@@ -3721,7 +3703,7 @@ const Content = () => (
         <h2>Draw Shot Cards</h2>
       </Column>
       <Column>
-        <h2>PESCARE CARTE TIRO</h2>
+        <h2>Robar cartas de tiro</h2>
       </Column>
     </Row>
     <Row>
@@ -3732,7 +3714,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Una volta dichiarata la direzione peschi le tue carte come al solito.
+          Una vez que hayas declarado tu dirección, robas tus cartas como de
+          costumbre.
         </p>
       </Column>
     </Row>
@@ -3749,7 +3732,7 @@ const Content = () => (
         <h2>Move Your Golfer</h2>
       </Column>
       <Column>
-        <h2>SPOSTARE IL GOLFISTA</h2>
+        <h2>Mueve a tu golfista</h2>
       </Column>
     </Row>
     <Row>
@@ -3762,9 +3745,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          La differenza principale con la fase di spostamento del tuo golfista è
-          che tu hai dichiarato in quale direzione colpisci la pallina. Sposta
-          il tuo golfista come al solito con un’eccezione.
+          El principal cambio en el movimiento de tu golfista es que ya has
+          declarado en qué dirección vas a golpear la bola. Mueve a tu golfista
+          como de costumbre con una excepción.
         </p>
       </Column>
     </Row>
@@ -3788,12 +3771,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se l’esagono adiacente al tuo golfista è un albero, tu ci passi sopra
-          con il chip e atterri sull’esagono di destinazione arancione. Non puoi
-          comunque atterrare sugli alberi, se il tuo esagono obiettivo è un
-          ostacolo alberato, allora atterri sull’esagono su cui saresti finito
-          con il chip. Se anche questo è un ostacolo alberato, il tuo golfista
-          non si muove.
+          Si el hexágono adyacente a tu golfista es un árbol, chipeas sobre él y
+          caes en el hexágono naranja de destino. Todavía no puedes caer en los
+          árboles, si tu hexágono objetivo es un hazard de árboles, entonces
+          caes en el hexágono sobre el que habrías chipeado. Si también es un
+          hazard de árboles, tu golfista no se mueve.
         </p>
       </Column>
     </Row>
@@ -3814,8 +3796,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il Lob Wedge è una mazza unica nel senso che non devi dichiarare la
-          direzione della pallina prima di colpirla.
+          El lob wedge es un palo único en el que no necesitas declarar la
+          dirección en la que vas a golpear la bola antes de jugarla.
         </p>
       </Column>
     </Row>
@@ -3846,14 +3828,13 @@ const Content = () => (
         an excellent position for their next shot.
       </Column>
       <Column>
-        Brock si trova in una posizione strana con gli altri che bloccano il
-        progresso verso il fairway. Gioca il suo fidato ferro 9 e punta verso la
-        casella in cui intende fare chip (freccia). È una giocata sicura poiché
-        la maggior parte delle carte del mazzo chip lo farà arrivare sul
-        fairway. Poi estrae una seconda carta tiro dal mazzo chip per vedere che
-        cosa ha in serbo per lui il fato. La cosa lo ripaga, e ottiene una carta
-        tiro che vira a destra riportandolo sul fairway e in posizione
-        eccellente per il prossimo tiro.
+        Brock se encuentra en una posición incómoda con árboles que bloquean el
+        progreso en la calle. Juegan con su fiel hierro 9 y señala la pieza a la
+        que pretende chipear (flecha). Es un juego seguro, ya que la mayoría de
+        las cartas de la baraja de chip, le pondrá en la calle. Luego, sacan una
+        carta de tiro para ver qué les ha deparado el destino. Vale la pena, y
+        obtienen una carta de tiro que deriva a la derecha y los pone de nuevo
+        en la calle y en una posición excelente para su próximo tiro.
       </Column>
     </Row>
     <Row>
@@ -3885,7 +3866,7 @@ const Content = () => (
         <h1>SUPER, SHORT, SHUFFLE AND WILD CARDS</h1>
       </Column>
       <Column>
-        <h1>SUPER, SHORT, SHUFFLE E WILD CARD</h1>
+        <h1>CARTAS SUPER, CORTA, DE BARAJADO Y COMODINES</h1>
       </Column>
     </Row>
     <Row>
@@ -3901,7 +3882,7 @@ const Content = () => (
         <h2>Super and ShorT</h2>
       </Column>
       <Column>
-        <h2>SUPER E SHORT</h2>
+        <h2>Super y Corta</h2>
       </Column>
     </Row>
     <Row>
@@ -3915,10 +3896,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Con le carte super e short, le si mette sul tavolo e poi si pesca una
-          carta short sostitutiva e la si mette in cima alla carta super o
-          short. Pesca una carta sostitutiva dal mazzo indicato sulla carta
-          super o short.
+          Con las cartas super y cortas, las pones sobre la mesa y luego sacas
+          una carta de tiro de reemplazo y la colocas sobre la parte superior de
+          la carta super o corta. Saca una carta de reemplazo del mazo que
+          aparece en la carta super o corta.
         </p>
       </Column>
     </Row>
@@ -3939,9 +3920,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Queste carte formano una catena, quindi è possibile ritornare alla
-          fine al mazzo da cui si è partiti oppure, partire dal mazzo tiro 2 per
-          arrivare al mazzo tiro 5.
+          Estas cartas se encadenan, así que es posible terminar de nuevo en el
+          mazo del que partiste o pasar del mazo de tiro 2 al mazo de tiro 5.
         </p>
       </Column>
     </Row>
@@ -3962,9 +3942,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Un super hit dal mazzo chip deck che dà come risultato un’estrazione
-          dal mazzo tiro diverso dal mazzo chip perde l’abilità di oltrepassare
-          gli alberi.
+          Un golpe super de la baraja que resulta en un empate de una baraja que
+          no sea la baraja de chip pierde su capacidad de pasar por encima de
+          los árboles.
         </p>
       </Column>
     </Row>
@@ -3989,7 +3969,7 @@ const Content = () => (
         <h2>Shuffle</h2>
       </Column>
       <Column>
-        <h2>SHUFFLE</h2>
+        <h2>De barajado</h2>
       </Column>
     </Row>
     <Row>
@@ -4003,10 +3983,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando si estrae una carta shuffle, si mettono tutti gli scarti
-          attuali da questo mazzo tiro nuovamente nel mazzo e si mescola.
-          Posiziona questa carta sul tavolo e pesca una carta sostitutiva e
-          mettila in cima. Pesca sempre la carta sostitutiva dallo stesso mazzo.
+          Cuando se saca una carta de barajar, se meten todos los descartes
+          actuales de este mazo de tiro y se barajan. Pon esta carta sobre la
+          mesa, y saca una carta de repuesto y colócala encima. Siempre saca la
+          carta de reemplazo del mismo mazo.
         </p>
       </Column>
     </Row>
@@ -4028,9 +4008,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Le carte che hai pescato finora in questo turno, ad esempio le carte
-          super o altre carte dalle mazze che ti permettono di pescare 2 carte
-          non vengono rimesse nel mazzo.
+          Las cartas que has robado hasta ahora en este turno, por ejemplo,
+          cartas super u otras cartas de palos que te permiten robar 2 cartas,
+          no se vuelven a poner en el mazo.
         </p>
       </Column>
     </Row>
@@ -4051,8 +4031,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se peschi una carta shuffle e non c’è una pila di scarti, non devi
-          mescolare il mazzo. Devi comunque però pescare una carta sostitutiva.
+          Si sacas una carta de barajado y no hay montón de descartes, no
+          necesitas barajar el mazo. Todavía tienes que sacar una carta de
+          reemplazo.
         </p>
       </Column>
     </Row>
@@ -4069,7 +4050,7 @@ const Content = () => (
         <h2>Wild Cards</h2>
       </Column>
       <Column>
-        <h2>WILD CARD</h2>
+        <h2>Comodines</h2>
       </Column>
     </Row>
     <Row>
@@ -4082,9 +4063,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando peschi una carta con risultati multipli su di essa, puoi
-          scegliere quello che vuoi usare. Se una delle opzioni è il fuori
-          percorso, allora devi scegliere l’unica opzione che rimane in gioco.
+          Cuando robas una carta con múltiples resultados en ella, puedes elegir
+          cuál quieres usar. Si una de las opciones está fuera de límites,
+          entonces debes tomar la única opción que queda en juego.
         </p>
       </Column>
     </Row>
@@ -4105,8 +4086,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Vedi “OSTACOLI E ALTRE CASELLE” a pagina 15 per maggiori informazioni
-          sul fuori percorso.
+          Ver &quot;Hazards y otras piezas&quot; en la página 15 para más
+          información sobre fuera de límites.
         </p>
       </Column>
     </Row>
@@ -4139,7 +4120,7 @@ const Content = () => (
         <h2>LONGEST DRIVE CARD</h2>
       </Column>
       <Column>
-        <h2>CARTA LONGEST DRIVE</h2>
+        <h2>CARTA DEL DRIVE MÁS LARGO</h2>
       </Column>
     </Row>
     <Row>
@@ -4154,12 +4135,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando peschi e giochi questa carta tiro, conserva la carta longest
-          drive. Questa carta funge da promemoria per ricordare che hai colpito
-          il drive più lungo della partita, e se non vinci oggi, almeno tornare
-          a casa con qualcosa. Non la carta, capisci bene, che rimane nella
-          scatola. Ottieni quel senso di compiaciuta soddisfazione sapendo che
-          hai colpito il drive più lungo.
+          Cuando robes y juegues esta carta de tiro, guarda la carta de tiro más
+          larga. Esta carta es tu recuerdo de que has hecho el trayecto más
+          largo del juego y, si no ganas hoy, al menos te irás a casa con algo.
+          No la carta, entiéndelo, ésta se queda en la caja. Tienes la sensación
+          de satisfacción de haber hecho el trayecto más largo.
         </p>
       </Column>
     </Row>
@@ -4180,8 +4160,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Questa carta tiro viaggia per 6 esagoni in linea retta. Si ferma sugli
-          alberi come fanno le altre carte tiro.
+          Esta carta de tiro viaja 6 hexágonos en línea recta. Se detiene en los
+          árboles como lo hacen otras cartas de tiro.
         </p>
       </Column>
     </Row>
@@ -4206,7 +4186,7 @@ const Content = () => (
         <h1>HAZARDS & OTHER TILES</h1>
       </Column>
       <Column>
-        <h1>OSTACOLI E ALTRE CASELLE</h1>
+        <h1>HAZARDS Y OTRAS PIEZAS</h1>
       </Column>
     </Row>
     <Row>
@@ -4230,7 +4210,7 @@ const Content = () => (
         <h2>Bunker</h2>
       </Column>
       <Column>
-        <h2>BUNKER</h2>
+        <h2>Búnker</h2>
       </Column>
     </Row>
     <Row>
@@ -4243,9 +4223,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          L’ostacolo bunker si applica a tutti i turni e dove inizi in tale
-          esagono. Quando sei nel bunker, devi uscirne. Vedi “4.D) USCIRE DAL
-          BUNKER” a pagina 11.
+          El hazard de los bunkers se aplica a todos los turnos en los que
+          empiezas en ese hexágono. Cuando estás en el búnker, tienes que salir.
+          Ver &quot;4.D) SALIR DE UN BÚNKER&quot; en la página 11.
         </p>
       </Column>
     </Row>
@@ -4262,7 +4242,10 @@ const Content = () => (
         <p>You may use the Sand Wedge to treat bunkers as rough.</p>
       </Column>
       <Column>
-        <p>Puoi usare il Sand Wedge per trattare i bunker come rough.</p>
+        <p>
+          Puedes usar el sand wedge para tratar los bunkers como si fueran
+          rough.
+        </p>
       </Column>
     </Row>
     <Row>
@@ -4278,7 +4261,7 @@ const Content = () => (
         <h2>Green</h2>
       </Column>
       <Column>
-        <h2>GREEN</h2>
+        <h2>Green</h2>
       </Column>
     </Row>
     <Row>
@@ -4291,9 +4274,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          La tua destinazione. A seconda della modalità di gioco, i giocatori
-          che raggiungono il green per primi vincono il round. Quando giochi dai
-          green di un’altra buca, considera la casella fairway.
+          Tu destino. Dependiendo del modo de juego, los jugadores que lleguen
+          al green primero ganan la ronda. Cuando juegues desde el green de otro
+          hoyo considera la calle de la pieza.
         </p>
       </Column>
     </Row>
@@ -4310,7 +4293,7 @@ const Content = () => (
         <h2>Rough</h2>
       </Column>
       <Column>
-        <h2>ROUGH</h2>
+        <h2>Rough</h2>
       </Column>
     </Row>
     <Row>
@@ -4323,10 +4306,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I tiri che partono da questo esagono viaggiano per un esagono in meno.
-          Dopo aver tracciato il tuo tiro, guarda l’icona rough sulla carta
-          tiro. Questo simbolo rappresenta dove atterra la tua pallina. Vedi
-          “GIOCARE DAL ROUGH” a pagina 12.
+          Los tirios desde este hexágono van un hexágono menos. Después de sacar
+          tu tiro, busca el ícono de rough en la carta de tiro. Este símbolo es
+          donde cae tu bola. Ver &quot;JUGANDO DESDE EL ROUGH&quot; en la página
+          12.
         </p>
       </Column>
     </Row>
@@ -4343,7 +4326,7 @@ const Content = () => (
         <h2>Out-of-Bounds & CLUBHOUSE</h2>
       </Column>
       <Column>
-        <h2>FUORI CAMPO & SEDE DEL CLUB</h2>
+        <h2>Fuera de los límites y CASA CLUB</h2>
       </Column>
     </Row>
     <Row>
@@ -4358,11 +4341,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando la tua pallina lascia il campo, è fuori campo. La pallina è
-          fuori campo anche quando va fuori campo per parte del suo volo e
-          ritorna poi su una casella. Quando sei fuori campo, il tuo golfista
-          rimane dove ha fatto partire il tiro. Riprende la mazza in mano; il
-          suo turno è finito.
+          Siempre que tu bola sale del campo, está fuera de los límites. La bola
+          también se sale de los límites cuando se sale de los límites durante
+          parte de su vuelo y regresa a una pieza. Cuando estás fuera de los
+          límites, tu golfista se queda en el lugar donde se realiza el tiro.
+          Devuelve el palo a tu mano; tu turno ha terminado.
         </p>
       </Column>
     </Row>
@@ -4383,8 +4366,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Atterrare sulla sede del club è considerato come un fuori campo a meno
-          che, naturalmente, tu non stia giocando sulla 19ª.
+          Caer en la casa club también se considera fuera de los límites a menos
+          que, por supuesto, estés jugando en el 19.
         </p>
       </Column>
     </Row>
@@ -4405,8 +4388,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Nota: i pezzi angolari a diamante delle caselle percorso sono parte
-          del tracciato, ci puoi atterrare sopra.
+          Nota: Las piezas del campo con esquinas de diamante están en juego,
+          puedes aterrizar en ellas.
         </p>
       </Column>
     </Row>
@@ -4415,7 +4398,7 @@ const Content = () => (
         <h4>Variation</h4>
       </Column>
       <Column>
-        <h4>VARIAZIONE</h4>
+        <h4>Variación</h4>
       </Column>
     </Row>
     <Row>
@@ -4438,12 +4421,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Abbiamo ideato la regola del fuori campo perché la maggior parte dei
-          giocatori non riusciva a navigare nello spazio fuori campo senza una
-          griglia. Ma alcuni giocatori possono. Se tutti i giocatori concordano
-          di usare questa variazione, allora puoi consentire ai giocatori di
-          colpire con i fuori campo. Atterrare nei fuori campo è sempre un fuori
-          campo.
+          Creamos la regla de fuera de los límites porque la mayoría de los
+          jugadores no podían navegar por el espacio de fuera de los límites sin
+          una cuadrícula. Pero algunos jugadores pueden. Si todos los jugadores
+          están de acuerdo en usar esta variación, entonces puedes permitir a
+          los jugadores golpear a través de áreas que se salen del límite. Caer
+          en un lugar fuera de los límites siempre es fuera de los límites.
         </p>
       </Column>
     </Row>
@@ -4460,7 +4443,7 @@ const Content = () => (
         <h2>Tee box</h2>
       </Column>
       <Column>
-        <h2>TEE BOX</h2>
+        <h2>Tee de salida</h2>
       </Column>
     </Row>
     <Row>
@@ -4473,10 +4456,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il tee box è il punto dove inizia la buca. Queste caselle indicano il
-          par e quante caselle percorso grandi aggiungere prima del green. Vedi
-          l’ultima pagina del libretto percorsi per maggiori informazioni su
-          come costruire percorsi.
+          El tee de salida es donde comienza cada hoyo. Estas piezas indican el
+          par y cuántas piezas grandes del campo hay que añadir antes del green.
+          Ve la última página del folleto de campos para más información sobre
+          la construcción de campos.
         </p>
       </Column>
     </Row>
@@ -4493,7 +4476,7 @@ const Content = () => (
         <h2>Trees</h2>
       </Column>
       <Column>
-        <h2>ALBERI</h2>
+        <h2>Árboles</h2>
       </Column>
     </Row>
     <Row>
@@ -4506,9 +4489,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Gli alberi interrompono il volo della tua pallina. Sposta la tua
-          pallina di un esagono all’indietro lungo il percorso di volo. Se
-          l’esagono successivo è un ostacolo, segui le regole per tale ostacolo.
+          Los árboles detienen el vuelo de tu bola. Mueve tu bola un hexágono
+          hacia atrás siguiendo la trayectoria de vuelo. Si el siguiente
+          hexágono es un hazard, siguea las reglas para ese hazard.
         </p>
       </Column>
     </Row>
@@ -4528,8 +4511,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Nota: solo gli alberi con uno steccato attorno interrompono il volo
-          della pallina
+          Nota: solo los árboles con una valla a su alrededor detienen el vuelo
+          de la bola.
         </p>
       </Column>
     </Row>
@@ -4546,7 +4529,7 @@ const Content = () => (
         <h2>Water (AND fairways with lakes)</h2>
       </Column>
       <Column>
-        <h2>ACQUA (E FAIRWAY CON LAGHETTI)</h2>
+        <h2>Agua (Y calles con lagos)</h2>
       </Column>
     </Row>
     <Row>
@@ -4560,10 +4543,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Gli ostacoli d’acqua si applicano quando la pallina termina il suo
-          volo su tale esagono. Salti il turno seguente. Fai sdraiare il tuo
-          golfista. Al prossimo turno, rimetti in piedi il golfista e salta il
-          round. Il turno successivo, puoi giocare.
+          Los hazard de agua se aplican cuando la bola termina su vuelo en ese
+          hexágono. Pierdes el próximo turno. Pon a tu golfista en el suelo. En
+          tu siguiente turno, levanta a tu golfista y sáltate la ronda. En el
+          turno siguiente, puedes jugar.
         </p>
       </Column>
     </Row>
@@ -4585,9 +4568,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Giochi il tuo prossimo tiro dalla casella con l’acqua. Gioca sulla
-          casella con l’acqua come se fosse rough a meno che non si tratti di un
-          fairway con un lago. In tal caso, è considerato fairway.
+          Juega tu próximo tiro desde la pieza de agua. Juega con la pieza de
+          agua como si fuera una calle con un lago. En ese caso, se considera
+          que es una calle.
         </p>
       </Column>
     </Row>
@@ -4604,7 +4587,7 @@ const Content = () => (
         <p>The Shark ignores this hazard and plays the underlying tile.</p>
       </Column>
       <Column>
-        <p>The Shark ignora questo ostacolo e gioca la casella sottostante.</p>
+        <p>The Shark ignora este peligro y juega con la pieza subyacente.</p>
       </Column>
     </Row>
     <Row>
@@ -4636,7 +4619,7 @@ const Content = () => (
         <h1>MULTIPLE WAYS TO PLAY</h1>
       </Column>
       <Column>
-        <h1>Diversi Modi Per Giocare</h1>
+        <h1>MÚLTIPLES MANERAS DE JUGAR</h1>
       </Column>
     </Row>
     <Row>
@@ -4668,13 +4651,13 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          18 Holes, come il golf, presenta una varietà di modalità di gioco
-          differenti. Il metodo primario descritto in questo manuale fa sì che
-          tutti i giocatori siano in competizione per ogni buca. Il golf è un
-          gioco duro dove può essere difficile rimettersi in pari se si rimane
-          indietro. Se ti piace quel tipo di gioco o se vuoi un’esperienza
-          golfistica più realistica, allora potrebbe interessarti Golf Racing,
-          Stroke Play o Stableford.
+          18 Holes, como el golf, tiene una variedad de modos de juego
+          diferentes. El método primario descrito en este libro mantiene a todos
+          los jugadores compitiendo por cada hoyo. El golf es un juego difícil
+          en el que puede costarte recuperarte si te quedas atrás. Si te gusta
+          ese tipo de juego o quieres una experiencia de golf más realista,
+          entonces puede que te interese el Golf Racing, Stroke Play o
+          Stableford.
         </p>
       </Column>
     </Row>
@@ -4695,8 +4678,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se il tuo gruppo preferisce dei giochi in cui tutti quanti competono
-          per ogni punto, allora prova Match Play e Skins.
+          Si tu grupo prefiere los juegos que mantienen a todos compitiendo por
+          cada punto, entonces prueba Match Play y Skins.
         </p>
       </Column>
     </Row>
@@ -4718,10 +4701,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Alcune variazioni si allontanano un po’ di più dal fairway. Queste
-          sono dedicate alle persone che vogliono un’esperienza di golf meno
-          tradizionale. Le variazioni Chaos Golf e Kelly Golf rientrano in
-          questa descrizione.
+          Algunas variaciones se alejan un poco más de la calle. Son para
+          personas que quieren una experiencia de golf menos tradicional. Las
+          variaciones de Chaos Golf y Golf Kelly encajan en esta descripción.
         </p>
       </Column>
     </Row>
@@ -4742,7 +4724,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se vuoi un’esperienza in solitaria, allora prova Solo Chaos Golf,
+          Si quieres una experiencia en solitario, prueba Solo Chaos Golf,
           Stableford o Stroke Play.
         </p>
       </Column>
@@ -4765,9 +4747,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se vuoi una partita con due giocatori, allora prova Chaos Teams: la
-          nostra esperienza dedicata per due giocatori. Oppure, uno a scelta fra
-          Match Play, Skins, Stroke Play, Stableford o Golf Racing.
+          Si quieres un juego para dos jugadores, prueba Chaos Teams: nuestra
+          experiencia dedicada para dos jugadores. O, uno de Match Play, Skins,
+          Stroke Play, Stableford o Golf Racing.
         </p>
       </Column>
     </Row>
@@ -4790,10 +4772,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni modalità di gioco include una sezione che descrive la modalità di
-          gioco, quali giocatori supporta e quando potrebbe interessarti questo
-          genere di gioco. A destra abbiamo una sezione per Match Play, il set
-          di regole descritto fino a questo punto.
+          Cada modo de juego viene con una sección que describe el modo de
+          juego, cuántos jugadores admite y cuándo podría interesarte este
+          juego. A la derecha, tenemos la sección de Match Play, el conjunto de
+          reglas descritas hasta ahora.
         </p>
       </Column>
     </Row>
@@ -4810,7 +4792,7 @@ const Content = () => (
         <p>Index of Variations:</p>
       </Column>
       <Column>
-        <p>Indice delle Variazioni:</p>
+        <p>Índice de variaciones:</p>
       </Column>
     </Row>
     <Row>
@@ -4826,7 +4808,7 @@ const Content = () => (
         <ul>Chaos Golf (page 19)</ul>
       </Column>
       <Column>
-        <ul>Chaos Golf (pagina 19)</ul>
+        <ul>Chaos Golf (página 19) </ul>
       </Column>
     </Row>
     <Row>
@@ -4834,7 +4816,7 @@ const Content = () => (
         <ul>Chaos Teams (page 20)</ul>
       </Column>
       <Column>
-        <ul>Chaos Teams (pagina 20)</ul>
+        <ul>Chaos Teams (página 20)</ul>
       </Column>
     </Row>
     <Row>
@@ -4842,7 +4824,7 @@ const Content = () => (
         <ul>Golf Racing (page 20)</ul>
       </Column>
       <Column>
-        <ul>Golf Racing (pagina 20)</ul>
+        <ul>Golf Racing (página 20)</ul>
       </Column>
     </Row>
     <Row>
@@ -4850,7 +4832,7 @@ const Content = () => (
         <ul>Kelly Golf (page 21)</ul>
       </Column>
       <Column>
-        <ul>Kelly Golf (pagina 21)</ul>
+        <ul>Kelly Golf (página 21)</ul>
       </Column>
     </Row>
     <Row>
@@ -4858,7 +4840,7 @@ const Content = () => (
         <ul>Skins (page 22)</ul>
       </Column>
       <Column>
-        <ul>Skins (page 22)</ul>
+        <ul>Skins (página 22)</ul>
       </Column>
     </Row>
     <Row>
@@ -4866,7 +4848,7 @@ const Content = () => (
         <ul>Solo Chaos Golf (page 24)</ul>
       </Column>
       <Column>
-        <ul>Solo Chaos Golf (pagina 24)</ul>
+        <ul>Solo Chaos Golf (página 24) </ul>
       </Column>
     </Row>
     <Row>
@@ -4874,7 +4856,7 @@ const Content = () => (
         <ul>Stableford (page 23)</ul>
       </Column>
       <Column>
-        <ul>Stableford (pagina 23)</ul>
+        <ul>Stableford (página 23)</ul>
       </Column>
     </Row>
     <Row>
@@ -4882,7 +4864,7 @@ const Content = () => (
         <ul>Stroke Play (page 26)</ul>
       </Column>
       <Column>
-        <ul>Stroke Play (pagina 26)</ul>
+        <ul>Stroke Play (página 26)</ul>
       </Column>
     </Row>
     <Row>
@@ -4898,7 +4880,7 @@ const Content = () => (
         <h2>Match PlaY</h2>
       </Column>
       <Column>
-        <h2>MATCH PLAY</h2>
+        <h2>Match Play</h2>
       </Column>
     </Row>
     <Row>
@@ -4911,10 +4893,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          18 Holes proprio come descritto in questo manuale delle regole. I
-          giocatori competono per vincere ciascuna buca evidentemente dalle
-          prove performance sulle buche precedenti. Il vincitore è il giocatore
-          che si aggiudica più buca.
+          18 Holes como se describe en este libro de reglas. Los jugadores
+          compiten para ganar cada hoyo independientemente de su rendimiento en
+          los hoyos anteriores. El ganador es el jugador con más hoyos ganados.
         </p>
       </Column>
     </Row>
@@ -4931,7 +4912,7 @@ const Content = () => (
         <h3>Plays</h3>
       </Column>
       <Column>
-        <h3>GIOCATORI</h3>
+        <h3>Jugadas</h3>
       </Column>
     </Row>
     <Row>
@@ -4939,7 +4920,7 @@ const Content = () => (
         <p>2 - 5 players</p>
       </Column>
       <Column>
-        <p>2 - 5</p>
+        <p>2 - 5 jugadores</p>
       </Column>
     </Row>
     <Row>
@@ -4955,7 +4936,7 @@ const Content = () => (
         <h3>PLAY THIS MODE WHEN...</h3>
       </Column>
       <Column>
-        <h3>GIOCA QUESTA MODALITÀ QUANDO...</h3>
+        <h3>JUEGA ESTE MODO CUANDO...</h3>
       </Column>
     </Row>
     <Row>
@@ -4968,9 +4949,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Vuoi la classica esperienza di 18 Holes oppure cerchi una partita più
-          veloce per assicurare a tutti i giocatori di competere per ogni buca.
-          In Match Play, una buca sbagliata non rovinerà la partita.
+          Quieres la clásica experiencia de 18 Holes o buscas un juego más
+          rápido que asegure que todos los jugadores puedan competir en cada
+          hoyo. En el Match Play, tener un mal hoyo no te fastidiará el juego.
         </p>
       </Column>
     </Row>
@@ -4987,7 +4968,7 @@ const Content = () => (
         <h3>HOW TO WIN</h3>
       </Column>
       <Column>
-        <h3>COME SI VINCE</h3>
+        <h3>CÓMO GANAR</h3>
       </Column>
     </Row>
     <Row>
@@ -5000,10 +4981,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          1 punto per il primo giocatore che raggiunge il green. Giocatori
-          multipli mettono a segno i punti se raggiungono il green nello stesso
-          round. Nell’eventualità di un pareggio, i giocatori con il maggior
-          numero di token Ace vince.
+          1 punto para el primer jugador que llegue al green. Múltiples
+          jugadores se anotan puntos si llegan al green en la misma ronda. En
+          caso de empate, el jugador con más fichas de &quot;hoyo en uno&quot;
+          gana.
         </p>
       </Column>
     </Row>
@@ -5020,7 +5001,7 @@ const Content = () => (
         <h3>Rule Variations</h3>
       </Column>
       <Column>
-        <h3>VARIAZIONI ALLE REGOLE</h3>
+        <h3>Variaciones de las reglas </h3>
       </Column>
     </Row>
     <Row>
@@ -5028,7 +5009,7 @@ const Content = () => (
         <p>None</p>
       </Column>
       <Column>
-        <p>Nessuna</p>
+        <p>Ninguna</p>
       </Column>
     </Row>
     <Row>
@@ -5044,7 +5025,10 @@ const Content = () => (
         <h3>PARTS NEEDED FOR SCORING</h3>
       </Column>
       <Column>
-        <h3>PARTI NECESSARIE PER IL PUNTEGGIO</h3>
+        <h3>
+          PARTES NECESARIAS PARA ANOTAR Banderas y piezas grandes de green para
+          marcar Fichas de &quot;Hoyo en uno&quot;
+        </h3>
       </Column>
     </Row>
     <Row>
@@ -5052,7 +5036,7 @@ const Content = () => (
         <p>Flags and large green tiles for scoring</p>
       </Column>
       <Column>
-        <p>Bandierine e caselle green grandi per il punteggio</p>
+        <p></p>
       </Column>
     </Row>
     <Row>
@@ -5060,7 +5044,7 @@ const Content = () => (
         <p>Hole-in-one tokens</p>
       </Column>
       <Column>
-        <p>Segnalini Ace</p>
+        <p></p>
       </Column>
     </Row>
     <Row>
@@ -5097,10 +5081,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Parti in qualsiasi direzione e metti a segno le buche in qualsiasi
-          ordine. Un tipo di golf in cui abbiamo rimosso le limitazioni che
-          costringono a giocare da una buca all’altra in ordine. Il punteggio
-          più alto vince.
+          Saca en cualquier dirección y marca los hoyos en cualquier orden. El
+          golf en el que eliminamos las limitaciones de jugar de hoyo en hoyo en
+          orden. La puntuación más alta gana.
         </p>
       </Column>
     </Row>
@@ -5117,7 +5100,7 @@ const Content = () => (
         <h3>Plays</h3>
       </Column>
       <Column>
-        <h3>GIOCATORI</h3>
+        <h3>Jugadas</h3>
       </Column>
     </Row>
     <Row>
@@ -5125,7 +5108,7 @@ const Content = () => (
         <p>3 - 5 players</p>
       </Column>
       <Column>
-        <p>3 - 5</p>
+        <p>3 - 5 jugadores</p>
       </Column>
     </Row>
     <Row>
@@ -5141,7 +5124,7 @@ const Content = () => (
         <h3>PLAY THIS MODE WHEN...</h3>
       </Column>
       <Column>
-        <h3>GIOCA QUESTA MODALITÀ QUANDO...</h3>
+        <h3>JUEGA ESTE MODO CUANDO...</h3>
       </Column>
     </Row>
     <Row>
@@ -5154,9 +5137,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Hai un gruppo di persone a cui piace qualcosa un po’ meno simile al
-          golf è un po’ più caotico. Questa versione di 18 Holes riduce
-          l’influenza della fortuna nel gioco.
+          Tienes un grupo de gente a la que le gusta algo menos como el golf y
+          un poco más caótico. Esta versión de 18 Holes reduce la influencia de
+          la suerte en el juego.
         </p>
       </Column>
     </Row>
@@ -5173,7 +5156,7 @@ const Content = () => (
         <h3>HOW TO WIN</h3>
       </Column>
       <Column>
-        <h3>COME SI VINCE</h3>
+        <h3>CÓMO GANAR</h3>
       </Column>
     </Row>
     <Row>
@@ -5185,8 +5168,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il punteggio di ogni giocatore è la somma dei segnalini da 2 e da 5
-          punti che ha raccolto. Il punteggio più alto vince.
+          El puntaje de cada jugador es la suma de sus fichas de 2 y 5 puntos
+          conseguidas. La puntuación más alta gana.
         </p>
       </Column>
     </Row>
@@ -5203,7 +5186,7 @@ const Content = () => (
         <h3>Rule Variations</h3>
       </Column>
       <Column>
-        <h3>VARIAZIONI ALLE REGOLE</h3>
+        <h3>Variaciones de las reglas</h3>
       </Column>
     </Row>
     <Row>
@@ -5215,8 +5198,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa le regole per Match Play eccetto quando vanno in conflitto con le
-          regole sotto.
+          Utiliza las reglas del Match Play, excepto cuando entren en conflicto
+          con las reglas que se indican a continuación.
         </p>
       </Column>
     </Row>
@@ -5233,7 +5216,7 @@ const Content = () => (
         <h3>Setup</h3>
       </Column>
       <Column>
-        <h3>PREPARAZIONE</h3>
+        <h3>Configuración</h3>
       </Column>
     </Row>
     <Row>
@@ -5246,9 +5229,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Per i migliori risultati, progetta un percorso denso che include tutti
-          gli esagoni multi-green. Il requisito di ignorare la casella fairway
-          (es. +1 casella) porta buoni risultati.
+          Para obtener los mejores resultados, diseña un campo ajustado con
+          todos los hexágonos de múltiples greens incluidos. Ignorar el
+          requisito de la pieza de la calle (p. ej., +1 pieza) da buenos
+          resultados.
         </p>
       </Column>
     </Row>
@@ -5271,12 +5255,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Posiziona un segnalino da 2 e da 5 punti su ogni buca. Assicurati che
-          il numero della buca sia lo stesso per entrambi. La sequenza delle
-          buche non è importante. Per i migliori risultati, metti il segnalino
-          da 5 punti con il lato arancio rivolto in alto e la buca da 2 punti
-          con il lato rivolto verso l’altro. Così facendo, i green si notano un
-          po’ di più.
+          Coloca una ficha de 2 y 5 puntos en cada hoyo. Asegúrate de que el
+          número de hoyo es el mismo para ambas. La secuencia de los hoyos no
+          importa. Para obtener mejores resultados, pon hacia arriba la ficha de
+          5 puntos por el lado naranja y la de 2 puntos por el número en el
+          hoyo. Hacerlo ayuda a que los greens destaquen un poco más.
         </p>
       </Column>
     </Row>
@@ -5293,7 +5276,7 @@ const Content = () => (
         <h3>Game Play</h3>
       </Column>
       <Column>
-        <h3>SVOLGIMENTO DEL GIOCO</h3>
+        <h3>Juego</h3>
       </Column>
     </Row>
     <Row>
@@ -5305,8 +5288,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I giocatori possono colpire in qualsiasi direzione e cercare di
-          reclamare qualsiasi buca in qualsiasi ordine.
+          Los jugadores pueden golpear en cualquier dirección e intentar
+          reclamar cualquier agujero en cualquier orden.
         </p>
       </Column>
     </Row>
@@ -5329,11 +5312,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando si atterra su un tee box, il giocatore può fare un altro turno.
-          Questa cosa sviluppa una catena e consente di viaggiare più
-          velocemente lungo il percorso. Qualsiasi turno extra viene fatto in
-          ordine di iniziativa dopo che tutti i giocatori hanno concluso il
-          round iniziale.
+          Al caer en un tee de salida, el jugador puede jugar otro turno. Esto
+          encadena y permite un viaje más rápido a través del campo. Cualquier
+          turno extra se juega en orden de iniciativa después de que todos los
+          jugadores hayan terminado su ronda inicial.
         </p>
       </Column>
     </Row>
@@ -5350,7 +5332,7 @@ const Content = () => (
         <h3>Scoring</h3>
       </Column>
       <Column>
-        <h3>SEGNARE PUNTI</h3>
+        <h3>Puntuación</h3>
       </Column>
     </Row>
     <Row>
@@ -5364,10 +5346,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il giocatore che atterra per primo sul green prende il segnalino
-          punteggio grande (5 punti) e la seconda persona riceve il segnalino
-          più piccolo (2 punti). Non c’è tie-break e viene usato l’ordine di
-          iniziativa per determinare chi prende il segnalino da 5 punti.
+          El jugador que primero cae en el green recibe la ficha de puntuación
+          grande (5 puntos) y la segunda persona recibe la ficha más pequeña (2
+          puntos). No hay un desempate, y el orden de la iniciativa se utiliza
+          para determinar quién se lleva la ficha de 5 puntos.
         </p>
       </Column>
     </Row>
@@ -5389,9 +5371,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          La persona che ha preso il segnalino punteggio grande non può prendere
-          il segnale lo piccolo per la stessa buca. Usa i numeri delle buche sui
-          segnalini punteggio per controllare.
+          La persona que se llevó la ficha de puntuación grande no puede
+          llevarse la ficha pequeña para el mismo hoyo. Usa los números de los
+          hoyos de las fichas de puntuación para comprobarlo.
         </p>
       </Column>
     </Row>
@@ -5412,9 +5394,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Una volta che qualcuno reclama l’ultimo segnalino da 5 punti, la
-          partita termina alla fine di quel round. Ogni segnalino da 2 punti
-          rimanente viene ignorato.
+          Una vez que alguien ha reclamado la última ficha de 5 puntos, el juego
+          termina al final de esa ronda. Cualquier otra ficha de 2 puntos que
+          quede es ignorada.
         </p>
       </Column>
     </Row>
@@ -5431,7 +5413,7 @@ const Content = () => (
         <p>The player with the most points wins.</p>
       </Column>
       <Column>
-        <p>Il giocatore che accumula più punti vince.</p>
+        <p>El jugador con más puntos gana.</p>
       </Column>
     </Row>
     <Row>
@@ -5447,7 +5429,7 @@ const Content = () => (
         <h3>PARTS NEEDED FOR SCORING</h3>
       </Column>
       <Column>
-        <h3>PARTI NECESSARIE PER IL PUNTEGGIO</h3>
+        <h3>PARTES NECESARIAS PARA ANOTAR </h3>
       </Column>
     </Row>
     <Row>
@@ -5455,7 +5437,7 @@ const Content = () => (
         <p>5-point tokens</p>
       </Column>
       <Column>
-        <p>Segnalini 5 punti</p>
+        <p>Fichas de 5 puntos</p>
       </Column>
     </Row>
     <Row>
@@ -5463,7 +5445,7 @@ const Content = () => (
         <p>2-point tokens</p>
       </Column>
       <Column>
-        <p>Segnalini 2 punti</p>
+        <p>Fichas de 2 puntos</p>
       </Column>
     </Row>
     <Row>
@@ -5498,16 +5480,16 @@ const Content = () => (
       </Column>
       <Column>
         <Callout>
-          VIAGGIO RAPIDO Durante il Chaos Golf, se termini il tuo turno su un
-          tee box, puoi fare un turno extra alla fine del round. Esegui
-          qualsiasi turno extra in ordine di iniziativa. Se due giocatori
-          terminano il round sul tee box, il giocatore con l’iniziativa più
-          bassa fa il turno extra per primo. Nel tuo turno extra, puoi scegliere
-          di giocare una qualsiasi delle tue mazze disponibili come al solito.
-          Ogni mazza giocata viene scartata. Se non hai alcuna mazza in mano,
-          allora non puoi fare alcun turno extra. Se termini un turno extra su
-          un tee box, puoi fare un altro turno extra. Puoi continuare a fare
-          così fino a che non finisci le mazze.
+          Viaje rápido Durante el Chaos Golf, si terminas tu turno en un tee de
+          salida, puedes tener un turno extra al final de la ronda. Juega
+          cualquier turno extra en orden de iniciativa. Si dos jugadores
+          terminan su turno en un tee de salida, el jugador con menor iniciativa
+          juega primero sus turnos extra. En tu turno extra, puedes elegir jugar
+          cualquiera de tus palos disponibles como siempre. Cada palo jugado se
+          descarta. Si no tienes palos en la mano, entonces no puedes jugar
+          turnos adicionales. Si terminas una vuelta extra en un tee de salida,
+          puedes jugar otro turno. Puedes seguir haciendo esto hasta que se te
+          acaben los palos.
         </Callout>
       </Column>
     </Row>
@@ -5524,7 +5506,7 @@ const Content = () => (
         <h1>CHAOS TEAMS & GOLF RACING</h1>
       </Column>
       <Column>
-        <h1>CHAOS TEAM & GOLF RACING</h1>
+        <h1>CHAOS TEAMS Y GOLF RACING</h1>
       </Column>
     </Row>
     <Row>
@@ -5548,7 +5530,7 @@ const Content = () => (
         <h2>Chaos Teams</h2>
       </Column>
       <Column>
-        <h2>CHAOS TEAM</h2>
+        <h2>Chaos Teams</h2>
       </Column>
     </Row>
     <Row>
@@ -5561,9 +5543,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Una variante a due giocatori di Chaos Golf. Ogni squadra ha due
-          golfisti e cinque mazze. Nominano quale golfista spostano dopo aver
-          pescato la carta tiro
+          Una variante para dos jugadores de Chaos Golf. Cada equipo tiene dos
+          golfistas y cinco palos. Nombran al golfista al que se mueven después
+          de haber sacado su carta de tiro.
         </p>
       </Column>
     </Row>
@@ -5580,7 +5562,7 @@ const Content = () => (
         <h3>Plays</h3>
       </Column>
       <Column>
-        <h3>GIOCATORI</h3>
+        <h3>Jugadas</h3>
       </Column>
     </Row>
     <Row>
@@ -5588,7 +5570,7 @@ const Content = () => (
         <p>2 players</p>
       </Column>
       <Column>
-        <p>2</p>
+        <p>2 jugadores</p>
       </Column>
     </Row>
     <Row>
@@ -5604,7 +5586,7 @@ const Content = () => (
         <h3>PLAY THIS MODE WHEN...</h3>
       </Column>
       <Column>
-        <h3>GIOCA QUESTA MODALITÀ QUANDO...</h3>
+        <h3>JUEGA ESTE MODO CUANDO... </h3>
       </Column>
     </Row>
     <Row>
@@ -5612,7 +5594,7 @@ const Content = () => (
         <p>You like Chaos Golf and there are only two of you.</p>
       </Column>
       <Column>
-        <p>Ti piace il Chaos Golf e siete solo in due.</p>
+        <p>Te gusta Chaos Golf y solo sois dos.</p>
       </Column>
     </Row>
     <Row>
@@ -5628,7 +5610,7 @@ const Content = () => (
         <h3>HOW TO WIN</h3>
       </Column>
       <Column>
-        <h3>COME SI VINCE</h3>
+        <h3>CÓMO GANAR</h3>
       </Column>
     </Row>
     <Row>
@@ -5640,9 +5622,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Un punto per ogni bandierina presa. Il punteggio più alto, una volta
-          completate tutte le buche, vince, oppure quando una squadra raggiunge
-          10 bandierine.
+          Un punto por cada bandera reclamada. Después de completar todos los
+          hoyos, la puntuación más alta gana o si un equipo llega a 10 banderas.
         </p>
       </Column>
     </Row>
@@ -5659,7 +5640,7 @@ const Content = () => (
         <h3>Rule Variations</h3>
       </Column>
       <Column>
-        <h3>VARIAZIONI ALLE REGOLE</h3>
+        <h3>Variaciones de las reglas</h3>
       </Column>
     </Row>
     <Row>
@@ -5671,8 +5652,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa le regole per Chaos Golf eccetto quando vanno in conflitto con le
-          regole sotto.
+          Usa las reglas del Chaos Golf excepto cuando estén en conflicto con
+          las reglas de abajo.
         </p>
       </Column>
     </Row>
@@ -5689,7 +5670,7 @@ const Content = () => (
         <h3>Setup</h3>
       </Column>
       <Column>
-        <h3>PREPARAZIONE</h3>
+        <h3>Configuración</h3>
       </Column>
     </Row>
     <Row>
@@ -5698,8 +5679,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Posiziona solo una bandierina su ogni green. L’ordine non è
-          significativo.
+          Coloca solo una bandera en cada green. El orden no es significativo.
         </p>
       </Column>
     </Row>
@@ -5716,7 +5696,7 @@ const Content = () => (
         <h3>Game Play</h3>
       </Column>
       <Column>
-        <h3>SVOLGIMENTO DEL GIOCO</h3>
+        <h3>Juego</h3>
       </Column>
     </Row>
     <Row>
@@ -5728,8 +5708,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando un golfista atterra su un a tee box, quel golfista deve essere
-          colui che riceve il turno aggiuntivo.
+          Cuando un golfista cae en un tee de salida, dicho golfista debe ser el
+          que recibe la tirada extra.
         </p>
       </Column>
     </Row>
@@ -5746,7 +5726,7 @@ const Content = () => (
         <h3>Scoring</h3>
       </Column>
       <Column>
-        <h3>SEGNARE PUNTI</h3>
+        <h3>Puntuación</h3>
       </Column>
     </Row>
     <Row>
@@ -5758,9 +5738,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          La partita termina quando vengono prese tutte le bandierine oppure una
-          squadra accumula 10 bandierine. La squadra con il punteggio più alto
-          vince.
+          El juego termina cuando todas las banderas son reclamadas o un equipo
+          ha marcado 10 banderas. El equipo con la mayor puntuación gana.
         </p>
       </Column>
     </Row>
@@ -5777,7 +5756,7 @@ const Content = () => (
         <h3>PARTS NEEDED FOR SCORING</h3>
       </Column>
       <Column>
-        <h3>PARTI NECESSARIE PER IL PUNTEGGIO</h3>
+        <h3>PARTES NECESARIAS PARA ANOTAR </h3>
       </Column>
     </Row>
     <Row>
@@ -5785,7 +5764,7 @@ const Content = () => (
         <p>Flags</p>
       </Column>
       <Column>
-        <p>Bandierine</p>
+        <p>Banderas</p>
       </Column>
     </Row>
     <Row>
@@ -5813,8 +5792,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          È golf, ma è una corsa! Tutti quanti iniziano sul primo tee box, e
-          devono completare tutte le 18 Buche per vincere.
+          ¡Es el golf, pero es una carrera! Todos comienzan en el primer tee de
+          salida, y tienen que completar los 18 hoyos para ganar.
         </p>
       </Column>
     </Row>
@@ -5831,7 +5810,7 @@ const Content = () => (
         <h3>PLAYS</h3>
       </Column>
       <Column>
-        <h3>GIOCATORI</h3>
+        <h3>JUEGOS</h3>
       </Column>
     </Row>
     <Row>
@@ -5839,7 +5818,7 @@ const Content = () => (
         <p>2 - 5 players</p>
       </Column>
       <Column>
-        <p>2 - 5</p>
+        <p>2 - 5 jugadores</p>
       </Column>
     </Row>
     <Row>
@@ -5855,7 +5834,7 @@ const Content = () => (
         <h3>PLAY THIS MODE WHEN...</h3>
       </Column>
       <Column>
-        <h3>GIOCA QUESTA MODALITÀ QUANDO...</h3>
+        <h3>JUEGA ESTE MODO CUANDO...</h3>
       </Column>
     </Row>
     <Row>
@@ -5867,8 +5846,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando vuoi l’esperienza Stroke Play e non hai una penna. In questa
-          modalità l’intero percorso è il tracciato di punteggio.
+          Cuando quieres la experiencia del Stroke Play y no tienes un
+          bolígrafo. En este modo, todo el campo es la pista de puntuación.
         </p>
       </Column>
     </Row>
@@ -5885,7 +5864,7 @@ const Content = () => (
         <h3>HOW TO WIN</h3>
       </Column>
       <Column>
-        <h3>COME SI VINCE</h3>
+        <h3>CÓMO GANAR</h3>
       </Column>
     </Row>
     <Row>
@@ -5897,8 +5876,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il primo giocatore a raggiungere il 18º green dopo aver raggiunto ogni
-          green in ordine, vince.
+          El primer jugador que llegue al green 18 después de alcanzar cada
+          green en orden gana.
         </p>
       </Column>
     </Row>
@@ -5915,7 +5894,7 @@ const Content = () => (
         <h3>Rule Variations</h3>
       </Column>
       <Column>
-        <h3>VARIAZIONI ALLE REGOLE</h3>
+        <h3>Variaciones de las reglas</h3>
       </Column>
     </Row>
     <Row>
@@ -5927,8 +5906,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa le regole per Match Play eccetto quando vanno in conflitto con le
-          regole sotto.
+          Utiliza las reglas del Match Play, excepto cuando entren en conflicto
+          con las reglas que se indican a continuación.
         </p>
       </Column>
     </Row>
@@ -5945,7 +5924,7 @@ const Content = () => (
         <h3>Game Play</h3>
       </Column>
       <Column>
-        <h3>SVOLGIMENTO DEL GIOCO</h3>
+        <h3>Juego</h3>
       </Column>
     </Row>
     <Row>
@@ -5958,10 +5937,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Un giocatore può progredire al tee box successivo solo dopo aver
-          raggiunto il green precedente. Per questo motivo, i giocatori
-          finiscono per essere sparsi su varie buche nella loro corsa verso la
-          18ª.
+          Un jugador puede avanzar al siguiente tee de salida solo después de
+          llegar al green anterior. Como estos jugadores acaban repartidos en
+          múltiples hoyos en la carrera por el 18.
         </p>
       </Column>
     </Row>
@@ -5978,7 +5956,7 @@ const Content = () => (
         <h3>Scoring</h3>
       </Column>
       <Column>
-        <h3>SEGNARE PUNTI</h3>
+        <h3>Puntuación</h3>
       </Column>
     </Row>
     <Row>
@@ -5991,9 +5969,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I giocatori devono visitare ogni green in ordine. Il primo giocatore a
-          raggiungere il 18º green vince. Nell’eventualità di un pareggio, il
-          giocatore con il maggior numero di segnalini Ace è il vincitore.
+          Los jugadores deben visitar cada green en orden. El primer jugador que
+          llegue al green 18 gana. En caso de empate, el jugador con más fichas
+          de &quot;hoyo en uno&quot; es el ganador.
         </p>
       </Column>
     </Row>
@@ -6018,7 +5996,7 @@ const Content = () => (
         <h3>PARTS NEEDED FOR SCORING</h3>
       </Column>
       <Column>
-        <h3>PARTI NECESSARIE PER IL PUNTEGGIO</h3>
+        <h3>PARTES NECESARIAS PARA ANOTAR</h3>
       </Column>
     </Row>
     <Row>
@@ -6026,7 +6004,7 @@ const Content = () => (
         <p>None</p>
       </Column>
       <Column>
-        <p>Nessuna</p>
+        <p>Ninguna</p>
       </Column>
     </Row>
     <Row>
@@ -6071,9 +6049,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Chaos Golf contro tre avversari dal punteggio veloce. I tre golfisti
-          avversari fanno punti se glielo lasci fare. Devi fare più punti di
-          loro prima che acquisiscano sei green ciascuno.
+          Chaos Golf contra tres oponentes de rápido marcaje. Tres golfistas
+          opuestos anotan si los dejas. Tienes que superarlos antes de que
+          adquieran seis verdes cada uno.
         </p>
       </Column>
     </Row>
@@ -6090,7 +6068,7 @@ const Content = () => (
         <p>This game mode uses the solo chaos golf deck.</p>
       </Column>
       <Column>
-        <p>Questa modalità di gioco usa il mazzo solo chaos golf.</p>
+        <p>Este modo de juego utiliza la baraja de Solo Chaos Golf.</p>
       </Column>
     </Row>
     <Row>
@@ -6106,7 +6084,7 @@ const Content = () => (
         <h3>Plays</h3>
       </Column>
       <Column>
-        <h3>GIOCATORI</h3>
+        <h3>Jugadas</h3>
       </Column>
     </Row>
     <Row>
@@ -6114,7 +6092,7 @@ const Content = () => (
         <p>You and three automated opponents.</p>
       </Column>
       <Column>
-        <p>Tu e tre avversari automatici.</p>
+        <p>Tú y tres oponentes automatizados.</p>
       </Column>
     </Row>
     <Row>
@@ -6130,7 +6108,7 @@ const Content = () => (
         <h3>PLAY THIS MODE WHEN...</h3>
       </Column>
       <Column>
-        <h3>GIOCA QUESTA MODALITÀ QUANDO...</h3>
+        <h3>JUEGA ESTE MODO CUANDO...</h3>
       </Column>
     </Row>
     <Row>
@@ -6138,7 +6116,7 @@ const Content = () => (
         <p>You like Chaos Golf and you are the only one who wants to play.</p>
       </Column>
       <Column>
-        <p>Ti piace il Chaos Golf e sei l’unico che vuole giocare.</p>
+        <p>Te gusta el Chaos Golf y eres el único que quiere jugar.</p>
       </Column>
     </Row>
     <Row>
@@ -6154,7 +6132,7 @@ const Content = () => (
         <h3>HOW TO WIN</h3>
       </Column>
       <Column>
-        <h3>COME SI VINCE</h3>
+        <h3>CÓMO GANAR</h3>
       </Column>
     </Row>
     <Row>
@@ -6166,8 +6144,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il punteggio di ogni giocatore è la somma dei suoi segnalini da 2 e da
-          5 punti raccolti. Il punteggio più alto vince.
+          El puntaje de cada jugador es la suma de sus fichas de 2 y 5 puntos
+          conseguidas. La puntuación más alta gana.
         </p>
       </Column>
     </Row>
@@ -6184,7 +6162,7 @@ const Content = () => (
         <h3>Rule Variations</h3>
       </Column>
       <Column>
-        <h3>VARIAZIONI ALLE REGOLE</h3>
+        <h3>Variaciones de las reglas</h3>
       </Column>
     </Row>
     <Row>
@@ -6196,8 +6174,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa le regole per Chaos Golf eccetto quando vanno in conflitto con le
-          regole sotto.
+          Usa las reglas del Chaos Golf excepto cuando estén en conflicto con
+          las reglas de abajo.
         </p>
       </Column>
     </Row>
@@ -6214,7 +6192,7 @@ const Content = () => (
         <h3>Setup</h3>
       </Column>
       <Column>
-        <h3>PREPARAZIONE</h3>
+        <h3>Configuración</h3>
       </Column>
     </Row>
     <Row>
@@ -6229,11 +6207,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Da un lato del tabellone di gioco, posiziona un golfista per ciascuno
-          dei tuoi tre avversari. Mescola i segnalini rosa da 1. E mettili in
-          tre pile da sei segnalini ciascuna. Posiziona una fila davanti a
-          ciascun avversario. I segnalini devono essere rivolti con il foro
-          verso il basso. Posiziona il tuo golfista sul tee box iniziale.
+          En un lado del tablero de juego, coloca un golfista para cada uno de
+          tus tres oponentes. Mezcla las fichas rosas de 1 punto y ponlas en
+          tres montones de seis fichas cada uno. Coloca un montón delante de
+          cada oponente. Las fichas deben tener el lado del hoyo hacia abajo.
+          Pon a tu golfista en el tee de salida.
         </p>
       </Column>
     </Row>
@@ -6245,8 +6223,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Salta le carte golfista. Nemmeno i tuoi avversari automatici le
-          useranno.
+          No usas las cartas de golfista. Tus oponentes automatizados tampoco
+          los usarán.
         </p>
       </Column>
     </Row>
@@ -6267,9 +6245,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Salta la selezione. Scegli le mazze che pensi possano vincere. Con le
-          mazze rimanenti, mescola e distribuiscine 5 a ciascuna AI a faccia in
-          giù.
+          No se roba. Escoge los palos que crees que ganarán. Con los palos
+          restantes, baraja y reparte 5 a cada IA boca abajo.
         </p>
       </Column>
     </Row>
@@ -6291,10 +6268,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Metti insieme un mazzo di carte Solo Chaos Golf in base alla
-          difficoltà che vuoi. Hai bisogno di almeno sei icone green nel
-          pacchetto. Vedi la pagina successiva per le istruzioni su come
-          costruire un mazzo.
+          Haz un mazo de cartas de Solo Chaos Golf según la dificultad que
+          quieras. Necesitas al menos seis iconos verdes en el paquete. Ve la
+          siguiente página para las instrucciones de cómo construir un mazo.
         </p>
       </Column>
     </Row>
@@ -6311,7 +6287,7 @@ const Content = () => (
         <h3>Game Play</h3>
       </Column>
       <Column>
-        <h3>SVOLGIMENTO DEL GIOCO</h3>
+        <h3>Juego</h3>
       </Column>
     </Row>
     <Row>
@@ -6323,8 +6299,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Rivela il primo segnalino da 1. Per ciascun avversario. Questa buca è
-          quella che mettono a segno alla prossima fase di punteggio combinato.
+          Revela la ficha de 1 punto más alta de cada oponente. Este hoyo es el
+          que anotan en la siguiente fase de puntuación combinada.
         </p>
       </Column>
     </Row>
@@ -6346,9 +6322,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Rivela la prima carta del mazzo Solo Chaos Golf e posiziona il segna
-          turni solitario sopra il primo simbolo. Usa il segna turni per tenere
-          traccia del progresso.
+          Revela la carta superior de la baraja de Solo Chaos Golf y coloca el
+          marcador de turnos para jugar solo sobre el primer símbolo. Usa el
+          marcador de turnos para seguir tu progreso.
         </p>
       </Column>
     </Row>
@@ -6370,9 +6346,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ci sono due tipi di simboli per la fase di punteggio sulle carte. Un
-          cerchio riempito con scritto “player only scoring” al di sotto, e un
-          cerchio diviso a doppia tonalità per il round di punteggio combinato.
+          Hay dos tipos de símbolos de fase de puntuación en las cartas. Un
+          círculo lleno con &quot;player only scoring&quot; escrito debajo y un
+          círculo dividido de dos tonos para la ronda de puntuación combinada.
         </p>
       </Column>
     </Row>
@@ -6393,8 +6369,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Durante il round di punteggio riservato al giocatore tutto è come al
-          solito e puoi mettere a segno ogni green che riesci a raggiungere.
+          Durante las rondas de anotación de los jugadores, juegas como siempre
+          y puedes anotar cualquier green que puedas alcanzar.
         </p>
       </Column>
     </Row>
@@ -6415,9 +6391,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Alla fine di ogni turno contrassegnato dall’icona di punteggio
-          combinato, esegui la fase di punteggio combinato. Vedi la pagina
-          successiva per maggiori informazioni.
+          Al final de cada turno marcado por el icono de puntuación combinada,
+          realiza la fase de puntuación combinada. Ve la siguiente página para
+          más información.
         </p>
       </Column>
     </Row>
@@ -6440,10 +6416,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Dopo la fase di punteggio, sposta il segna turni solitario di uno
-          spazio verso destra. Prima di spostare il segnalino, se non ci sono
-          spazi sulla carta, rivela una nuova carta dalla cima del mazzo Solo
-          Chaos Golf e posiziona il tuo segna turni al di sopra del primo punto.
+          Después de la fase de puntuación, mueve el marcador de turnos para
+          jugar solo un espacio a la derecha. Antes de mover la ficha, si no hay
+          más espacios en la carta, revela una nueva carta de la parte superior
+          de la baraja de Solo Chaos Golf y coloca tu marcador de turnos sobre
+          el primer punto.
         </p>
       </Column>
     </Row>
@@ -6457,10 +6434,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          È consentito eseguire il viaggio rapido se atterri su un tee box. Fai
-          il tuo turno extra dopo che i tuoi avversari fanno i turni e mettono a
-          segno qualsiasi green. I tuoi avversari non possono fare viaggi
-          rapidi.
+          Se permite viajar rápido si caes en un tee de salida. Juegas tu turno
+          extra después de que tus oponentes jueguen sus turnos y la anotación
+          de los greens. Tus oponentes no viajan rápido.
         </p>
       </Column>
     </Row>
@@ -6481,8 +6457,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se vuoi fare un Big Hit, mescola le carte tiro che hai come opzioni e
-          scarta l’una a casa.
+          Si quieres hacer un Gran Golpe, baraja las cartas de tiro que tienes
+          como opciones y descarta una al azar.
         </p>
       </Column>
     </Row>
@@ -6499,7 +6475,7 @@ const Content = () => (
         <h3>Scoring</h3>
       </Column>
       <Column>
-        <h3>SEGNARE PUNTI</h3>
+        <h3>Puntuación</h3>
       </Column>
     </Row>
     <Row>
@@ -6511,9 +6487,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando tu o un avversario acquisisce l’ultimo segnalino da 5 punti, la
-          partita termina dopo quel round. Il giocatore che accumula più punti
-          vince.
+          Cuando un oponente o tú anotáis la última ficha de 5 puntos, termina
+          el juego después de esa ronda. El jugador con más puntos gana.
         </p>
       </Column>
     </Row>
@@ -6530,7 +6505,7 @@ const Content = () => (
         <h3>COMBINED SCORING PHASE</h3>
       </Column>
       <Column>
-        <h3>FASE DI PUNTEGGIO COMBINATA</h3>
+        <h3>FASE DE PUNTUACIÓN COMBINADA</h3>
       </Column>
     </Row>
     <Row>
@@ -6543,10 +6518,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Dopo aver spostato il tuo golfista e prima di mettere a segno un
-          qualsiasi green, guarda gli obiettivi green per ciascun bersaglio. Per
-          il green su cui non ci sei tu, dai il token più grande rimasto sul
-          green all’avversario.
+          Después de mover tu golfista y antes de anotar cualquier green, mira
+          los greens objetivo de cada oponente. Para los greens en los que no
+          estás, dale al oponente la ficha más grande que quede en el green.
         </p>
       </Column>
     </Row>
@@ -6570,12 +6544,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se sei in competizione per un green, capovolgi la mazza superiore
-          dell’avversario all’interno della contesa. Se la carta del tuo
-          avversario ha un’iniziativa di valore più basso in confronto alla tua,
-          allora questi prende i segnalini da 5; e tu ricevi il segnalino da 2
-          punti. Altrimenti, tu metti a segno il segnalino da 5 punti e il tuo
-          avversario quello da 2 punti.
+          Si estás compitiendo por un green, dale la vuelta al palo superior del
+          oponente que está en disputa. Si la carta de tu oponente tiene un
+          valor de iniciativa menor que tú, se lleva la ficha de 5 puntos y tú
+          recibes la ficha de 2 puntos. De lo contrario, te anotas la ficha de 5
+          puntos y tu oponente se lleva la ficha de 2 puntos.
         </p>
       </Column>
     </Row>
@@ -6598,10 +6571,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se vuoi sapere se potrai vincere un green, puoi rivelare la carta
-          mazza di un avversario per vedere la sua iniziativa. Puoi farlo solo
-          dopo aver determinato quale mazza giocherai e prima di spostare il tuo
-          golfista.
+          Si quieres saber si vas a ganar un green, puedes revelar la carta del
+          palo de un oponente para ver su iniciativa. Solo puedes hacer esto
+          después de haber determinado qué palo vas a jugar y antes de mover a
+          tu golfista.
         </p>
       </Column>
     </Row>
@@ -6618,7 +6591,7 @@ const Content = () => (
         <h3>BUILDING A SOLO DECK</h3>
       </Column>
       <Column>
-        <h3>COSTRUIRE UN MAZZO SOLITARIO</h3>
+        <h3>HACIENDO UN MAZO PARA JUGAR SOLO</h3>
       </Column>
     </Row>
     <Row>
@@ -6632,10 +6605,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Prima di giocare, devi creare un mazzo che rappresenta la difficoltà
-          del gioco. Più round di punteggio per il giocatore ci sono nel
-          pacchetto, più il gioco sarà facile. Modifica il mazzo in modo che
-          ogni partita sia una sfida.
+          Antes de jugar, tienes que hacer una baraja que represente la
+          dificultad del juego. Cuantas más rondas de puntuación de jugadores en
+          el paquete, más fácil es. Ajusta la baraja para que cada juego sea un
+          desafío.
         </p>
       </Column>
     </Row>
@@ -6659,12 +6632,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Nell’angolo in alto a destra di ogni carta solo chaos golf si trova il
-          punteggio di difficoltà per la carta. Più alto è il valore della
-          carta, più difficile sarà la partita. Puoi aggiungere varie carte dal
-          mazzo. Il loro punteggio combinato è il rango del mazzo. Più alto è il
-          rango del mazzo, maggiore sarà la sfida. Le cinque carte a destra
-          rappresentano un mazzo di rango 17.
+          En la esquina superior derecha de cada carta de Solo Chaos Golf está
+          la puntuación de dificultad de la carta. Cuanto más alto sea el valor
+          de la carta, más difícil será tu juego. Puedes añadir varias cartas a
+          la baraja. Su puntuación combinada es el rango de la baraja. Cuanto
+          más alto sea el rango de la baraja, mayor será el desafío. Las cinco
+          cartas de la derecha representan una baraja de rango 17.
         </p>
       </Column>
     </Row>
@@ -6689,12 +6662,13 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          In fondo a ogni carta si trova un indicatore bandierina che ti dice
-          quanti round di punteggio combinati si trovano su questa carta. Ogni
-          mazzo Solo Chaos Golf ha bisogno di almeno sei round di punteggio
-          combinato. Puoi avere più di sei round di punteggio combinato se vuoi,
-          farlo non fa che aggiungere incertezza al mazzo. Il rango di
-          difficoltà cambia di una fascia, ad es. 21-25.
+          En la parte inferior de cada carta hay un pequeño indicador de bandera
+          que te dice cuántas rondas de puntuación combinadas hay en esta carta.
+          Cada baraja de Solo Chaos Golf necesita al menos seis rondas de
+          puntuación combinadas. Puedes tener más de seis rondas de puntuación
+          combinadas si lo deseas, todo lo que esto hace es añadir más
+          incertidumbre a la baraja. El rango de dificultad cambia a un rango,
+          es decir, 21-25.
         </p>
       </Column>
     </Row>
@@ -6717,10 +6691,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni percorso fornito nel gioco include anche un punteggio di par
-          solitario. Se costruisci un mazzo che equivale a questo punteggio,
-          avrai quello che noi ideatori crediamo sia un’esperienza impegnativa.
-          Se riesci a vincere con un rango più alto, congratulazioni!
+          Cada campo provisto en el juego también viene con una puntuación de
+          par en solitario. Si haces una baraja que iguale a esta puntuación,
+          tienes lo que los diseñadores creemos que es una experiencia
+          desafiante. Si puedes ganar con un rango más alto, ¡felicidades!
         </p>
       </Column>
     </Row>
@@ -6741,8 +6715,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se fatichi a ottenere una vittoria, allora riduci il rango del mazzo
-          per assicurarti di divertirti comunque.
+          Si te cuesta conseguir una victoria, reduce el rango de la baraja para
+          asegurarte de que sigues divirtiéndote.
         </p>
       </Column>
     </Row>
@@ -6788,9 +6762,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          È come Match Play, eccetto che ogni green può valere 1, 2, o 5 punti.
-          I giocatori devono considerare il valore di ogni buca quando scelgono
-          le mazze e fanno i tiri. Le buche in parità si accumulano nel jackpot.
+          Es como el Match Play, excepto que cada green vale 1, 2 o 5 puntos.
+          Los jugadores deben considerar el valor de cada hoyo al escoger sus
+          palos y hacer sus tiros. Jackpot de empate de hoyos.
         </p>
       </Column>
     </Row>
@@ -6807,7 +6781,7 @@ const Content = () => (
         <h3>PLAYS</h3>
       </Column>
       <Column>
-        <h3>GIOCATORI</h3>
+        <h3>JUEGOS</h3>
       </Column>
     </Row>
     <Row>
@@ -6815,7 +6789,7 @@ const Content = () => (
         <p>2 - 5 players</p>
       </Column>
       <Column>
-        <p>2 - 5</p>
+        <p>2 - 5 jugadores</p>
       </Column>
     </Row>
     <Row>
@@ -6831,7 +6805,7 @@ const Content = () => (
         <h3>PLAY THIS MODE WHEN...</h3>
       </Column>
       <Column>
-        <h3>GIOCA QUESTA MODALITÀ QUANDO...</h3>
+        <h3>JUEGA ESTE MODO CUANDO...</h3>
       </Column>
     </Row>
     <Row>
@@ -6844,10 +6818,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ti piace il match play, e vuoi aggiungere un’altra dimensione. La
-          scelta delle mazze e il processo di selezione delle mazze cambia dato
-          che i giocatori devono cercare di avere le mazze migliori disponibili
-          per tentare di conquistare le buche dal valore più alto.
+          Te gusta el juego de parejas, y quieres añadir otra dimensión. El
+          proceso de robar palos y elegirlos cambia ya que los jugadores tratan
+          de tener sus mejores palos disponibles para los hoyos de valor alto.
         </p>
       </Column>
     </Row>
@@ -6864,7 +6837,7 @@ const Content = () => (
         <h3>HOW TO WIN</h3>
       </Column>
       <Column>
-        <h3>COME SI VINCE</h3>
+        <h3>CÓMO GANAR</h3>
       </Column>
     </Row>
     <Row>
@@ -6877,9 +6850,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il giocatore che accumula più punti vince. I green valgono 1, 2 o 5 a
-          seconda del valore del segnalino che ci sta sopra. Più giocatori vanno
-          a segno si raggiungono tutti il green nello stesso turno.
+          El jugador con más puntos gana. Los greens valen 1, 2 o 5 puntos según
+          el valor de la ficha que llevan. Múltiples jugadores anotan si todos
+          llegan al green en el mismo turno.
         </p>
       </Column>
     </Row>
@@ -6896,7 +6869,7 @@ const Content = () => (
         <h3>Rule Variations</h3>
       </Column>
       <Column>
-        <h3>VARIAZIONI ALLE REGOLE</h3>
+        <h3>Variaciones de las reglas</h3>
       </Column>
     </Row>
     <Row>
@@ -6908,8 +6881,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa le regole per Match Play eccetto quando vanno in conflitto con le
-          regole sotto.
+          Utiliza las reglas del Match Play, excepto cuando entren en conflicto
+          con las reglas que se indican a continuación.
         </p>
       </Column>
     </Row>
@@ -6926,7 +6899,7 @@ const Content = () => (
         <h3>Setup</h3>
       </Column>
       <Column>
-        <h3>PREPARAZIONE</h3>
+        <h3>Configuración</h3>
       </Column>
     </Row>
     <Row>
@@ -6934,7 +6907,7 @@ const Content = () => (
         <p>Do this before club selection.</p>
       </Column>
       <Column>
-        <p>Fai questo prima della selezione delle mazze.</p>
+        <p>Haz esto antes de la selección de palos.</p>
       </Column>
     </Row>
     <Row>
@@ -6950,7 +6923,7 @@ const Content = () => (
         <p>Place a 5 point token on the 18th green.</p>
       </Column>
       <Column>
-        <p>Metti un segnalino da 5 punti sul 18º green.</p>
+        <p>Coloca una ficha de 5 puntos en el green del 18.</p>
       </Column>
     </Row>
     <Row>
@@ -6962,8 +6935,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Dai a ciascun giocatore un segnalino da 5 punti e fai loro selezionare
-          un green su cui posizionarlo.
+          Dale a cada jugador una ficha de 5 puntos y haz que seleccione un
+          green donde colocarla.{' '}
         </p>
       </Column>
     </Row>
@@ -6977,10 +6950,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Gira tutti i segnalini da 1 punto e 2 punti con il punteggio rivolto
-          verso il basso. Mescola. Seleziona un segnalino per ogni green che non
-          ne ha uno. Posiziona i segnalini con il punto rivolto verso l’altro in
-          modo che tutti i giocatori possano vedere il valore di ogni green.
+          Pon todas las fichas de 1 y 2 puntos con los puntos boca bajo. Baraja.
+          Selecciona una ficha para cada green que no tenga. Coloca las fichas
+          hacia arriba para que todos los jugadores puedan ver el valor de cada
+          green.
         </p>
       </Column>
     </Row>
@@ -6997,7 +6970,7 @@ const Content = () => (
         <h3>Scoring</h3>
       </Column>
       <Column>
-        <h3>SEGNARE PUNTI</h3>
+        <h3>Puntuación</h3>
       </Column>
     </Row>
     <Row>
@@ -7010,10 +6983,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I giocatori che raggiungono il green reclamano il segnalino che si
-          trova sul green. Se più giocatori raggiungono il green nello stesso
-          turno, sposta tutti i segnalini del punteggio al green successivo. Il
-          valore si accumula nel jackpot!
+          Los jugadores que llegan al green reclaman la ficha que está en el
+          green. Si varios jugadores llegan al green en el mismo turno, mueven
+          todas las fichas de puntuación al siguiente green. ¡Los jackpot de
+          valor!
         </p>
       </Column>
     </Row>
@@ -7034,8 +7007,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il giocatore che accumula più punti vince. Tie break using elimination
-          rounds.
+          El jugador con más puntos gana. Desempata usando rondas de
+          eliminación.{' '}
         </p>
       </Column>
     </Row>
@@ -7044,7 +7017,7 @@ const Content = () => (
         <h3>Elimination</h3>
       </Column>
       <Column>
-        <h3>ELIMINAZIONE</h3>
+        <h3>Eliminación</h3>
       </Column>
     </Row>
     <Row>
@@ -7057,10 +7030,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se la 18ª buca finisce in parità e il risultato potrebbe decidere i
-          vincitori, sposta i segnalini del punteggio dal 18º green al 1º green.
-          Se il risultato non è determina il vincitore, allora il giocatore in
-          testa vince.
+          Si hay empate en el hoyo 18 y el resultado decide el ganador, mueve
+          las fichas de puntuación del green del 18 al 1. Si el resultado no
+          determina el ganador, entonces gana el jugador que lleva la delantera.
         </p>
       </Column>
     </Row>
@@ -7081,8 +7053,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Tutti i giocatori che sono pari vengono spostati al 1º tee box. Azzera
-          la mano di tutti gli altri e rimuovi qualsiasi effetto degli ostacoli.
+          Todos los jugadores que empataron se mueven al primer tee de salida.
+          Resetea la mano de todos y elimina cualquier efecto de hazard.
         </p>
       </Column>
     </Row>
@@ -7103,8 +7075,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Gioca normalmente, con il vincitore che si aggiudica il jackpot
-          rimanente e la partita finisce quando viene conquistato il jackpot.
+          Juega como siempre, el ganador se lleva el jackpot restante y el juego
+          termina cuando se reclama el jackpot.
         </p>
       </Column>
     </Row>
@@ -7125,8 +7097,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se c’è un pareggio, solo i giocatori che hanno pareggiato proseguono
-          alla buca successiva. Gli altri giocatori vengono eliminati.
+          Si hay empate, solo los jugadores que empataron avanzan al siguiente
+          hoyo. Los demás jugadores quedan eliminados.
         </p>
       </Column>
     </Row>
@@ -7143,7 +7115,7 @@ const Content = () => (
         <h3>PARTS NEEDED FOR SCORING</h3>
       </Column>
       <Column>
-        <h3>PARTI NECESSARIE PER IL PUNTEGGIO</h3>
+        <h3>PARTES NECESARIAS PARA ANOTAR</h3>
       </Column>
     </Row>
     <Row>
@@ -7151,7 +7123,7 @@ const Content = () => (
         <p>5-point tokens</p>
       </Column>
       <Column>
-        <p>Segnalini da 5 punti</p>
+        <p> Fichas de 5 puntos</p>
       </Column>
     </Row>
     <Row>
@@ -7159,7 +7131,7 @@ const Content = () => (
         <p>2-point tokens</p>
       </Column>
       <Column>
-        <p>Segnalini da 2 punti</p>
+        <p>Fichas de 2 puntos</p>
       </Column>
     </Row>
     <Row>
@@ -7167,7 +7139,7 @@ const Content = () => (
         <p>1-point tokens</p>
       </Column>
       <Column>
-        <p>Segnalini da 1 punto</p>
+        <p>Fichas de 1 punto</p>
       </Column>
     </Row>
     <Row>
@@ -7203,8 +7175,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni giocatore ha un green obiettivo che deve tentare di raggiungere.
-          I giocatori segnano punti per ogni green obiettivo raggiunto.
+          Cada jugador tiene un green objetivo que trata de alcanzar. Los
+          jugadores anotan puntos por cada green objetivo alcanzado.
         </p>
       </Column>
     </Row>
@@ -7221,7 +7193,7 @@ const Content = () => (
         <h3>PLAYS</h3>
       </Column>
       <Column>
-        <h3>GIOCATORI</h3>
+        <h3>JUEGOS</h3>
       </Column>
     </Row>
     <Row>
@@ -7229,7 +7201,7 @@ const Content = () => (
         <p>2 - 5 players</p>
       </Column>
       <Column>
-        <p>2 - 5</p>
+        <p>2 - 5 jugadores</p>
       </Column>
     </Row>
     <Row>
@@ -7245,7 +7217,7 @@ const Content = () => (
         <h3>PLAY THIS MODE WHEN...</h3>
       </Column>
       <Column>
-        <h3>GIOCA QUESTA MODALITÀ QUANDO...</h3>
+        <h3>JUEGA ESTE MODO CUANDO...</h3>
       </Column>
     </Row>
     <Row>
@@ -7257,8 +7229,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ti piace il chaos golf e le fetch quest, e vuoi aggiungere un po’ più
-          di incertezza al gioco.
+          Te gusta el Chaos Golf y las misiones de búsqueda, y quieres añadir un
+          poco más de incertidumbre al juego.
         </p>
       </Column>
     </Row>
@@ -7275,7 +7247,7 @@ const Content = () => (
         <h3>HOW TO WIN</h3>
       </Column>
       <Column>
-        <h3>COME SI VINCE</h3>
+        <h3>CÓMO GANAR</h3>
       </Column>
     </Row>
     <Row>
@@ -7283,7 +7255,7 @@ const Content = () => (
         <p>3 points for each secret green claimed.</p>
       </Column>
       <Column>
-        <p>3 punti per ciascun green segreto acquisito.</p>
+        <p>3 puntos por cada green secreto reclamado.</p>
       </Column>
     </Row>
     <Row>
@@ -7291,7 +7263,7 @@ const Content = () => (
         <p>2 points for claiming the secret green of another player.</p>
       </Column>
       <Column>
-        <p>2 punti per acquisire il green segreto di un altro giocatore.</p>
+        <p>2 puntos por reclamar el green secreto de otro jugador. </p>
       </Column>
     </Row>
     <Row>
@@ -7299,7 +7271,7 @@ const Content = () => (
         <p>1 point for any other green.</p>
       </Column>
       <Column>
-        <p>1 punto per ogni altro green.</p>
+        <p>1 punto por cualquier otro green.</p>
       </Column>
     </Row>
     <Row>
@@ -7315,7 +7287,7 @@ const Content = () => (
         <p>The highest score wins.</p>
       </Column>
       <Column>
-        <p>Il punteggio più alto vince.</p>
+        <p>La puntuación más alta gana.</p>
       </Column>
     </Row>
     <Row>
@@ -7331,7 +7303,7 @@ const Content = () => (
         <h3>Rule Variations</h3>
       </Column>
       <Column>
-        <h3>VARIAZIONI ALLE REGOLE</h3>
+        <h3>Variaciones de las reglas</h3>
       </Column>
     </Row>
     <Row>
@@ -7343,8 +7315,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa le regole per Chaos Golf eccetto quando vanno in conflitto con le
-          regole sotto.
+          Usa las reglas del Chaos Golf excepto cuando estén en conflicto con
+          las reglas de abajo.
         </p>
       </Column>
     </Row>
@@ -7361,7 +7333,7 @@ const Content = () => (
         <h3>Setup</h3>
       </Column>
       <Column>
-        <h3>PREPARAZIONE</h3>
+        <h3>Configuración</h3>
       </Column>
     </Row>
     <Row>
@@ -7369,7 +7341,7 @@ const Content = () => (
         <p>Place a flag on each green.</p>
       </Column>
       <Column>
-        <p>Metti una bandierina su ciascun green.</p>
+        <p>Coloca una bandera en cada green.</p>
       </Column>
     </Row>
     <Row>
@@ -7381,8 +7353,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Metti i contrassegni green piccoli da 1 punto con il lato del punto in
-          alto sul tavolo, mescola.
+          Coloca los pequeños marcadores verdes de un punto en la mesa, y
+          baraja.
         </p>
       </Column>
     </Row>
@@ -7391,7 +7363,7 @@ const Content = () => (
         <p>Place the 2-point tokens in a pile near the board.</p>
       </Column>
       <Column>
-        <p>Metti i contrassegni da 2 punti in una pila vicino al tabellone.</p>
+        <p>Coloca las fichas de 2 puntos en un montón cerca del tablero.</p>
       </Column>
     </Row>
     <Row>
@@ -7403,8 +7375,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni giocatore pesca due segnalini da 1 punto conservandone uno e
-          restituendo l’altro. I giocatori mantengono segreto l’obiettivo.
+          Cada jugador saca dos fichas de 1 punto, se queda una y devuelve la
+          otra. Los jugadores mantienen su objetivo en secreto.
         </p>
       </Column>
     </Row>
@@ -7421,7 +7393,7 @@ const Content = () => (
         <h3>Game Play</h3>
       </Column>
       <Column>
-        <h3>Svolgimento del Gioco</h3>
+        <h3>Juego</h3>
       </Column>
     </Row>
     <Row>
@@ -7430,8 +7402,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni giocatore può colpire in qualsiasi direzione e cercare di
-          conquistare qualsiasi buca.
+          Cada jugador puede golpear en cualquier dirección e intentar reclamar
+          cualquier hoyo.
         </p>
       </Column>
     </Row>
@@ -7452,8 +7424,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando rimane solo un segnalino nella busta, il giocatore pesca quel
-          segnalino.
+          Cuando solo queda una ficha en la bolsa, el jugador saca esa ficha.
         </p>
       </Column>
     </Row>
@@ -7470,7 +7441,7 @@ const Content = () => (
         <h3>Scoring a target green</h3>
       </Column>
       <Column>
-        <h3>METTERE A SEGNO UN GREEN OBIETTIVO</h3>
+        <h3>Marcando un green objetivo</h3>
       </Column>
     </Row>
     <Row>
@@ -7484,11 +7455,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando giocatore raggiunge il proprio green obiettivo, rivela il
-          segnalino green obiettivo a faccia in su e toglie la bandierina dal
-          tabellone e la rimette nella scatola. Prendi un segnalino da 2 punti e
-          lo metti con il tuo punteggio. Aggiungi il segnalino da 1 punto che
-          usavi come obiettivo segreto al tuo punteggio.
+          Cuando un jugador llega a su green objetivo, pone su ficha del green
+          objetivo boca arriba, quita la bandera del tablero y la vuelve a poner
+          en la caja. Coge una ficha de 2 puntos y ponla con tu puntuación.
+          Añade a tu puntuación la ficha de 1 punto que estabas usando como
+          objetivo secreto.
         </p>
       </Column>
     </Row>
@@ -7501,8 +7472,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Pesca altri due segnalini sostitutivi da 1 punto, ne tieni uno come
-          prossimo obiettivo e restituisci l’altro.
+          Saca dos fichas de reemplazo de 1 punto, mantén una como tu próximo
+          objetivo y devuelve la otra.
         </p>
       </Column>
     </Row>
@@ -7519,7 +7490,7 @@ const Content = () => (
         <h3>Scoring another’s target green</h3>
       </Column>
       <Column>
-        <h3>METTERE A SEGNO IL GREEN OBIETTIVO DI UN ALTRO</h3>
+        <h3>Anotar el green objetivo de otro</h3>
       </Column>
     </Row>
     <Row>
@@ -7531,9 +7502,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se qualcuno acquisisce il tuo obiettivo, passagli il tuo segnalino da
-          1 punto. Pesca due segnalini sostitutivi da 1 punto, un ottieni e uno
-          lo restituisci.
+          Si alguien reclama tu objetivo, entrégale tu ficha de 1 punto. Saca
+          dos fichas de reemplazo de 1 punto, guarda una y devuelve la otra.
         </p>
       </Column>
     </Row>
@@ -7554,8 +7524,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se acquisisci il green obiettivo di un altro giocatore, tu prendi il
-          loro segnalino da 1 punto e la bandierina del green.
+          Si reclamas el green objetivo de otro jugador, anotarás su ficha de 1
+          punto y la bandera del green.
         </p>
       </Column>
     </Row>
@@ -7572,7 +7542,7 @@ const Content = () => (
         <h3>Scoring any other green</h3>
       </Column>
       <Column>
-        <h3>METTERE A SEGNO QUALSIASI ALTRO GREEN</h3>
+        <h3>Anotando cualquier otro green</h3>
       </Column>
     </Row>
     <Row>
@@ -7580,7 +7550,7 @@ const Content = () => (
         <p>Remove the flag from the green and add it to your score.</p>
       </Column>
       <Column>
-        <p>Rimuovi la bandierina green e aggiungila al tuo punteggio.</p>
+        <p>Quita la bandera del green y añádela a tu puntuación.</p>
       </Column>
     </Row>
     <Row>
@@ -7596,7 +7566,7 @@ const Content = () => (
         <h3>Final Scoring</h3>
       </Column>
       <Column>
-        <h3>PUNTEGGIO FINALE</h3>
+        <h3>Puntuación final</h3>
       </Column>
     </Row>
     <Row>
@@ -7609,9 +7579,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il gioco termina immediatamente dopo che un giocatore conquista
-          l’ultimo green. Somma il valore dei token accumulati. Le bandierine
-          valgono 1 punto. Il punteggio più alto vince.
+          El juego termina inmediatamente después de que un jugador anota el
+          último green. Suma el valor de tus fichas anotadas. Las banderas valen
+          un punto. La puntuación más alta gana.
         </p>
       </Column>
     </Row>
@@ -7628,7 +7598,7 @@ const Content = () => (
         <h3>PARTS NEEDED FOR SCORING</h3>
       </Column>
       <Column>
-        <h3>PARTI NECESSARIE PER IL PUNTEGGIO</h3>
+        <h3>PARTES NECESARIAS PARA ANOTAR </h3>
       </Column>
     </Row>
     <Row>
@@ -7636,7 +7606,7 @@ const Content = () => (
         <p>Flags</p>
       </Column>
       <Column>
-        <p>Bandierine</p>
+        <p>Banderas</p>
       </Column>
     </Row>
     <Row>
@@ -7644,7 +7614,7 @@ const Content = () => (
         <p>2-point tokens</p>
       </Column>
       <Column>
-        <p>Segnalini da 2 punti</p>
+        <p>Fichas de 2 puntos</p>
       </Column>
     </Row>
     <Row>
@@ -7652,7 +7622,7 @@ const Content = () => (
         <p>1-point tokens</p>
       </Column>
       <Column>
-        <p>Segnalini da 1 punto</p>
+        <p>Fichas de 1 punto</p>
       </Column>
     </Row>
     <Row>
@@ -7665,10 +7635,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Stableford è un sistema di punteggio più tollerante rispetto a Stroke
-          Play poiché limita il tuo massimo negativo per ogni singolo turno.
-          Inoltre imposta un tetto al punteggio massimo che puoi accumulare per
-          ogni buca.
+          Stableford es un sistema de puntuación más indulgente que el Stroke
+          Play, ya que limita lo mal que puedes hacerlo en un solo turno.
+          También limita el máximo que puedes anotar por hoyo.
         </p>
       </Column>
     </Row>
@@ -7701,7 +7670,7 @@ const Content = () => (
         <h3>PLAYS</h3>
       </Column>
       <Column>
-        <h3>GIOCATORI</h3>
+        <h3>JUEGOS</h3>
       </Column>
     </Row>
     <Row>
@@ -7709,7 +7678,7 @@ const Content = () => (
         <p>1 - 5 players</p>
       </Column>
       <Column>
-        <p>1 - 5</p>
+        <p>1 - 5 jugadores</p>
       </Column>
     </Row>
     <Row>
@@ -7725,7 +7694,7 @@ const Content = () => (
         <h3>PLAY THIS MODE WHEN...</h3>
       </Column>
       <Column>
-        <h3>GIOCA QUESTA MODALITÀ QUANDO...</h3>
+        <h3>JUEGA ESTE MODO CUANDO...</h3>
       </Column>
     </Row>
     <Row>
@@ -7737,8 +7706,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Vuoi un’esperienza golfistica più autentica e in sistema di punteggi
-          che sia più indulgente rispetto ai gol classico.
+          Quieres una experiencia de golf más auténtica y un sistema de
+          puntuación más indulgente que el del golf tradicional.
         </p>
       </Column>
     </Row>
@@ -7755,7 +7724,7 @@ const Content = () => (
         <h3>HOW TO WIN</h3>
       </Column>
       <Column>
-        <h3>COME SI VINCE</h3>
+        <h3>CÓMO GANAR</h3>
       </Column>
     </Row>
     <Row>
@@ -7770,11 +7739,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Chi fa più punti vince. Stableford è un sistema di punteggio dove si
-          ottengono 2 punti per aver aggiunto il par. Si accumulano punti bonus
-          quando si batte il par (sotto) e si perdono punti quando si va sopra
-          il par. Il punteggio più alto per ogni buca 4, 5 o 6 a seconda che sia
-          un par 3, 4 o 5. Il punteggio più basso per una buca e zero (0).
+          El jugador con más puntos gana. Stableford es un sistema de puntuación
+          en el que obtienes 2 puntos por alcanzar el par. Ganas puntos extra
+          por hacer el hoyo bajo par y pierdes puntos por hacerlo sobre par. La
+          puntuación más alta por hoyo es 4, 5 o 6, dependiendo de si es un par
+          3, 4 o 5. La puntuación más baja por hoyo es cero (0).
         </p>
       </Column>
     </Row>
@@ -7791,7 +7760,7 @@ const Content = () => (
         <h3>Rule Variations</h3>
       </Column>
       <Column>
-        <h3>VARIAZIONI ALLE REGOLE</h3>
+        <h3>Variaciones de las reglas</h3>
       </Column>
     </Row>
     <Row>
@@ -7803,8 +7772,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa le regole per Match Play eccetto quando vanno in conflitto con le
-          regole sotto.
+          Utiliza las reglas del Match Play, excepto cuando entren en conflicto
+          con las reglas que se indican a continuación.
         </p>
       </Column>
     </Row>
@@ -7821,7 +7790,7 @@ const Content = () => (
         <h3>Game Play</h3>
       </Column>
       <Column>
-        <h3>SVOLGIMENTO DEL GIOCO</h3>
+        <h3>Juego</h3>
       </Column>
     </Row>
     <Row>
@@ -7833,8 +7802,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando un giocatore raggiunge il green, attende che tutti gli altri
-          abbiano completato la buca prima di continuare
+          Cuando un jugador llega al green, espera a que todos los demás
+          completen el hoyo antes de seguir adelante.
         </p>
       </Column>
     </Row>
@@ -7851,7 +7820,7 @@ const Content = () => (
         <h3>Scoring</h3>
       </Column>
       <Column>
-        <h3>SEGNARE PUNTI</h3>
+        <h3>Puntuación</h3>
       </Column>
     </Row>
     <Row>
@@ -7863,9 +7832,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Metti a segno ciascuna buca quando la completi. Conta i tuoi turni
-          (inclusi i turni saltati e i fori percorso) e confronta con il par del
-          percorso.
+          Anota cada hoyo a medida que lo completas. Cuenta tus turnos
+          (incluyendo los perdidos y los fuera de los límites) y compáralas con
+          la calificación de par del campo.
         </p>
       </Column>
     </Row>
@@ -7882,7 +7851,7 @@ const Content = () => (
         <h3>Points Reason</h3>
       </Column>
       <Column>
-        <h3>Punti Motivo</h3>
+        <h3>Puntos Razón</h3>
       </Column>
     </Row>
     <Row>
@@ -7890,7 +7859,7 @@ const Content = () => (
         <p>2 Base Score for each hole</p>
       </Column>
       <Column>
-        <p>2 Punteggio Base per ogni buca</p>
+        <p>2 puntuación base para cada hoyo</p>
       </Column>
     </Row>
     <Row>
@@ -7903,9 +7872,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          +1 Per ogni turno sotto il par. Ad esempio: su un par 4 se hai
-          impiegato 3 turni per raggiungere il green, accumuli +1 punto bonus
-          (un totale di 3 punti)
+          +1 por cada turno bajo par. Por ejemplo: en un par 4, si necesitas 3
+          turnos para alcanzar el green, obtienes +1 punto extra (un total de 3
+          puntos)
         </p>
       </Column>
     </Row>
@@ -7918,9 +7887,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          -1 Per ogni turno sopra il par. Ad esempio: su un par 4, se hai
-          impiegato 5 turni per raggiungere il green perdi 1 punto (per un
-          totale di 1 punto)
+          -1 por cada turno sobre par. Por ejemplo: en un par 4, si necesitas 5
+          turnos para alcanzar el green, pierdes 1 punto (un total de 1 punto)
         </p>
       </Column>
     </Row>
@@ -7945,10 +7913,7 @@ const Content = () => (
         <p>Zero (0) is the lowest a player can score on a hole.</p>
       </Column>
       <Column>
-        <p>
-          Zero (0) è il punteggio più basso che un giocatore può fare per una
-          buca.
-        </p>
+        <p>Cero (0) es lo más bajo que un jugador puede anotar en un hoyo.</p>
       </Column>
     </Row>
     <Row>
@@ -7960,8 +7925,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          In alternativa, puoi usare questa tabella per guardare il punteggio
-          per ogni buca.
+          Alternativamente, puedes usar esta tabla para buscar tu puntuación en
+          cada hoyo.
         </p>
       </Column>
     </Row>
@@ -7986,7 +7951,7 @@ const Content = () => (
         <p>Hole Par</p>
       </Column>
       <Column>
-        <p>Par Buca</p>
+        <p>Par de hoyo</p>
       </Column>
     </Row>
     <Row>
@@ -7994,7 +7959,7 @@ const Content = () => (
         <p>Turns</p>
       </Column>
       <Column>
-        <p>Turni</p>
+        <p>Turnos</p>
       </Column>
     </Row>
     <Row>
@@ -8002,7 +7967,7 @@ const Content = () => (
         <p>Points</p>
       </Column>
       <Column>
-        <p>Punti</p>
+        <p>Puntos</p>
       </Column>
     </Row>
     <Row>
@@ -8039,9 +8004,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Golf tradizionale. Il tuo obiettivo è di raggiungere il 18º green con
-          il punteggio più basso. Fai 1 punto per ogni turno, per ogni turno
-          saltato e per ogni fuori percorso.
+          Golf tradicional. Tu objetivo es llegar al green 18 con la puntuación
+          más baja. Anota un punto por cada turno que hagas, turno perdido y
+          fuera de los límites.
         </p>
       </Column>
     </Row>
@@ -8058,7 +8023,7 @@ const Content = () => (
         <p>You’ll need a pen and paper for this one.</p>
       </Column>
       <Column>
-        <p>Ti serviranno carta e penna per giocare a questa variante.</p>
+        <p>Necesitarás un bolígrafo y un papel para esto.</p>
       </Column>
     </Row>
     <Row>
@@ -8074,7 +8039,7 @@ const Content = () => (
         <h3>PLAYS</h3>
       </Column>
       <Column>
-        <h3>GIOCATORI</h3>
+        <h3>JUEGOS</h3>
       </Column>
     </Row>
     <Row>
@@ -8082,7 +8047,7 @@ const Content = () => (
         <p>1 - 5 players</p>
       </Column>
       <Column>
-        <p>1 - 5</p>
+        <p>1 - 5 jugadores</p>
       </Column>
     </Row>
     <Row>
@@ -8098,7 +8063,7 @@ const Content = () => (
         <h3>PLAY THIS MODE WHEN...</h3>
       </Column>
       <Column>
-        <h3>GIOCA QUESTA MODALITÀ QUANDO...</h3>
+        <h3>JUEGA ESTE MODO CUANDO...</h3>
       </Column>
     </Row>
     <Row>
@@ -8106,7 +8071,7 @@ const Content = () => (
         <p>When you want a traditional golf experience.</p>
       </Column>
       <Column>
-        <p>Quando vuoi un’esperienza golfistica tradizionale.</p>
+        <p>Cuando quieres una experiencia de golf tradicional.</p>
       </Column>
     </Row>
     <Row>
@@ -8122,7 +8087,7 @@ const Content = () => (
         <h3>HOW TO WIN</h3>
       </Column>
       <Column>
-        <h3>COME SI VINCE</h3>
+        <h3>CÓMO GANAR</h3>
       </Column>
     </Row>
     <Row>
@@ -8134,9 +8099,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I giocatori mettono a segno un punto per ogni carta mazza giocata, per
-          ogni ostacolo d’acqua su cui atterrano o per ogni fuori campo. Il
-          giocatore con il punteggio più basso vince.
+          Los jugadores anotan un punto por cada carta de palos que juegan,
+          hazards de agua en que caen dentro o fuera de los límites. El jugador
+          con la puntuación más baja gana.
         </p>
       </Column>
     </Row>
@@ -8153,7 +8118,7 @@ const Content = () => (
         <h3>Rule Variations</h3>
       </Column>
       <Column>
-        <h3>VARIAZIONI ALLE REGOLE</h3>
+        <h3>Variaciones de las reglas</h3>
       </Column>
     </Row>
     <Row>
@@ -8165,8 +8130,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Usa le regole per Match Play eccetto quando vanno in conflitto con le
-          regole sotto.
+          Utiliza las reglas del Match Play, excepto cuando entren en conflicto
+          con las reglas que se indican a continuación.
         </p>
       </Column>
     </Row>
@@ -8183,7 +8148,7 @@ const Content = () => (
         <h3>Game Play</h3>
       </Column>
       <Column>
-        <h3>SVOLGIMENTO DEL GIOCO</h3>
+        <h3>Juego</h3>
       </Column>
     </Row>
     <Row>
@@ -8195,8 +8160,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando un giocatore raggiunge il green, attende che tutti gli altri
-          completino la buca prima di continuare.
+          Cuando un jugador llega al green, espera a que todos los demás
+          completen el hoyo antes de seguir adelante.
         </p>
       </Column>
     </Row>
@@ -8217,8 +8182,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I giocatori che atterrano sull’acqua non saltano un turno, ma
-          aggiungono uno al loro punteggio.
+          Los jugadores que caen en el agua no pierden turno, pero añaden un
+          punto a su puntuación.
         </p>
       </Column>
     </Row>
@@ -8236,7 +8201,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I giocatori che finiscono fuori campo aggiungono uno al punteggio.
+          Los jugadores que terminan fuera de los límites añaden uno a su
+          puntuación.
         </p>
       </Column>
     </Row>
@@ -8253,7 +8219,7 @@ const Content = () => (
         <h3>Scoring</h3>
       </Column>
       <Column>
-        <h3>SEGNARE PUNTI</h3>
+        <h3>Puntuación</h3>
       </Column>
     </Row>
     <Row>
@@ -8264,8 +8230,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Con carta e penna, usa i segnalini per tracciare il turno di ogni
-          giocatore.
+          Con bolígrafo y papel, usa marcas de conteo para registrar el turno de
+          cada jugador.
         </p>
       </Column>
     </Row>
@@ -8286,8 +8252,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni percorso avrà un punteggio di par. Anche se non vinci oggi,
-          battere il par è un traguardo.
+          Cada campo tendrá una puntuación de par. Incluso si no ganas hoy,
+          ganar al par es un logro.
         </p>
       </Column>
     </Row>
@@ -8308,8 +8274,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Tieni traccia dei tuoi punteggi. Quando arrivi a giocare nuovamente lo
-          stesso percorso, prova a battere il tuo record precedente.
+          Lleva un registro de tus puntuaciones. Cuando vuelvas a jugar en el
+          mismo campo, trata de superar tu puntuación mejor anterior.
         </p>
       </Column>
     </Row>
@@ -8350,7 +8316,7 @@ const Content = () => (
         <h1>Golfer Abilities</h1>
       </Column>
       <Column>
-        <h1>Abilità dei Golfisti</h1>
+        <h1>Habilidades del golfista</h1>
       </Column>
     </Row>
     <Row>
@@ -8372,10 +8338,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ci sono otto golfisti diversi in 18 Holes, e ognuno di loro porta
-          un’esperienza differente. Ciascun golfista ha un lato A e un lato B.
-          Il lato A rende il gioco più semplice, mentre il lato B rende il gioco
-          più difficile. C’è una A o una B nell’angolo in basso a destra.
+          Hay ocho golfistas diferentes en 18 Holes, y cada uno de ellos aporta
+          una experiencia diferente. Cada golfista tiene un lado A y un lado B.
+          El lado A hace el juego más fácil, y el lado B hace el juego más
+          difícil. Hay una A o una B en la esquina inferior derecha.
         </p>
       </Column>
     </Row>
@@ -8400,7 +8366,7 @@ const Content = () => (
         <h3>a-side</h3>
       </Column>
       <Column>
-        <h3>Lato A</h3>
+        <h3>Lado A</h3>
       </Column>
     </Row>
     <Row>
@@ -8414,11 +8380,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Immediatamente prima che Bunjil scelga la mazza da giocare, può
-          guardare la prima carta di un mazzo una volta. Gira Bunjil di lato
-          (paesaggio) per indicare che il suo potere è stato usato. Il giocatore
-          non deve mostrare la carta agli altri giocatori. Rimetti la carta a
-          faccia in giù in cima al mazzo tiro.
+          Inmediatamente antes de que Bunjil seleccione su palo para jugar,
+          puede mirar la primera carta de un mazo una vez. Pon a Bunjil de lado
+          (horizontal) para indicar que su poder se ha utilizado. El jugador no
+          debe mostrar la carta a otros jugadores. Devuelve la carta boca abajo
+          a la parte superior del mazo de tiros.
         </p>
       </Column>
     </Row>
@@ -8437,7 +8403,10 @@ const Content = () => (
         </p>
       </Column>
       <Column>
-        <p>Una volta terminata la buca, riporta Bunjil in modalità ritratto.</p>
+        <p>
+          Cuando el hoyo haya terminado, vuelve a poner a Bunjil en la
+          orientación vertical.
+        </p>
       </Column>
     </Row>
     <Row>
@@ -8457,8 +8426,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Bunjil può guardare solo le carte nei mazzi tiro da cui potrebbe
-          legittimamente pescare.
+          {' '}
+          Bunjil solo puede buscar cartas que pueden robar legítimamente en los
+          mazos de tiros.
         </p>
       </Column>
     </Row>
@@ -8475,7 +8445,7 @@ const Content = () => (
         <h3>b-side</h3>
       </Column>
       <Column>
-        <h3>Lato B</h3>
+        <h3>Lado B</h3>
       </Column>
     </Row>
     <Row>
@@ -8488,10 +8458,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Come per il lato A inoltre Bunjil deve decidere se tenere la carta
-          tiro e usarla sul prossimo tiro oppure rimette la carta in cima al
-          mazzo tiro, a faccia in su in modo da farla vedere agli altri
-          giocatori.
+          Por su parte, Bunjil tiene que decidir entre quedarse con la carta de
+          tiro y usarla en su próximo golpe o devolverla a la parte superior del
+          mazo de tiro, boca arriba para que todos los jugadores la vean.
         </p>
       </Column>
     </Row>
@@ -8512,8 +8481,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se Bunjil tiene la carta, allora il giocatore deve giocare una mazza
-          che possa accedere a quel mazzo tiro.
+          Si Bunjil se queda con la carta, el jugador debe jugar un palo que
+          pueda acceder a ese mazo de tiros.
         </p>
       </Column>
     </Row>
@@ -8538,7 +8507,7 @@ const Content = () => (
         <h3>a-side</h3>
       </Column>
       <Column>
-        <h3>Lato A</h3>
+        <h3>Lado A</h3>
       </Column>
     </Row>
     <Row>
@@ -8552,10 +8521,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Dopo la selezione delle carte, prima della prima buca, il giocatore
-          con Dorian comunica al resto del gruppo quale delle sue mazze e non
-          scadrà mai. Ogni volta che si usa questa mazza, rimettila in mano
-          invece di scartarla.
+          Después de repartir las cartas, antes del primer hoyo, el jugador con
+          Dorian le dice al resto del grupo cuáles de sus palos nunca expiran.
+          Siempre que uses este palo, devuélvelo a tu mano en lugar de
+          descartarlo.
         </p>
       </Column>
     </Row>
@@ -8577,10 +8546,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Dorian non può azzerare le mazze durante una buca ma può azzerare le
-          mazze solo alla fine di una buca se la sua mano contiene solo la mazza
-          che non scade mai (e vengono soddisfatte le regole per azzerare la
-          mano).
+          Dorian no puede resetear sus palos durante un hoyo, pero puede
+          resetearlos al final del hoyo si su mano solo contiene su palo que
+          nunca expira (y cumple las reglas para un reseteo de mano).
         </p>
       </Column>
     </Row>
@@ -8597,7 +8565,7 @@ const Content = () => (
         <h3>b-side</h3>
       </Column>
       <Column>
-        <h3>Lato B</h3>
+        <h3>Lado B</h3>
       </Column>
     </Row>
     <Row>
@@ -8609,8 +8577,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Dorian non scarta mai le mazze dopo l’uso. Dorian può prendere solo
-          tre mazze durante la selezione.
+          Dorian nunca se deshace de sus palos después de usarlos. Dorian solo
+          puede coger tres palos durante el reparto.
         </p>
       </Column>
     </Row>
@@ -8635,7 +8603,7 @@ const Content = () => (
         <h3>a-side</h3>
       </Column>
       <Column>
-        <h3>Lato A</h3>
+        <h3>Lado A</h3>
       </Column>
     </Row>
     <Row>
@@ -8648,9 +8616,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Prima della selezione mazze, il giocatore che ha Iron Jane seleziona
-          le mazze fra le mazze disponibili. Mescola le carte rimanenti e
-          distribuiscile agli altri giocatori.
+          Antes de repartir las cartas, el jugador con Iron Jane selecciona sus
+          palos de entre los disponibles. Baraja las cartas restantes y
+          repártelas a los demás jugadores.
         </p>
       </Column>
     </Row>
@@ -8667,7 +8635,7 @@ const Content = () => (
         <h3>b-side</h3>
       </Column>
       <Column>
-        <h3>Lato B</h3>
+        <h3>Lado B</h3>
       </Column>
     </Row>
     <Row>
@@ -8679,8 +8647,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Come per il lato A inoltre Iron Jane può trasportare solo quattro
-          mazze. Iron Jane non può avere due mazze identiche.
+          Iron Jane por el lado A solo puede llevar cuatro palos. Iron Jane no
+          puede coger dos del mismo palo.
         </p>
       </Column>
     </Row>
@@ -8697,7 +8665,7 @@ const Content = () => (
         <h2>Lucky</h2>
       </Column>
       <Column>
-        <h2>Lucky</h2>
+        <h2>Lucky </h2>
       </Column>
     </Row>
     <Row>
@@ -8705,7 +8673,7 @@ const Content = () => (
         <h3>a-side</h3>
       </Column>
       <Column>
-        <h3>Lato A</h3>
+        <h3>Lado A</h3>
       </Column>
     </Row>
     <Row>
@@ -8720,11 +8688,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Durante il gioco, una volta per mano, Lucky può pescare nuovamente una
-          carta tiro. Per farlo, il giocatore con Lucky lo comunica al gruppo di
-          gioco e poi gira di lato Lucky (paesaggio) a indicare il potere come
-          usato. Giocatore poi pesca una nuova carta tiro dallo stesso mazzo di
-          prima. Lucky deve giocare la nuova carta.
+          Durante el juego, una vez por mano, Lucky puede volver a sacar una
+          carta de tiro. Para ello, el jugador con Lucky se lo dice al grupo de
+          juego y luego pone a Lucky de lado (horizontal) para indicar que su
+          poder se ha utilizado. El jugador entonces saca una nueva carta de
+          tiro del mismo mazo que la anterior. Lucky debe jugar la nueva carta.
         </p>
       </Column>
     </Row>
@@ -8741,10 +8709,7 @@ const Content = () => (
         <p>While Lucky is oriented in landscape you cannot use this power.</p>
       </Column>
       <Column>
-        <p>
-          Mentre Lucky è orientata in modalità paesaggio non puoi usare questo
-          potere.
-        </p>
+        <p>Mientras que Lucky está en horizontal no puede usar este poder. </p>
       </Column>
     </Row>
     <Row>
@@ -8762,7 +8727,7 @@ const Content = () => (
         </p>
       </Column>
       <Column>
-        <p>Quando azzeri la mano, riporta Lucky sull’orientamento ritratto.</p>
+        <p>Al resetear su mano, vuelve a poner a Lucky en vertical.</p>
       </Column>
     </Row>
     <Row>
@@ -8778,7 +8743,7 @@ const Content = () => (
         <h3>b-side</h3>
       </Column>
       <Column>
-        <h3>Lato B</h3>
+        <h3>Lado B</h3>
       </Column>
     </Row>
     <Row>
@@ -8791,9 +8756,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Come per il lato A inoltre quando usa l’abilità di Lucky, il giocatore
-          scarta una delle altre mazze. Se il giocatore non ha altre mazze, non
-          può usare il potere di Lucky.
+          En cuanto a la ventaja de usar la habilidad de Lucky, el jugador
+          descarta uno de sus otros palos. Si el jugador no tiene otros palos,
+          no puede usar el poder de Lucky.
         </p>
       </Column>
     </Row>
@@ -8810,7 +8775,7 @@ const Content = () => (
         <p>You may only perform Lucky’s power once per hole.</p>
       </Column>
       <Column>
-        <p>Puoi eseguire il potere di Lucky solo una volta per buca.</p>
+        <p>Solo puedes usar el poder de Lucky una vez por hoyo.</p>
       </Column>
     </Row>
     <Row>
@@ -8834,7 +8799,7 @@ const Content = () => (
         <h3>a-side</h3>
       </Column>
       <Column>
-        <h3>Lato A</h3>
+        <h3>Lado A</h3>
       </Column>
     </Row>
     <Row>
@@ -8848,11 +8813,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Dopo che tutti i giocatori hanno rivelato le proprie carte mazza,
-          Slick Rikesh può usare la mazza scelta da un altro giocatore.
-          L’iniziativa della mazza di Slick Rikesh è la stessa della mazza del
-          possessore originale e gioca immediatamente dopo. Slick Rikesh può
-          usare il suo potere solo una volta per buca.
+          Después de que todos los jugadores hayan revelado sus cartas de palos,
+          Slick Rikesh puede usar el palo elegido por otro jugador. La
+          iniciativa del palo de Slick Rikesh es la misma que la del propietario
+          original y juega inmediatamente después. Slick Rikesh solo puede usar
+          su poder una vez por hoyo.
         </p>
       </Column>
     </Row>
@@ -8873,8 +8838,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Gira Slick Rikesh lateralmente (paesaggio) per indicare il potere come
-          usato. Riporta in modalità ritratto dopo ogni buca.
+          Pon a Slick Rikesh de lado (horizontal) para indicar que su poder se
+          ha utilizado. Vuelve a ponerlo en vertical después de cada hoyo.
         </p>
       </Column>
     </Row>
@@ -8891,7 +8856,7 @@ const Content = () => (
         <h3>b-side</h3>
       </Column>
       <Column>
-        <h3>Lato B</h3>
+        <h3>Lado B</h3>
       </Column>
     </Row>
     <Row>
@@ -8903,9 +8868,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il giocatore con Slick Rikesh sceglie solo una carta durante la
-          selezione può prendere quella mazza da qualsiasi round della
-          selezione.
+          El jugador con Slick Rikesh solo escoge una carta durante el reparto y
+          puede escoger ese palo de cualquier ronda del reparto.
         </p>
       </Column>
     </Row>
@@ -8928,10 +8892,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Durante il gioco, Slick Rikesh giocherà quella mazza come al solito
-          (per determinare l’iniziativa) e può quindi selezionare qualsiasi
-          mazza scartata di un altro giocatore da usare. Se non ci sono mazze
-          scartate, Slick Rikesh deve usare quella mazza.
+          Durante el juego, Slick Rikesh jugará con su palo como de costumbre
+          (para determinar la iniciativa) y podrá entonces seleccionar cualquier
+          palo descartado de otro jugador para utilizarlo. Si no hay palos
+          descartados, Slick Rikesh debe jugar con su palo.
         </p>
       </Column>
     </Row>
@@ -8956,7 +8920,7 @@ const Content = () => (
         <h3>a-side</h3>
       </Column>
       <Column>
-        <h3>Lato A</h3>
+        <h3>Lado A</h3>
       </Column>
     </Row>
     <Row>
@@ -8969,10 +8933,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Slugger deve portare con sé il driver. Rimuovi questa carta dal mazzo
-          prima della selezione mazze e dalla al giocatore che ha Slugger.
-          Slugger sceglierà quattro mazze durante la selezione, saltando
-          l’ultimo turno.
+          El bateador debe llevar el driver. Retira esta carta del mazo antes
+          del reparto de palos y dásela al jugador con Slugger. Slugger
+          seleccionará cuatro palos durante el reparto, saltándose el último
+          turno.
         </p>
       </Column>
     </Row>
@@ -8991,7 +8955,9 @@ const Content = () => (
         </p>
       </Column>
       <Column>
-        <p>Durante il gioco, non scarti mai il driver. Rimettilo in mano.</p>
+        <p>
+          Durante el juego, nunca descartes el driver. Devuélvelo a tu mano.
+        </p>
       </Column>
     </Row>
     <Row>
@@ -9007,7 +8973,7 @@ const Content = () => (
         <h3>b-side</h3>
       </Column>
       <Column>
-        <h3>Lato B</h3>
+        <h3>Lado B</h3>
       </Column>
     </Row>
     <Row>
@@ -9019,8 +8985,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Come per il lato A inoltre Slugger deve usare un Legno o il Driver su
-          tutti i tee box. Sì, inclusi i par 3.
+          Slugger con el lado A debe usar una madera o un driver en todos los
+          tees de salida. Sí, incluyendo pares 3.
         </p>
       </Column>
     </Row>
@@ -9045,7 +9011,7 @@ const Content = () => (
         <h3>a-side</h3>
       </Column>
       <Column>
-        <h3>Lato A</h3>
+        <h3>Lado A</h3>
       </Column>
     </Row>
     <Row>
@@ -9058,9 +9024,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Durante il passaggio per determinare l’ordine di gioco, sottrai uno
-          dall’iniziativa della mazza giocata da Swift. Se l’iniziativa di Swift
-          pareggia con un altro giocatore, Swift va per primo.
+          Durante el paso de determinar el orden de juego, resta uno de la
+          iniciativa del palo jugado por Swift. Si la iniciativa de Swift se
+          vincula con otro jugador, Swift va primero.
         </p>
       </Column>
     </Row>
@@ -9077,7 +9043,7 @@ const Content = () => (
         <h3>b-side</h3>
       </Column>
       <Column>
-        <h3>Lato B</h3>
+        <h3>Lado B</h3>
       </Column>
     </Row>
     <Row>
@@ -9090,9 +9056,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Durante il passaggio per determinare l’ordine di gioco, sottrai uno
-          dall’iniziativa della mazza giocata da Swift. Se l’iniziativa di Swift
-          pareggia con un altro giocatore, Swift va dopo quel giocatore.
+          Durante el paso de determinar el orden de juego, resta uno de la
+          iniciativa del palo jugado por Swift. Si la iniciativa de Swift se
+          relaciona con otro jugador, Swift va tras ese jugador.
         </p>
       </Column>
     </Row>
@@ -9117,7 +9083,7 @@ const Content = () => (
         <h3>a-side</h3>
       </Column>
       <Column>
-        <h3>Lato A</h3>
+        <h3>Lado A</h3>
       </Column>
     </Row>
     <Row>
@@ -9129,8 +9095,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Gli ostacoli d’acqua non sono un problema per The Shark, inclusi
-          quelli sui fairway. Trattali come la casella sottostante.
+          Los hazards de agua no son de interés para The Shark, incluyendo los
+          de las calles. Trátalos como a la pieza subyacente.
         </p>
       </Column>
     </Row>
@@ -9147,7 +9113,7 @@ const Content = () => (
         <h3>b-side</h3>
       </Column>
       <Column>
-        <h3>Lato B</h3>
+        <h3>Lado B</h3>
       </Column>
     </Row>
     <Row>
@@ -9155,7 +9121,7 @@ const Content = () => (
         <p>As per a-side plus The Shark may not carry any wedges.</p>
       </Column>
       <Column>
-        <p>Come per il lato A inoltre The Shark non può trasportare wedge.</p>
+        <p>Por el lado A más The Shark no se puede llevar wedges.</p>
       </Column>
     </Row>
     <Row>
@@ -9171,7 +9137,9 @@ const Content = () => (
         <p>Wedges include Pitching Wedge, Sand Wedge and the Lob Wedge.</p>
       </Column>
       <Column>
-        <p>I Wedge includono Pitching Wedge, Sand Wedge e Lob Wedge.</p>
+        <p>
+          Las wedges incluyen el pitching wedge, el sand wedge y el lob wedge.
+        </p>
       </Column>
     </Row>
     <Row>
@@ -9192,9 +9160,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Durante la fase di selezione mazze, il giocatore che ha The Shark deve
-          passare se le uniche mazze disponibili sono Wedge. The Shark può
-          scegliere fra le mazze rimaste dopo la selezione.
+          Durante la fase de reparto de cartas, un jugador que tenga a The Shark
+          debe pasar si los únicos palos disponibles son wedges. The Shark puede
+          elegir entre las cartas que quedan después del reparto.
         </p>
       </Column>
     </Row>
@@ -9211,7 +9179,7 @@ const Content = () => (
         <h1>Credits</h1>
       </Column>
       <Column>
-        <h1>Crediti</h1>
+        <h1>Créditos</h1>
       </Column>
     </Row>
     <Row>
@@ -9227,7 +9195,7 @@ const Content = () => (
         <p>Game Design: Ryan Boucher</p>
       </Column>
       <Column>
-        <p>Game Design: Ryan Boucher</p>
+        <p>Diseño del juego: Ryan Boucher</p>
       </Column>
     </Row>
     <Row>
@@ -9235,7 +9203,7 @@ const Content = () => (
         <p>Artwork: Josh Sacco</p>
       </Column>
       <Column>
-        <p>Artwork: Josh Sacco</p>
+        <p>Ilustraciones: Josh Sacco</p>
       </Column>
     </Row>
     <Row>
@@ -9243,7 +9211,7 @@ const Content = () => (
         <p>Graphic Design: Josh Sacco</p>
       </Column>
       <Column>
-        <p>Graphic Design: Josh Sacco</p>
+        <p>Diseño gráfico: Josh Sacco</p>
       </Column>
     </Row>
     <Row>
@@ -9251,7 +9219,7 @@ const Content = () => (
         <p>Writing: Ryan Boucher</p>
       </Column>
       <Column>
-        <p>Testi: Ryan Boucher</p>
+        <p>Escritura: Ryan Boucher</p>
       </Column>
     </Row>
     <Row>
@@ -9259,7 +9227,7 @@ const Content = () => (
         <p>Editing: Ryan Boucher, Spencer Williams</p>
       </Column>
       <Column>
-        <p>Editing: Ryan Boucher, Spencer Williams</p>
+        <p>Edición: Ryan Boucher, Spencer Williams</p>
       </Column>
     </Row>
     <Row>
@@ -9267,7 +9235,7 @@ const Content = () => (
         <p>Additional Art & Graphic Design: Ryan Boucher</p>
       </Column>
       <Column>
-        <p>Arte Aggiuntiva & Graphic Design: Ryan Boucher</p>
+        <p>Diseño gráfico e ilustraciones adicionales: Ryan Boucher</p>
       </Column>
     </Row>
     <Row>
@@ -9288,9 +9256,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Grazie ai nostri Course Designer: Louis Coduti, quantumpotato, André
-          Valentin, Ash Rollke, Tim Smith e La Famiglia Cooke: Ashley, Ryan,
-          Brezlun, e Teegan Cooke.
+          Gracias a nuestros diseñadores de campos: Louis Coduti, quantumpotato,
+          André Valentin, Ash Rollke, Tim Smith y la familia Cooke: Ashley,
+          Ryan, Brezlun y Teegan Cooke.
         </p>
       </Column>
     </Row>
@@ -9307,7 +9275,7 @@ const Content = () => (
         <p>Models: Aaron Clarke, Jess Kirwan, Josh Sacco and Pam Rucinque.</p>
       </Column>
       <Column>
-        <p>Modelli: Aaron Clarke, Jess Kirwan, Josh Sacco e Pam Rucinque.</p>
+        <p>Modelos: Aaron Clarke, Jess Kirwan, Josh Sacco y Pam Rucinque. </p>
       </Column>
     </Row>
     <Row>
@@ -9323,7 +9291,7 @@ const Content = () => (
         <p>Trailer Voice Over: Stefanie Kechayas</p>
       </Column>
       <Column>
-        <p>Doppiaggio Trailer: Stefanie Kechayas</p>
+        <p>Voz en off del trailer: Stefanie Kechayas</p>
       </Column>
     </Row>
     <Row>
@@ -9348,14 +9316,13 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Playtester: Alister, Andrew Hamilton, Andy Savidge, Andy Shaw, Ben
+          Testadores: Alister, Andrew Hamilton, Andy Savidge , Andy Shaw, Ben
           Finney, Brandon Franceschini, Carol Kirwan, Chris Harris, Dan
           Sansom-Gower, Doug Kirwan, Genevieve Rix, James Versace, Jaris Rener,
           Jason Wright, Jess Kirwan, Jonathan Fisher, Laura, Liauw Fendy, Light,
           Morgan Sheridan, Nik Pantis, Ollie Versteegen, Paul Grogan, Paul,
           Sarah Cooke, Sarah Evans-Malone, Sarah Pavlich, Stella Jahja, Steven,
-          Tim Smith, Trent e coloro che hanno lasciato un feedback senza il
-          proprio nome.
+          Tim Smith, Trent y quienes dejaron comentarios sin dejar sus nombres.
         </p>
       </Column>
     </Row>
@@ -9377,9 +9344,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ringraziamenti Aggiuntivi: David Maygar, Khosit Ddy, Paul Grogan,
+          Agradecimientos adicionales: David Maygar, Khosit Ddy, Paul Grogan,
           Spencer Williams, Andy Savidge, William Habush, Pam Malone, Daniel
-          Chamberlain e Dave Snyder e Vicky Wong di Gameland.
+          Chamberlain y Dave Snyder y Vicky Wong de Gameland.
         </p>
       </Column>
     </Row>
@@ -9400,8 +9367,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ringraziamenti Speciali: Jess Kirwan, Toby Kirwan-Boucher, James
-          Versace, Jonathan Fisher, Andy Shaw e Tim Smith
+          Agradecimientos especiales: Jess Kirwan, Toby Kirwan-Boucher, James
+          Versace, Jonathan Fisher, Andy Shaw y Tim Smith
         </p>
       </Column>
     </Row>
@@ -9425,11 +9392,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Seabrook Studios riconosce i possessori tradizionali della terra su
-          cui lavoriamo. Porgiamo i nostri rispetti ai loro Anziani, passati e
-          presenti, e agli Anziani Aborigeni di altre comunità che visitano
-          queste terre. La sovranità non è mai stata ceduta. È sempre stata e
-          sempre sarà terra aborigena.
+          Seabrook Studios reconoce a los propietarios tradicionales de la
+          tierra en la que trabajamos. Presentamos nuestros respetos a sus
+          ancianos, pasados y presentes, y a los ancianos aborígenes de otras
+          comunidades que visitan estas tierras. La soberanía nunca ha sido
+          cedida. Siempre fue y siempre será, tierra aborigen.
         </p>
       </Column>
     </Row>
@@ -9450,8 +9417,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          ©2018 Seabrook Studios Pty Ltd, tutti i diritti riservati. Le
-          componenti reali possono variare da quelle mostrate. Prodotto in Cina.
+          ©2018 Seabrook Studios Pty Ltd, Todos los derechos reservados. Los
+          componentes reales pueden variar de los que se muestran. Hecho en
+          China.
         </p>
       </Column>
     </Row>
@@ -9460,7 +9428,7 @@ const Content = () => (
         <p>NOT INTENDED FOR USE BY PERSONS 13 YEARS OF AGE OR YOUNGER.</p>
       </Column>
       <Column>
-        <p>NON È INTESO PER L’USO DA PARTE DI PERSONE CON MENO DI 13 ANNI.</p>
+        <p>NO RECOMENDADO PARA PERSONAS DE 13 AÑOS O MENOS.</p>
       </Column>
     </Row>
     <Row>
@@ -9476,7 +9444,7 @@ const Content = () => (
         <p>Seabrook Studios</p>
       </Column>
       <Column>
-        <p>Seabrook Studios</p>
+        <p>Seabrook Studios PO BOX 110 Flinders Lane Victoria 8009 Australia</p>
       </Column>
     </Row>
     <Row>
@@ -9484,7 +9452,7 @@ const Content = () => (
         <p>PO BOX 110</p>
       </Column>
       <Column>
-        <p>PO BOX 110</p>
+        <p></p>
       </Column>
     </Row>
     <Row>
@@ -9492,7 +9460,7 @@ const Content = () => (
         <p>Flinders Lane</p>
       </Column>
       <Column>
-        <p>Flinders Lane</p>
+        <p></p>
       </Column>
     </Row>
     <Row>
@@ -9500,7 +9468,7 @@ const Content = () => (
         <p>Victoria 8009</p>
       </Column>
       <Column>
-        <p>Victoria 8009</p>
+        <p></p>
       </Column>
     </Row>
     <Row>
@@ -9508,7 +9476,7 @@ const Content = () => (
         <p>Australia</p>
       </Column>
       <Column>
-        <p>Australia</p>
+        <p></p>
       </Column>
     </Row>
     <Row>
@@ -9524,7 +9492,7 @@ const Content = () => (
         <p>hello@seabrook-studios.com</p>
       </Column>
       <Column>
-        <p>hello@seabrook-studios.com</p>
+        <p>hello@seabrook-studios.com </p>
       </Column>
     </Row>
     <Row>
@@ -9548,7 +9516,7 @@ const Content = () => (
         <p>www.18holesgame.com</p>
       </Column>
       <Column>
-        <p>www.18holesgame.com</p>
+        <p>www.18holesgame.com </p>
       </Column>
     </Row>
     <Row>
@@ -9564,7 +9532,7 @@ const Content = () => (
         <p>facebook.com/18holesgame</p>
       </Column>
       <Column>
-        <p>facebook.com/18holesgame</p>
+        <p>facebook.com/18holesgame </p>
       </Column>
     </Row>
     <Row>
@@ -9588,7 +9556,7 @@ const Content = () => (
         <h1>YOUR FIRST GAME</h1>
       </Column>
       <Column>
-        <h1>LA TUA PRIMA PARTITA</h1>
+        <h1>TU PRIMER JUEGO</h1>
       </Column>
     </Row>
     <Row>
@@ -9608,8 +9576,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Per iniziare a giocare a 18 Holes il più rapidamente possibile, segui
-          queste istruzioni per la tua prima partita.
+          Para llegar a jugar 18 Holes lo más rápido posible, sigue estas
+          instrucciones para tu primer juego.
         </p>
       </Column>
     </Row>
@@ -9626,7 +9594,7 @@ const Content = () => (
         <h2>Setup</h2>
       </Column>
       <Column>
-        <h2>PREPARAZIONE</h2>
+        <h2>Configuración</h2>
       </Column>
     </Row>
     <Row>
@@ -9641,11 +9609,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se non hai rimosso le caselle percorso dai tabelloni di gioco, prendi
-          il tabellone 01 e giralo con il lato frontale rivolto in alto. È
-          scritto sul tabellone nell’angolo in basso a destra. Se devi costruire
-          il percorso con le caselle, apri il libretto percorsi e ricrea lo
-          Starter Course trovato a pagina 5.
+          Si no has quitado las piezas del campo de los tableros perforados,
+          coge el tablero perforado 01 y ponlo con la parte delantera hacia
+          arriba. Está escrito en el tablero en la esquina inferior derecha. Si
+          necesitas construir el campo a partir de las losetas, abre el folleto
+          del campo y recrea el campo de iniciación desde la página 5.
         </p>
       </Column>
     </Row>
@@ -9668,10 +9636,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Metti una bandierina suoni green come indicato sul layout. Ti
-          serviranno cinque bandierine, prendile dagli altri tabelloni di gioco.
-          Ti serviranno cinque alberi, costruiscili e posizionali sui pericoli
-          alberati. Questi sono i piccoli esagoni con gli alberi recintati.
+          Coloca una bandera en cada green como se muestra en el diseño.
+          Necesitarás cinco banderas, cógelas de otros tableros perforados.
+          Necesitarás cinco árboles, ensámblalos y colócalos sobre hazards de
+          árboles. Estos son los pequeños hexágonos con árboles cercados.
         </p>
       </Column>
     </Row>
@@ -9695,11 +9663,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ordina le carte tiro nei mazzi rispettivi (C, 2, 3, 4 e 5), mescola
-          ciascun mazzo e mettilo a portata di mano di tutti i giocatori. Poi,
-          prendi le carte mazza, queste riportano il logo di 18 Holes sul retro
-          (e non c’è scritto solo). Nell’angolo in fondo a sinistra di alcune
-          delle carte c’è una piccola A, B, C, D o E.
+          Ordena las cartas de tiro en sus respectivos mazos (C, 2, 3, 4 y 5),
+          baraja cada mazo y ponlo al alcance de todos los jugadores. Luego,
+          coge las cartas de los palos, éstas tienen el logo de 18 Holes en la
+          parte de atrás (no pone &quot;solo&quot;). En la esquina inferior
+          izquierda de algunas de las cartas hay una A, B, C, D o E pequeña.
         </p>
       </Column>
     </Row>
@@ -9720,8 +9688,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Dai al primo giocatore le A, al secondo le B, ecc. queste sono mani
-          preconfezionate che permettono di saltare la fase di selezione.
+          Dale al primer jugador la A, al segundo la B, etc. Estas manos ya
+          hechas te permiten saltarte la fase de echar suertes para tirar.
         </p>
       </Column>
     </Row>
@@ -9743,9 +9711,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Salta le carte golfista. Ora dovreste avere 5 mazze ciascuno, un
-          piccolo percorso costruito e cinque mazzi di carte tiro. Potrete
-          iniziare subito a giocare.
+          Sáltate las cartas de personajes de golfistas. Ahora deberíais tener 5
+          palos cada uno, un pequeño campo construido y cinco mazos de cartas de
+          tiro. Puedes jugar directamente.
         </p>
       </Column>
     </Row>
@@ -9762,7 +9730,7 @@ const Content = () => (
         <h2>Play</h2>
       </Column>
       <Column>
-        <h2>GIOCO</h2>
+        <h2>Juego</h2>
       </Column>
     </Row>
     <Row>
@@ -9775,9 +9743,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se un giocatore non ha mazze in mano, mette le mazze scartate nella
-          propria mano. Se tu hai il driver e non sei su un tee box, puoi
-          azzerare la tua mano anche in questo caso.
+          Si un jugador no tiene palos en la mano, mueve los palos desechados a
+          su mano. Si tienes el driver y no estás en un tee de salida, también
+          puedes reajustar tu mano.
         </p>
       </Column>
     </Row>
@@ -9798,8 +9766,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ogni giocatore seleziona una mazza dalla propria mano e la mette sul
-          tavolo a faccia in giù. Quando tutti sono pronti, rivelate le mazze.
+          Cada jugador selecciona un palo de su mano y lo coloca en la mesa boca
+          abajo. Cuando todos estén listos, revelan sus palos.
         </p>
       </Column>
     </Row>
@@ -9820,9 +9788,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          I giocatori svolgono il turno in ordine partendo dall’iniziativa di
-          valore più basso fino alla più alta. L’iniziativa si trova nell’angolo
-          in alto a sinistra.
+          El orden de los turnos de los jugadores lo establece la iniciativa, de
+          menor a mayor valor. La iniciativa está en la esquina superior
+          izquierda.
         </p>
       </Column>
     </Row>
@@ -9845,10 +9813,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Nel tuo turno, poi eseguire un’azione (vedi inserto). La spiegazione
-          dettagliata delle regole inizia a pagina 8. Per la maggior parte dei
-          turni, seguirai le istruzioni sulle tue carte mazza e pescherai le
-          carte tiro da uno dei mazzi.
+          En tu turno, puedes realizar una acción (ver inserción). La
+          explicación detallada de las reglas comienza en la página 8. En la
+          mayoría de los turnos, seguirás las instrucciones de las cartas de
+          palos y sacarás cartas de tiros de uno de los mazos.
         </p>
       </Column>
     </Row>
@@ -9871,10 +9839,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Per i mazzi tiro con numerazione 2-5 peschi una carta e poi decidi in
-          quale direzione colpire la pallina. Quando peschi una carta dal mazzo
-          chip, comunica in anticipo al gruppo di giocatori in quale direzione
-          vuoi colpire.
+          Para los mazos de tiros numerados del 2 al 5 se saca una carta y luego
+          se decide en qué dirección se desea golpear la bola. Cuando saques una
+          carta de la baraja de chip, dile a tu grupo de juego en qué dirección
+          vas golpear de antemano.
         </p>
       </Column>
     </Row>
@@ -9895,8 +9863,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Una volta pescata la tua carta, sposta il golfista dov’è atterrato la
-          pallina. Poi gira la mazza che hai usato a faccia in giù.
+          Una vez que hayas sacado tu carta, mueve tu golfista hasta donde cayó
+          tu bola. Entonces pon el palo que has usado boca abajo.
         </p>
       </Column>
     </Row>
@@ -9914,8 +9882,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Se atterri su un ostacolo, vedi “OSTACOLI E ALTRE CASELLE” a pagina
-          15.
+          Si caes en un hazard, lee &quot;HAZARDS Y OTRAS PIEZAS&quot; en la
+          página 15.
         </p>
       </Column>
     </Row>
@@ -9932,7 +9900,7 @@ const Content = () => (
         <h2>Scoring</h2>
       </Column>
       <Column>
-        <h2>PUNTEGGIO</h2>
+        <h2>Puntuación</h2>
       </Column>
     </Row>
     <Row>
@@ -9945,10 +9913,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Quando un giocatore raggiunge il green, dai a tutti i giocatori che
-          hanno raggiunto il green in quel turno o la bandierina o il segnalino
-          da 1 punto. Se metti a segno il punto nel tuo primo turno per quella
-          buca, prendi il segnalino Ace.
+          Cuando un jugador llegue al green, todos los jugadores que lleguen al
+          green en esa ronda reciben la bandera o una ficha de 1 punto de
+          puntuación. Si anotas en tu primer turno para el hoyo, coge una ficha
+          de &quot;hoyo en uno&quot;.
         </p>
       </Column>
     </Row>
@@ -9969,9 +9937,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il giocatore con il maggior numero di bandierine e segnalini punti
-          dopo cinque buche vince. Il giocatore con il maggior numero di
-          segnalini Ace vince il tie-break.
+          El jugador con más banderas y fichas de puntuación después de cinco
+          hoyos gana. El jugador con más fichas de hoyo en uno gana el empate.
         </p>
       </Column>
     </Row>
@@ -9988,7 +9955,7 @@ const Content = () => (
         <p>Detailed rules start on page 6.</p>
       </Column>
       <Column>
-        <p>Le regole dettagliate iniziano a pagina 6.</p>
+        <p>Las reglas detalladas comienzan en la página 6.</p>
       </Column>
     </Row>
   </>

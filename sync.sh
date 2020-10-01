@@ -1,2 +1,2 @@
 aws s3 sync --profile ss-prod --delete --metadata-directive REPLACE --cache-control max-age=86400,public --acl public-read public s3://seabrook-studios.com
-aws cloudfront create-invalidation --profile ss-prod --distribution-id E2YPNMIYXU1S8V --paths /index.html /presskit/index.html /presskit/18-holes/index.html /presskit/victory-lap/index.html
+aws cloudfront create-invalidation --profile ss-prod --distribution-id E2YPNMIYXU1S8V --paths /index.html /presskit/index.html /presskit/18-holes/index.html /presskit/victory-lap/index.html /cards/en-fr /cards/en-de /cards/en-it /cards/en-es /rules/en-fr /rules/en-de /rules/en-it /rules/en-es /course/en-fr /course/en-de /course/en-it /course/en-es

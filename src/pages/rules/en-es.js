@@ -8,7 +8,7 @@ import Content from '../../components/content/rules/en-es.js';
 
 const Rules = () => (
   <Layout>
-    <Head pageTitle="en-de" />
+    <Head pageTitle="en-es" />
     <Columns className="markdown">
       <MarkdownStyle />
       <Content />

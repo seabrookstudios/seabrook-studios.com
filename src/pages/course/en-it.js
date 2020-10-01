@@ -8,7 +8,7 @@ import Content from '../../components/content/course/en-it';
 
 const Rules = () => (
   <Layout>
-    <Head pageTitle="en-de" />
+    <Head pageTitle="en-it" />
     <Columns className="markdown">
       <MarkdownStyle />
       <Content />

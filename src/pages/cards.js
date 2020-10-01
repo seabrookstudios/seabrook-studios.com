@@ -18,28 +18,31 @@ const About = ({ data }) => (
         }}
       />
     </Box>
-    {data.cardsJson.clubCards.map(({ en, de, it, es }, i) => (
+    {data.cardsJson.clubCards.map(({ en, de, it, es, fr }, i) => (
       <CardGroup key={i}>
         <ClubCard image={en} />
         <ClubCard image={de} />
         <ClubCard image={it} />
         <ClubCard image={es} />
+        <ClubCard image={fr} />
       </CardGroup>
     ))}
-    {data.cardsJson.golferCards.map(({ en, de, it, es }, i) => (
+    {data.cardsJson.golferCards.map(({ en, de, it, es, fr }, i) => (
       <CardGroup key={i}>
         <GolferCard image={en} />
         <GolferCard image={de} />
         <GolferCard image={it} />
         <GolferCard image={es} />
+        <GolferCard image={fr} />
       </CardGroup>
     ))}
-    {data.cardsJson.shotCards.map(({ en, de, it, es }, i) => (
+    {data.cardsJson.shotCards.map(({ en, de, it, es, fr }, i) => (
       <CardGroup key={i}>
         <GolferCard image={en} />
         <GolferCard image={de} />
         <GolferCard image={it} />
         <GolferCard image={es} />
+        <GolferCard image={fr} />
       </CardGroup>
     ))}
   </Layout>
@@ -89,6 +92,13 @@ export const query = graphql`
             }
           }
         }
+        fr {
+          childImageSharp {
+            fluid(maxWidth: 300, quality: 100) {
+              ...GatsbyImageSharpFluid_withWebp
+            }
+          }
+        }
       }
       golferCards {
         en {
@@ -119,6 +129,13 @@ export const query = graphql`
             }
           }
         }
+        fr {
+          childImageSharp {
+            fluid(maxWidth: 300, quality: 100) {
+              ...GatsbyImageSharpFluid_withWebp
+            }
+          }
+        }
       }
       shotCards {
         en {
@@ -143,6 +160,13 @@ export const query = graphql`
           }
         }
         es {
+          childImageSharp {
+            fluid(maxWidth: 300, quality: 100) {
+              ...GatsbyImageSharpFluid_withWebp
+            }
+          }
+        }
+        fr {
           childImageSharp {
             fluid(maxWidth: 300, quality: 100) {
               ...GatsbyImageSharpFluid_withWebp

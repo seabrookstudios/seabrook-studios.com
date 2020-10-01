@@ -3792,7 +3792,7 @@ const Content = () => (
         <h2>Move Your Golfer</h2>
       </Column>
       <Column>
-        <h2></h2>
+        <h2>Déplacez votre golfeur</h2>
       </Column>
     </Row>
     <Row>
@@ -4186,7 +4186,7 @@ const Content = () => (
         <h2>LONGEST DRIVE CARD</h2>
       </Column>
       <Column>
-        <h2></h2>
+        <h2>LONGEST DRIVE CARD</h2>
       </Column>
     </Row>
     <Row>

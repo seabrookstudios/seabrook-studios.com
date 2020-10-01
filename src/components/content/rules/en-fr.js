@@ -32,7 +32,7 @@ const Content = () => (
         <ul>21 adjustment tiles</ul>
       </Column>
       <Column>
-        <ul>21 tuiles d&pos;ajustement</ul>
+        <ul>21 tuiles d&apos;ajustement</ul>
       </Column>
     </Row>
     <Row>
@@ -206,9 +206,9 @@ const Content = () => (
       </Column>
       <Column>
         <em>
-          Une réunion du conseil d&pos;administration se tient au siège social
+          Une réunion du conseil d&apos;administration se tient au siège social
           du géant international du sport, Golf Corp. Cette réunion déterminera
-          l&pos;avenir du golf.
+          l&apos;avenir du golf.
         </em>
       </Column>
     </Row>
@@ -226,7 +226,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Chers membres du conseil d&pos;administration, les choses semblent
+          Chers membres du conseil d&apos;administration, les choses semblent
           désastreuses. La fréquentation est en baisse, les progrès de la
           technologie des clubs ont rendu notre jeu trop facile. Avec une
           concurrence accrue qui attire leur attention, les gens ne peuvent plus
@@ -249,9 +249,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Mais tout n&pos;est pas perdu. Une équipe composée de nos plus
+          Mais tout n&apos;est pas perdu. Une équipe composée de nos plus
           brillants esprits a conçu la prochaine itération de notre grand jeu.
-          L&pos;équipe a apporté quelques modifications aux règles qui nous
+          L&apos;équipe a apporté quelques modifications aux règles qui nous
           permettront de sortir du rough et de nous envoler vers le drapeau du
           green.
         </p>
@@ -271,11 +271,11 @@ const Content = () => (
       <Column>
         <p>
           Les propriétaires de parcours de golf ont besoin de plus de clients,
-          et nous n&pos;avons pas réussi à améliorer le nombre d&pos;heures
+          et nous n&apos;avons pas réussi à améliorer le nombre d&apos;heures
           pleines dans la journée. Nous avons changé notre approche et introduit
           le jeu simultané. Plus de personnes jouant au golf en même temps
           signifie plus d’argent. Notre technologie brevetée HOLOBALL™ permettra
-          à tous les membres d&pos;un groupe de jouer au golf en toute sécurité
+          à tous les membres d&apos;un groupe de jouer au golf en toute sécurité
           et en même temps.
         </p>
       </Column>
@@ -293,11 +293,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          C&pos;est une technologie fantastique. Je pensais que la flottille de
+          C&apos;est une technologie fantastique. Je pensais que la flottille de
           drones qui suivent et arrêtent les balles de golf allait gagner. Mais
-          ceci... C&pos;est beaucoup plus intelligent de faire de la balle de
+          ceci... C&apos;est beaucoup plus intelligent de faire de la balle de
           golf un drone. Des balles de golf qui ne se perdent jamais. Des balles
-          de golf qui peuvent s&pos;arrêter avant de toucher quelqu&pos;un et
+          de golf qui peuvent s&apos;arrêter avant de toucher quelqu&apos;un et
           reprendre leur envol après. Des balles de golf qui suivent votre
           score.
         </p>
@@ -313,10 +313,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          J&pos;admets néanmoins qu&pos;il y a eu quelques blessures. On
+          J&apos;admets néanmoins qu&apos;il y a eu quelques blessures. On
           pourrait dire que la technologie est encore un peu rudimentaire. Mais
-          je pense que nous pouvons commencer à l&pos;appliquer sur certains des
-          parcours qui ont du mal à rester sous le par.
+          je pense que nous pouvons commencer à l&apos;appliquer sur certains
+          des parcours qui ont du mal à rester sous le par.
         </p>
       </Column>
     </Row>
@@ -333,7 +333,7 @@ const Content = () => (
         <p>
           Nous avions de bonnes relations avec les fabricants de clubs.
           Cependant, ces derniers temps, chaque nouvelle avancée technologique
-          dans le domaine du golf réduit le défi, qu&pos;il s&pos;agisse des
+          dans le domaine du golf réduit le défi, qu&apos;il s&apos;agisse des
           super-drivers ou des sand wedges magnétiques récemment mis sur le
           marché.
         </p>
@@ -369,14 +369,14 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Le golf n&pos;a jamais été qu’une question d&pos;exécution de coups,
+          Le golf n&apos;a jamais été qu’une question d&apos;exécution de coups,
           la sélection des coups à une grande importance elle aussi. Nous allons
           réduire la limite des clubs de 14 à 5, ce qui obligera les joueurs à
-          réfléchir davantage aux clubs qu&pos;ils prennent et au moment où ils
+          réfléchir davantage aux clubs qu&apos;ils prennent et au moment où ils
           les utilisent. Le golf est aussi une question de planification et
-          d&pos;élaboration de votre approche, pour cela nous ne permettrons pas
-          aux joueurs de réutiliser le même club tant qu&pos;ils n&pos;auront
-          pas utilisé tous leurs autres clubs.
+          d&apos;élaboration de votre approche, pour cela nous ne permettrons
+          pas aux joueurs de réutiliser le même club tant qu&apos;ils
+          n&apos;auront pas utilisé tous leurs autres clubs.
         </p>
       </Column>
     </Row>
@@ -386,7 +386,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Chers membres du conseil d&pos;administration. Bienvenue dans la
+          Chers membres du conseil d&apos;administration. Bienvenue dans la
           nouvelle ère du golf !
         </p>
       </Column>
@@ -398,7 +398,7 @@ const Content = () => (
       <Column>
         <em>
           Un tonnerre d’applaudissements éclate dans la salle du conseil
-          d&pos;administration.
+          d&apos;administration.
         </em>
       </Column>
     </Row>
@@ -432,10 +432,10 @@ const Content = () => (
       <Column>
         <p>
           Dix ans se sont écoulés depuis cette réunion du conseil
-          d&pos;administration. Le golf n&pos;a jamais été aussi populaire. Avec
-          l&pos;invention de la technologie HOLOBALL™, de nouvelles façons de
-          jouer au golf ont été créées, et ce sport est en plein essor. Vous
-          êtes un golfeur en cet âge d&pos;or du golf. Vous pouvez piochez vos
+          d&apos;administration. Le golf n&apos;a jamais été aussi populaire.
+          Avec l&apos;invention de la technologie HOLOBALL™, de nouvelles façons
+          de jouer au golf ont été créées, et ce sport est en plein essor. Vous
+          êtes un golfeur en cet âge d&apos;or du golf. Vous pouvez piochez vos
           clubs, puis vous affronter sur le parcours grâce à une sélection
           minutieuse des coups et à une navigation intelligente en fonction des
           obstacles.
@@ -454,11 +454,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Le jeu se déroule sur les 18 trous d&pos;un parcours de golf, chaque
-          trou nécessitant l&pos;utilisation d&pos;un ou plusieurs clubs. Après
-          avoir joué un club, les joueurs ne peuvent plus utiliser ce club avant
-          d&pos;avoir joué tous les autres clubs. Les golfeurs marquent des
-          points en arrivant les premiers sur les greens. Le gagnant est le
+          Le jeu se déroule sur les 18 trous d&apos;un parcours de golf, chaque
+          trou nécessitant l&apos;utilisation d&apos;un ou plusieurs clubs.
+          Après avoir joué un club, les joueurs ne peuvent plus utiliser ce club
+          avant d&apos;avoir joué tous les autres clubs. Les golfeurs marquent
+          des points en arrivant les premiers sur les greens. Le gagnant est le
           golfeur qui a marqué le plus de points.
         </p>
       </Column>
@@ -476,9 +476,9 @@ const Content = () => (
         <p>
           Ce livre contient des règles pour de nombreux modes différents,
           notamment le solo, le jeu à deux, le Golf Racing et le Chaos Golf.
-          Chaque mode de jeu vous permet d&pos;adapter l&pos;expérience à votre
-          groupe de joueurs. La première partie de ce livre couvre
-          l&pos;ensemble de règles standard appelé Match Play.
+          Chaque mode de jeu vous permet d&apos;adapter l&apos;expérience à
+          votre groupe de joueurs. La première partie de ce livre couvre
+          l&apos;ensemble de règles standard appelé Match Play.
         </p>
       </Column>
     </Row>
@@ -565,7 +565,7 @@ const Content = () => (
         <h2>Adjustment Tiles</h2>
       </Column>
       <Column>
-        <h2>Tuiles d&pos;ajustement</h2>
+        <h2>Tuiles d&apos;ajustement</h2>
       </Column>
     </Row>
     <Row>
@@ -581,7 +581,7 @@ const Content = () => (
         <p>
           Ces mini-hexagones peuvent être placés sur les tuiles du parcours pour
           modifier la difficulté du parcours. Pour un jeu plus détendu, couvrez
-          les obstacles avec des tuiles à l&pos;envers. Si vous cherchez un
+          les obstacles avec des tuiles à l&apos;envers. Si vous cherchez un
           défi, utilisez le côté des obstacles pour ajuster ceux qui existent
           déjà ou en ajouter de nouveaux.
         </p>
@@ -641,7 +641,7 @@ const Content = () => (
           Chaque club a une capacité unique et vous dit dans quel paquet vous
           devez piocher. Vous ne pouvez emporter que cinq clubs sur le parcours.
           Une fois que vous en avez utilisé un, vous ne pouvez pas le réutiliser
-          tant que vous n&pos;avez pas utilisé tous vos autres clubs.
+          tant que vous n&apos;avez pas utilisé tous vos autres clubs.
         </p>
       </Column>
     </Row>
@@ -698,9 +698,10 @@ const Content = () => (
       <Column>
         <p>
           Une carte de vol sur chaque carte vous aide à tracer le mouvement de
-          votre balle. L&pos;hexagone orange marque l&pos;endroit où votre balle
-          atterrit. Lorsque vous frappez la balle depuis le rough, elle parcourt
-          un hexagone de moins. Voir « JOUER DEPUIS LE ROUGH » à la page 12.
+          votre balle. L&apos;hexagone orange marque l&apos;endroit où votre
+          balle atterrit. Lorsque vous frappez la balle depuis le rough, elle
+          parcourt un hexagone de moins. Voir « JOUER DEPUIS LE ROUGH » à la
+          page 12.
         </p>
       </Column>
     </Row>
@@ -723,7 +724,7 @@ const Content = () => (
       <Column>
         <p>
           Vous utilisez également des cartes de tir pour sortir des bunkers.
-          L&pos;icône de résultat du bunker se trouve dans le coin inférieur
+          L&apos;icône de résultat du bunker se trouve dans le coin inférieur
           droit. Voir « SORTIR DES BUNKERS, DES GREENS ET GAGNER » à la page 11.
         </p>
       </Column>
@@ -764,9 +765,9 @@ const Content = () => (
       <Column>
         <p>
           Les jetons circulaires ont un double objectif. La face avant comporte
-          des greens numérotés de 1 à 18. Comme les tuiles du parcours n&pos;ont
-          pas de numéros sur les greens, le fait de placer les jetons face
-          numérotée vers le haut permet de suivre l&pos;ordre des trous.
+          des greens numérotés de 1 à 18. Comme les tuiles du parcours
+          n&apos;ont pas de numéros sur les greens, le fait de placer les jetons
+          face numérotée vers le haut permet de suivre l&apos;ordre des trous.
         </p>
       </Column>
     </Row>
@@ -789,7 +790,7 @@ const Content = () => (
       <Column>
         <p>
           Dans la plupart des modes de jeu en 18 trous, vous utilisez les jetons
-          à l&pos;envers pour marquer des points. Ces faces indiquent des
+          à l&apos;envers pour marquer des points. Ces faces indiquent des
           valeurs de 5, 2 et 1. Voir « DIFFÉRENTES FAÇONS DE JOUER » à la page
           18.
         </p>
@@ -813,8 +814,8 @@ const Content = () => (
       <Column>
         <p>
           Il existe des marqueurs de 1pt, 2pt et 5pt supplémentaires. Ceux-ci
-          n&pos;ont pas de chiffres de green. Veuillez les mettre en lieu sûr au
-          cas où vous en auriez besoin.
+          n&apos;ont pas de chiffres de green. Veuillez les mettre en lieu sûr
+          au cas où vous en auriez besoin.
         </p>
       </Column>
     </Row>
@@ -844,7 +845,7 @@ const Content = () => (
       <Column>
         <p>
           Ils sont collectés lorsque vous gagnez un trou en un coup. En cas
-          d&pos;égalité, le joueur qui a le plus de marqueurs de trou en un est
+          d&apos;égalité, le joueur qui a le plus de marqueurs de trou en un est
           le gagnant.
         </p>
       </Column>
@@ -927,8 +928,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Utilisez-le pour savoir à quel tour vous êtes lors d&pos;une partie de
-          chaos golf en solo.
+          Utilisez-le pour savoir à quel tour vous êtes lors d&apos;une partie
+          de chaos golf en solo.
         </p>
       </Column>
     </Row>
@@ -993,8 +994,8 @@ const Content = () => (
         <p>
           Ces arbres sont des décorations que vous pouvez mettre sur votre
           parcours. Placez-les au-dessus des obstacles pour les rendre plus
-          visibles. Il n&pos;y a que 14 arbres, vous devrez donc les déplacer le
-          long du parcours pendant que vous jouez.
+          visibles. Il n&apos;y a que 14 arbres, vous devrez donc les déplacer
+          le long du parcours pendant que vous jouez.
         </p>
       </Column>
     </Row>
@@ -1024,8 +1025,8 @@ const Content = () => (
       <Column>
         <p>
           Chaque joueur a un golfeur qui le représente sur le parcours. Il
-          n&pos;y a pas de différence entre eux, alors choisissez la couleur que
-          vous préférez.
+          n&apos;y a pas de différence entre eux, alors choisissez la couleur
+          que vous préférez.
         </p>
       </Column>
     </Row>
@@ -1055,7 +1056,7 @@ const Content = () => (
       <Column>
         <p>
           Scannez le code QR ci-dessous pour regarder une vidéo qui montre
-          comment jouer, accéder à ces règles dans d&pos;autres langues ou
+          comment jouer, accéder à ces règles dans d&apos;autres langues ou
           consulter la FAQ.
         </p>
       </Column>
@@ -1088,12 +1089,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Un jeu de 18 trous se joue sur un parcours composé d&pos;un ou
-          plusieurs trous. La plupart des parcours ont 18 trous, bien qu&pos;il
-          soit courant d&pos;avoir des parcours de 9 trous plus courts et plus
+          Un jeu de 18 trous se joue sur un parcours composé d&apos;un ou
+          plusieurs trous. La plupart des parcours ont 18 trous, bien qu&apos;il
+          soit courant d&apos;avoir des parcours de 9 trous plus courts et plus
           rapides. Vous marquez un point pour chaque trou que vous gagnez. Vous
           gagnez un trou en atteignant le green avant vos adversaires. En cas
-          d&pos;égalité, plusieurs joueurs marquent des points.
+          d&apos;égalité, plusieurs joueurs marquent des points.
         </p>
       </Column>
     </Row>
@@ -1119,7 +1120,7 @@ const Content = () => (
           Le green est le petit hexagone sur lequel se trouve un petit drapeau
           noir. Nous avons un trou unique composé de trois tuiles de parcours.
           La tuile du haut contient le green. Le tee box se trouve sur la tuile
-          du bas. Le fairway s&pos;étend du tee box au green.
+          du bas. Le fairway s&apos;étend du tee box au green.
         </p>
       </Column>
     </Row>
@@ -1145,8 +1146,8 @@ const Content = () => (
         <p>
           Vous devez commencer avec votre golfeur sur le tee box et la tâche
           consiste à atteindre le green. Vous jouez avec des clubs qui feront
-          bouger votre golfeur. Vous n&pos;êtes pas obligé de suivre le fairway
-          jusqu&pos;au green. Cela peut cependant être une bonne idée, car vos
+          bouger votre golfeur. Vous n&apos;êtes pas obligé de suivre le fairway
+          jusqu&apos;au green. Cela peut cependant être une bonne idée, car vos
           coups iront plus loin si vous jouez depuis le fairway.
         </p>
       </Column>
@@ -1171,12 +1172,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il n&pos;y a que quelques tuiles sur lesquelles vous ne pouvez pas
-          atterrir. Il s&pos;agit des obstacles d’arbres et du club-house. Une
-          clôture blanche entoure l&pos;obstacle d’arbres. Vous trouverez le
+          Il n&apos;y a que quelques tuiles sur lesquelles vous ne pouvez pas
+          atterrir. Il s&apos;agit des obstacles d’arbres et du club-house. Une
+          clôture blanche entoure l&apos;obstacle d’arbres. Vous trouverez le
           clubhouse à la page 15. Vous pouvez atterrir sur les fairways et les
-          greens d&pos;autres trous et vous pouvez atterrir sur des tuiles qui
-          contiennent d&pos;autres golfeurs. Tout cela grâce à HOLOBALL™.
+          greens d&apos;autres trous et vous pouvez atterrir sur des tuiles qui
+          contiennent d&apos;autres golfeurs. Tout cela grâce à HOLOBALL™.
         </p>
       </Column>
     </Row>
@@ -1202,11 +1203,11 @@ const Content = () => (
       <Column>
         <p>
           Si vous pouvez atterrir sur la plupart des tuiles du jeu, toutes ne
-          sont pas recommandées. Certaines contiennent de l&pos;eau qui vous
-          fera manquer un tour et d&pos;autres contiennent des bunkers dont vous
-          devrez sortir avant de continuer. Le vert foncé qui se trouve sur une
-          tuile sur deux est le rough et cela réduira la distance de vos tirs.
-          Voir « OBSTACLES ET AUTRES TUILES » à la page 15.
+          sont pas recommandées. Certaines contiennent de l&apos;eau qui vous
+          fera manquer un tour et d&apos;autres contiennent des bunkers dont
+          vous devrez sortir avant de continuer. Le vert foncé qui se trouve sur
+          une tuile sur deux est le rough et cela réduira la distance de vos
+          tirs. Voir « OBSTACLES ET AUTRES TUILES » à la page 15.
         </p>
       </Column>
     </Row>
@@ -1276,7 +1277,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Vous pouvez mettre en place le parcours en utilisant l&pos;un des
+          Vous pouvez mettre en place le parcours en utilisant l&apos;un des
           dessins du livret ou en concevoir un vous-même. La dernière page du
           livret de parcours contient des instructions sur la manière de créer
           des parcours.
@@ -1305,7 +1306,7 @@ const Content = () => (
         <p>
           Une fois que vous avez construit votre parcours, placez un drapeau sur
           chaque trou. Placez le 1er drapeau sur le green (à droite) pour le
-          premier trou et continuez jusqu&pos;au 18e green. Si vous jouez avec
+          premier trou et continuez jusqu&apos;au 18e green. Si vous jouez avec
           des arbres, placez-les sur les 14 premiers obstacles d’arbres du
           parcours. Les arbres sont les hexagones entourés de petites clôtures
           blanches.
@@ -1391,7 +1392,7 @@ const Content = () => (
       <Column>
         <p>
           Chaque joueur choisit une carte de golfeur à jouer. Vous pouvez
-          laisser les joueurs choisir la carte et la face qu&pos;ils veulent ou
+          laisser les joueurs choisir la carte et la face qu&apos;ils veulent ou
           distribuer au hasard.
         </p>
       </Column>
@@ -1466,7 +1467,7 @@ const Content = () => (
       </Column>
       <Column>
         <Callout>
-          Sélectionnez les cartes de golfeur jusqu&pos;à ce que vous soyez prêt
+          Sélectionnez les cartes de golfeur jusqu&apos;à ce que vous soyez prêt
           à relever le défi.
         </Callout>
       </Column>
@@ -1546,7 +1547,7 @@ const Content = () => (
         <p>
           Distribuez le même nombre de cartes à chaque joueur. Les cartes
           restantes ne sont pas utilisées et sont replacées dans la boîte à
-          l&pos;abri des regards.
+          l&apos;abri des regards.
         </p>
       </Column>
     </Row>
@@ -1577,9 +1578,9 @@ const Content = () => (
           personne qui se trouve à sa gauche. De nouveau, chaque joueur choisit
           une carte parmi les quatre restantes et la place devant lui, face
           cachée, et passe le reste à la personne de gauche. Continuez
-          jusqu&pos;à ce que tous les joueurs aient cinq clubs. Ce sera leur
-          main. Chaque joueur aura également besoin d&pos;espace devant lui pour
-          défausser les clubs utilisés.
+          jusqu&apos;à ce que tous les joueurs aient cinq clubs. Ce sera leur
+          main. Chaque joueur aura également besoin d&apos;espace devant lui
+          pour défausser les clubs utilisés.
         </p>
       </Column>
     </Row>
@@ -1624,9 +1625,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          La sélection des clubs est votre première chance d&pos;obtenir un
+          La sélection des clubs est votre première chance d&apos;obtenir un
           avantage. Les caractéristiques du parcours déterminent
-          l&pos;efficacité de certains clubs. Examinez le parcours pour voir
+          l&apos;efficacité de certains clubs. Examinez le parcours pour voir
           quels clubs seront les plus utiles.
         </p>
       </Column>
@@ -1774,7 +1775,7 @@ const Content = () => (
     </Row>
     <Row>
       <Column>3. Determine play order</Column>
-      <Column>Déterminez l&pos;ordre de jeu</Column>
+      <Column>Déterminez l&apos;ordre de jeu</Column>
     </Row>
     <Row>
       <Column>
@@ -1790,7 +1791,7 @@ const Content = () => (
     </Row>
     <Row>
       <Column>a. Move one hex</Column>
-      <Column>Déplacez-vous d&pos;un hexagone</Column>
+      <Column>Déplacez-vous d&apos;un hexagone</Column>
     </Row>
     <Row>
       <Column>b. Play club card</Column>
@@ -1869,7 +1870,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si vous n&pos;avez pas de club dans votre main, reprenez tous vos
+          Si vous n&apos;avez pas de club dans votre main, reprenez tous vos
           clubs défaussés dans votre main.
         </p>
       </Column>
@@ -1893,7 +1894,7 @@ const Content = () => (
         <p>
           Si vous avez en main un club que vous ne pouvez pas utiliser, vous
           pouvez également réinitialiser votre main. Par exemple, vous avez le
-          driver et vous n&pos;êtes pas sur un tee box.
+          driver et vous n&apos;êtes pas sur un tee box.
         </p>
       </Column>
     </Row>
@@ -1976,7 +1977,7 @@ const Content = () => (
         <p>
           Lorsque tous les joueurs ont sélectionné leur club, révélez
           simultanément tous les clubs. Une fois cette opération terminée, les
-          joueurs ne peuvent plus changer d&pos;avis.
+          joueurs ne peuvent plus changer d&apos;avis.
         </p>
       </Column>
     </Row>
@@ -2001,7 +2002,7 @@ const Content = () => (
           Le joueur avec Bunjil doit utiliser son pouvoir avant de placer un
           club face cachée. Si Bunjil est sur sa face B et expose une carte de
           tir, les joueurs qui ont placé un club face cachée peuvent changer
-          d&pos;avis.
+          d&apos;avis.
         </p>
       </Column>
     </Row>
@@ -2023,7 +2024,7 @@ const Content = () => (
       <Column>
         <p>
           Le joueur avec Slick Rikesh sur sa face A peut utiliser son pouvoir
-          après la révélation et désigner le club d&pos;un autre joueur à
+          après la révélation et désigner le club d&apos;un autre joueur à
           utiliser.
         </p>
       </Column>
@@ -2041,7 +2042,7 @@ const Content = () => (
         <h3>3. DETERMINE PLAY ORDER</h3>
       </Column>
       <Column>
-        <h3>3. DÉTERMINER L&pos;ORDRE DE JEU</h3>
+        <h3>3. DÉTERMINER L&apos;ORDRE DE JEU</h3>
       </Column>
     </Row>
     <Row>
@@ -2054,9 +2055,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Utilisez l&pos;ordre d&pos;initiative de chaque club pour déterminer
-          l&pos;ordre de jeu. Le club ayant le moins d&pos;initiative joue en
-          premier. Vous pouvez trouver l&pos;initiative dans le coin supérieur
+          Utilisez l&apos;ordre d&apos;initiative de chaque club pour déterminer
+          l&apos;ordre de jeu. Le club ayant le moins d&apos;initiative joue en
+          premier. Vous pouvez trouver l&apos;initiative dans le coin supérieur
           gauche de la carte du club.
         </p>
       </Column>
@@ -2078,8 +2079,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si Slick Rikesh utilise le club d&pos;un autre joueur, Slick Rikesh
-          joue immédiatement après l&pos;autre joueur.
+          Si Slick Rikesh utilise le club d&apos;un autre joueur, Slick Rikesh
+          joue immédiatement après l&apos;autre joueur.
         </p>
       </Column>
     </Row>
@@ -2101,8 +2102,8 @@ const Content = () => (
       <Column>
         <p>
           Si Swift est sur la face A, elle remporte les éventuelles égalités
-          d&pos;initiative. Si Swift est sur sa face B, elle perd toute égalité
-          d&pos;initiative.{' '}
+          d&apos;initiative. Si Swift est sur sa face B, elle perd toute égalité
+          d&apos;initiative.{' '}
         </p>
       </Column>
     </Row>
@@ -2139,7 +2140,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si l&pos;on regarde les clubs ci-dessous, le 8 Hybride a une
+          Si l&apos;on regarde les clubs ci-dessous, le 8 Hybride a une
           initiative de 5, et ce joueur joue son tour en premier. Le joueur
           suivant est celui qui a le fer 6 (12 d’initiative). Le dernier joueur
           à jouer son tour est la personne qui a le Bois 5 (20 d’initiative).
@@ -2159,7 +2160,7 @@ const Content = () => (
         <p>Following the play order, each player takes a turn.</p>
       </Column>
       <Column>
-        <p>Chaque joueur joue son tour en suivant l&pos;ordre de jeu.</p>
+        <p>Chaque joueur joue son tour en suivant l&apos;ordre de jeu.</p>
       </Column>
     </Row>
     <Row>
@@ -2192,7 +2193,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lorsque c&pos;est votre tour, effectuez l&pos;une des actions
+          Lorsque c&apos;est votre tour, effectuez l&apos;une des actions
           suivantes :
         </p>
       </Column>
@@ -2207,7 +2208,7 @@ const Content = () => (
     </Row>
     <Row>
       <Column>Move one hex</Column>
-      <Column>Déplacez-vous d&pos;un hexagone</Column>
+      <Column>Déplacez-vous d&apos;un hexagone</Column>
     </Row>
     <Row>
       <Column>Play club card</Column>
@@ -2270,8 +2271,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Vous avez la possibilité de vous déplacer d&pos;un hexagone, sauf si
-          vous êtes dans un bunker. Placez votre golfeur dans l&pos;un des
+          Vous avez la possibilité de vous déplacer d&apos;un hexagone, sauf si
+          vous êtes dans un bunker. Placez votre golfeur dans l&apos;un des
           hexagones adjacents. Vous ne pouvez pas vous déplacer sur un hexagone
           comportant un arbre ou hors du plateau. Voir « OBSTACLES ET AUTRES
           TUILES » à la page 15.
@@ -2302,7 +2303,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Selon le club, vous pourrez faire l&pos;une des choses suivantes :
+          Selon le club, vous pourrez faire l&apos;une des choses suivantes :
         </p>
       </Column>
     </Row>
@@ -2327,7 +2328,7 @@ const Content = () => (
         <ul>Draw 1 card from one of two shot decks shown</ul>
       </Column>
       <Column>
-        <ul>Piocher une carte de l&pos;un des deux paquets de tir indiqués</ul>
+        <ul>Piocher une carte de l&apos;un des deux paquets de tir indiqués</ul>
       </Column>
     </Row>
     <Row>
@@ -2344,7 +2345,7 @@ const Content = () => (
       </Column>
       <Column>
         <ul>
-          Déplacer votre golfeur du nombre d&pos;hexagones indiqués en ligne
+          Déplacer votre golfeur du nombre d&apos;hexagones indiqués en ligne
           droite
         </ul>
       </Column>
@@ -2366,9 +2367,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          L&pos;inscription sur chaque club est l&pos;option dont vous disposez.
-          Jouer une carte de club comporte trois étapes : piocher, décider,
-          bouger.
+          L&apos;inscription sur chaque club est l&apos;option dont vous
+          disposez. Jouer une carte de club comporte trois étapes : piocher,
+          décider, bouger.
         </p>
       </Column>
     </Row>
@@ -2429,9 +2430,9 @@ const Content = () => (
       <Column>
         <p>
           La plupart des clubs vous permettent de piocher une carte de tir
-          d&pos;un seul paquet de cartes. Certains clubs vous permettent de
+          d&apos;un seul paquet de cartes. Certains clubs vous permettent de
           choisir parmi plusieurs paquets de cartes, mais vous ne pouvez
-          toujours piocher qu&pos;une seule carte.
+          toujours piocher qu&apos;une seule carte.
         </p>
       </Column>
     </Row>
@@ -2481,7 +2482,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Pour plus d&pos;informations sur les cartes spéciales, voir « LES
+          Pour plus d&apos;informations sur les cartes spéciales, voir « LES
           CARTES SUPER, COURT, MÉLANGE ET JOKER » à la page 14.
         </p>
       </Column>
@@ -2583,8 +2584,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Placez chaque carte de tir côte à côte. Si l&pos;une des cartes vous
-          demande d&pos;en piocher d&pos;autres (super, court, mélange), vous
+          Placez chaque carte de tir côte à côte. Si l&apos;une des cartes vous
+          demande d&apos;en piocher d&apos;autres (super, court, mélange), vous
           pouvez choisir de suivre les instructions de cette carte et de placer
           les nouvelles cartes sur la carte qui a demandé la pioche. Lorsque
           vous avez fini de piocher, vous devez en choisir une parmi les cartes
@@ -2615,8 +2616,8 @@ const Content = () => (
         choose one of the top two visible cards.
       </Column>
       <Column>
-        Dans l&pos;exemple ci-dessous, Gustav a fini par piocher 3 cartes. Il
-        doit donc choisir l&pos;une des deux cartes visibles du dessus.
+        Dans l&apos;exemple ci-dessous, Gustav a fini par piocher 3 cartes. Il
+        doit donc choisir l&apos;une des deux cartes visibles du dessus.
       </Column>
     </Row>
     <Row>
@@ -2664,10 +2665,10 @@ const Content = () => (
       <Column>
         <p>
           Le plan de vol indiqué sur votre carte de tir indique le trajet de la
-          balle. L&pos;icône du golfeur sur la carte de tir indique
-          l&pos;endroit où se trouve votre golfeur au début du tir. Déplacez
-          votre golfeur le long des hexagones numérotés jusqu&pos;à ce que vous
-          atteigniez l&pos;hexagone d&pos;arrivée orange. Vous n&pos;êtes pas
+          balle. L&apos;icône du golfeur sur la carte de tir indique
+          l&apos;endroit où se trouve votre golfeur au début du tir. Déplacez
+          votre golfeur le long des hexagones numérotés jusqu&apos;à ce que vous
+          atteigniez l&apos;hexagone d&apos;arrivée orange. Vous n&apos;êtes pas
           obligé de frapper la balle vers le green ou le long du fairway.
         </p>
       </Column>
@@ -2692,7 +2693,7 @@ const Content = () => (
         <p>
           Si votre plan de vol traverse un hexagone avec des arbres clôturés,
           vous devez vous arrêter avant. Votre balle a touché les arbres et
-          s&pos;est arrêtée.
+          s&apos;est arrêtée.
         </p>
       </Column>
     </Row>
@@ -2735,7 +2736,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si vous avez commencé votre tour dans l&pos;hexagone du rough (à
+          Si vous avez commencé votre tour dans l&apos;hexagone du rough (à
           droite), voir : « JOUER À PARTIR DU ROUGH » à la page 12.
         </p>
       </Column>
@@ -2753,7 +2754,7 @@ const Content = () => (
         <h4>Changing your mind</h4>
       </Column>
       <Column>
-        <h4>Changer d&pos;avis</h4>
+        <h4>Changer d&apos;avis</h4>
       </Column>
     </Row>
     <Row>
@@ -2765,8 +2766,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si vous n&pos;avez pas encore retiré vos doigts de votre golfeur, vous
-          pouvez modifier la direction dans laquelle vous avez frappé la balle.
+          Si vous n&apos;avez pas encore retiré vos doigts de votre golfeur,
+          vous pouvez modifier la direction dans laquelle vous avez frappé la
+          balle.
         </p>
       </Column>
     </Row>
@@ -2799,8 +2801,8 @@ const Content = () => (
         Clare se retrouve dans une position où elle ne peut pas atteindre le
         green en un seul coup. Elle joue un fer 2 et tire une seule carte du
         paquet de tir n°4. La carte de tir piochée tend vers la gauche. Sa
-        meilleure option est de tirer en dehors du parcours et d&pos;utiliser
-        l’effet du coup pour atterrir au-delà de l&pos;obstacle d&pos;eau
+        meilleure option est de tirer en dehors du parcours et d&apos;utiliser
+        l’effet du coup pour atterrir au-delà de l&apos;obstacle d&apos;eau
         adjacent au green, dans une excellente position pour son prochain tour.
       </Column>
     </Row>
@@ -2851,8 +2853,8 @@ const Content = () => (
           Parfois, il faut prendre un peu de distance. Vous pouvez frapper votre
           club plus loin que les options affichées sur la carte du club. Pour ce
           faire, à votre tour, annoncez au groupe que vous effectuez un GROS
-          COUP. Vous piochez alors une carte de plus que d&pos;habitude, et
-          toutes les cartes doivent être du paquet supérieur d&pos;un point au
+          COUP. Vous piochez alors une carte de plus que d&apos;habitude, et
+          toutes les cartes doivent être du paquet supérieur d&apos;un point au
           paquet le plus élevé indiqué sur votre carte de club.
         </p>
       </Column>
@@ -2900,7 +2902,7 @@ const Content = () => (
       <Column>
         <p>
           Toutes les cartes super, court ou mélange sont jouées comme
-          d&pos;habitude. Une carte « super » signifie que votre gros coup sera
+          d&apos;habitude. Une carte « super » signifie que votre gros coup sera
           encore plus important que prévu et une carte « court » vous décevra
           probablement en ce moment crucial.
         </p>
@@ -2929,8 +2931,8 @@ const Content = () => (
           Tous les clubs ne vous permettent pas de tenter un gros coup, par
           exemple les clubs qui demandent déjà de piocher dans le paquet de
           cartes n°5. Dans le coin supérieur de chaque club se trouve un symbole
-          qui indique si vous pouvez l&pos;utiliser pour un gros coup. Dans
-          l&pos;exemple ci-dessous, le driver a une icône « Pas de gros coup »
+          qui indique si vous pouvez l&apos;utiliser pour un gros coup. Dans
+          l&apos;exemple ci-dessous, le driver a une icône « Pas de gros coup »
           tandis que le fer 9 indique que vous pouvez faire un gros coup.
         </p>
       </Column>
@@ -2966,7 +2968,7 @@ const Content = () => (
         alors vous pouvez tirer deux cartes du paquet de tir n°5. Vous ne pouvez
         pas tirer deux cartes du paquet de tir n°4. Si votre club vous permet de
         piocher deux cartes, alors vous devez en piocher trois. Dans ce cas,
-        l&pos;autre joueur défausse une carte et vous choisissez parmi les deux
+        l&apos;autre joueur défausse une carte et vous choisissez parmi les deux
         restantes.
       </Column>
     </Row>
@@ -3017,7 +3019,7 @@ const Content = () => (
           continuer à jouer. Avant de piocher une carte de tir, vous devez
           décider de la direction dans laquelle vous souhaitez vous déplacer.
           Cette règle est la même que celle du « chipping » (voir « CHIPPING » à
-          la page 13). L&pos;hexagone dans lequel vous avez choisi de vous
+          la page 13). L&apos;hexagone dans lequel vous avez choisi de vous
           déplacer est votre hexagone ciblé.
         </p>
       </Column>
@@ -3040,10 +3042,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Piochez une seule carte de tir à partir d&pos;un des paquets de cartes
-          indiqués sur la carte. Au lieu de regarder la trajectoire de vol de la
-          carte de tir, regardez l&pos;icône de résultat du bunker dans le coin
-          inférieur droit.
+          Piochez une seule carte de tir à partir d&apos;un des paquets de
+          cartes indiqués sur la carte. Au lieu de regarder la trajectoire de
+          vol de la carte de tir, regardez l&apos;icône de résultat du bunker
+          dans le coin inférieur droit.
         </p>
       </Column>
     </Row>
@@ -3089,7 +3091,7 @@ const Content = () => (
         <ul>move to the left of your target hex</ul>
       </Column>
       <Column>
-        <ul>déplacez-vous vers la gauche de l&pos;hexagone ciblé</ul>
+        <ul>déplacez-vous vers la gauche de l&apos;hexagone ciblé</ul>
       </Column>
     </Row>
     <Row>
@@ -3097,7 +3099,7 @@ const Content = () => (
         <ul>move to your target hex</ul>
       </Column>
       <Column>
-        <ul>déplacez-vous vers l&pos;hexagone ciblé</ul>
+        <ul>déplacez-vous vers l&apos;hexagone ciblé</ul>
       </Column>
     </Row>
     <Row>
@@ -3105,7 +3107,7 @@ const Content = () => (
         <ul>move to the right of your target hex</ul>
       </Column>
       <Column>
-        <ul>déplacez-vous vers la droite de l&pos;hexagone ciblé</ul>
+        <ul>déplacez-vous vers la droite de l&apos;hexagone ciblé</ul>
       </Column>
     </Row>
     <Row>
@@ -3133,8 +3135,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si vous sortez du bunker, déplacez votre golfeur vers l&pos;hexagone
-          déterminé par l&pos;icône du bunker.
+          Si vous sortez du bunker, déplacez votre golfeur vers l&apos;hexagone
+          déterminé par l&apos;icône du bunker.
         </p>
       </Column>
     </Row>
@@ -3158,10 +3160,10 @@ const Content = () => (
       <Column>
         <p>
           Lorsque le club que vous avez choisi de jouer est le sand wedge, vous
-          considérez le bunker comme le rough. Vous n&pos;avez pas besoin
-          d&pos;effectuer l&pos;action de sortie du bunker. Si votre sand wedge
-          est dans votre main ou dans votre pile de défausse, il ne vous protège
-          pas des bunkers.
+          considérez le bunker comme le rough. Vous n&apos;avez pas besoin
+          d&apos;effectuer l&apos;action de sortie du bunker. Si votre sand
+          wedge est dans votre main ou dans votre pile de défausse, il ne vous
+          protège pas des bunkers.
         </p>
       </Column>
     </Row>
@@ -3189,10 +3191,11 @@ const Content = () => (
         and moves to the right (B) of the direction he declared.
       </Column>
       <Column>
-        Sébastien se retrouve dans un bunker (A). Il déclare qu&pos;il tire vers
-        le green (flèche). Il pioche une carte de tir, et le résultat du bunker
-        montre que la balle va vers la droite. Il suit l&pos;icône du bunker et
-        se déplace vers la droite (B) de la direction qu&pos;il a déclarée.
+        Sébastien se retrouve dans un bunker (A). Il déclare qu&apos;il tire
+        vers le green (flèche). Il pioche une carte de tir, et le résultat du
+        bunker montre que la balle va vers la droite. Il suit l&apos;icône du
+        bunker et se déplace vers la droite (B) de la direction qu&apos;il a
+        déclarée.
       </Column>
     </Row>
     <Row>
@@ -3263,9 +3266,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Votre tour s&pos;arrête ici. Placez le club que vous avez utilisé sur
-          votre pile de défausse. Si vous jouez une carte qui n&pos;expire
-          jamais, remettez-la dans votre main, par exemple Slugger&pos;s Driver
+          Votre tour s&apos;arrête ici. Placez le club que vous avez utilisé sur
+          votre pile de défausse. Si vous jouez une carte qui n&apos;expire
+          jamais, remettez-la dans votre main, par exemple Slugger&apos;s Driver
           ou le club de Dorian sur la face A. Si vous jouez la face B de Slick
           Rikesh ou la face B de Dorian, ignorez cette étape.
         </p>
@@ -3305,7 +3308,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lorsqu&pos;un joueur atteint le green, il prend le drapeau. Si
+          Lorsqu&apos;un joueur atteint le green, il prend le drapeau. Si
           plusieurs joueurs atteignent le green au cours du même tour, un joueur
           prend le drapeau et les autres un jeton de 1 point.
         </p>
@@ -3398,8 +3401,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Tout joueur qui était sur le point de perdre un tour à cause d&pos;un
-          obstacle d&pos;eau se voit retirer ce statut.
+          Tout joueur qui était sur le point de perdre un tour à cause d&apos;un
+          obstacle d&apos;eau se voit retirer ce statut.
         </p>
       </Column>
     </Row>
@@ -3430,7 +3433,7 @@ const Content = () => (
       <Column>
         <p>
           A la fin du parcours, chaque joueur compte le nombre de drapeaux et de
-          jetons à 1 point qu&pos;il possède. Chaque drapeau et chaque jeton
+          jetons à 1 point qu&apos;il possède. Chaque drapeau et chaque jeton
           vaut 1 point. Le joueur qui a le plus de points gagne.
         </p>
       </Column>
@@ -3453,9 +3456,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          En cas d&pos;égalité, comptez les jetons « trou en un ». Le joueur qui
-          a le plus de jetons « trou en un » remporte la partie. Si les joueurs
-          sont toujours à égalité, ils se partagent la victoire.
+          En cas d&apos;égalité, comptez les jetons « trou en un ». Le joueur
+          qui a le plus de jetons « trou en un » remporte la partie. Si les
+          joueurs sont toujours à égalité, ils se partagent la victoire.
         </p>
       </Column>
     </Row>
@@ -3518,7 +3521,7 @@ const Content = () => (
           Pour les clubs qui parcourent une distance fixe (bois), c’est
           représenté par un deuxième hexagone sur votre club avec un symbole de
           rough. Ci-dessous : le Bois n°5 envoie la balle à 2 hexagones
-          lorsqu&pos;il est joué depuis le rough et 3 depuis un fairway.
+          lorsqu&apos;il est joué depuis le rough et 3 depuis un fairway.
         </p>
       </Column>
     </Row>
@@ -3542,7 +3545,7 @@ const Content = () => (
         <p>
           Pour les clubs qui piochent dans un paquet de cartes de tir, il y a un
           symbole de rough sur votre carte de tir (voir à droite). Utilisez-le à
-          la place de l&pos;hexagone orange pour déterminer la destination
+          la place de l&apos;hexagone orange pour déterminer la destination
           finale pour votre golfeur.
         </p>
       </Column>
@@ -3568,11 +3571,11 @@ const Content = () => (
       <Column>
         <p>
           Le rough est considéré comme toute autre tuile qui ne comporte pas de
-          fairway. Un obstacle d&pos;eau est considéré comme rough (une fois que
-          vous avez passé un tour). Un obstacle d&pos;eau sur un fairway («
+          fairway. Un obstacle d&apos;eau est considéré comme rough (une fois
+          que vous avez passé un tour). Un obstacle d&apos;eau sur un fairway («
           OBSTACLES ET AUTRES TUILES » à la page 15) est considéré comme un
-          fairway. La majeure partie d&pos;un terrain de golf est composé de
-          rough. Il est généralement conseillé de ne pas s&pos;y aventurer.
+          fairway. La majeure partie d&apos;un terrain de golf est composé de
+          rough. Il est généralement conseillé de ne pas s&apos;y aventurer.
         </p>
       </Column>
     </Row>
@@ -3594,7 +3597,7 @@ const Content = () => (
       <Column>
         <p>
           Tous les clubs hybrides (Hybride 3, Hybride 5 et Hybride 8) ne sont
-          pas pénalisés lorsqu&pos;ils frappent depuis le rough.
+          pas pénalisés lorsqu&apos;ils frappent depuis le rough.
         </p>
       </Column>
     </Row>
@@ -3617,7 +3620,7 @@ const Content = () => (
       <Column>
         <p>
           Toutes les cartes piochées du paquet chip ne peuvent pas être
-          pénalisées lorsqu&pos;elles tirent depuis le rough. Ces cartes ne
+          pénalisées lorsqu&apos;elles tirent depuis le rough. Ces cartes ne
           comportent pas de symbole de rough (elles parcourent toujours 2
           cases).
         </p>
@@ -3652,10 +3655,10 @@ const Content = () => (
       <Column>
         Mackenzie (disque blanc) se retrouve dans le rough. Elle joue un fer 2,
         ce qui lui permet de tirer à partir du jeu de cartes de tir n°4. La
-        carte de tir va vers la gauche. Lorsqu&pos;elle trace son mouvement,
+        carte de tir va vers la gauche. Lorsqu&apos;elle trace son mouvement,
         elle utilise le symbole du rough sur la carte de tir pour calculer la
         trajectoire de la balle. En raison de la réduction de la distance, elle
-        se déplace de deux hexagones en ligne droite, puis d&pos;un hexagone
+        se déplace de deux hexagones en ligne droite, puis d&apos;un hexagone
         vers la gauche pour atterrir là où le marqueur de rough de la carte de
         tir indique. Dans cet exemple, elle est retombée sur le fairway, une
         bonne position pour son prochain coup.
@@ -3706,7 +3709,7 @@ const Content = () => (
         <p>
           Le paquet « chip » est différent des autres paquets de tir. Ces cartes
           de tir vous donnent la possibilité de passer par-dessus les arbres, ne
-          subissent pas de pénalité de rough et sont assorties d&pos;une
+          subissent pas de pénalité de rough et sont assorties d&apos;une
           contrainte. Vous devez déclarer la direction dans laquelle vous allez
           utiliser la carte chip avant de piocher une ou plusieurs cartes.
         </p>
@@ -3739,11 +3742,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Cette règle signifie qu&pos;il faut choisir l&pos;une des six
-          directions autour de l&pos;hexagone et en informer les autres joueurs.
-          Vous pouvez soit la décrire tel que : « je tire vers l&pos;eau » ou la
-          pointer du doigt. Vous ne pouvez pas changer de direction après avoir
-          pioché une carte de tir.
+          Cette règle signifie qu&apos;il faut choisir l&apos;une des six
+          directions autour de l&apos;hexagone et en informer les autres
+          joueurs. Vous pouvez soit la décrire tel que : « je tire vers
+          l&apos;eau » ou la pointer du doigt. Vous ne pouvez pas changer de
+          direction après avoir pioché une carte de tir.
         </p>
       </Column>
     </Row>
@@ -3772,7 +3775,7 @@ const Content = () => (
       <Column>
         <p>
           Une fois que vous avez déclaré votre direction, vous piochez vos
-          cartes comme d&pos;habitude.
+          cartes comme d&apos;habitude.
         </p>
       </Column>
     </Row>
@@ -3789,7 +3792,7 @@ const Content = () => (
         <h2>Move Your Golfer</h2>
       </Column>
       <Column>
-        <h2>???</h2>
+        <h2></h2>
       </Column>
     </Row>
     <Row>
@@ -3804,8 +3807,8 @@ const Content = () => (
         <p>
           La principale modification de la phase de déplacement de votre golfeur
           est que vous avez déjà déclaré la direction dans laquelle vous frappez
-          la balle. Déplacez votre golfeur comme d&pos;habitude, à une exception
-          près.
+          la balle. Déplacez votre golfeur comme d&apos;habitude, à une
+          exception près.
         </p>
       </Column>
     </Row>
@@ -3829,12 +3832,12 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si l&pos;hexagone adjacent à votre golfeur est un arbre, vous sautez
-          par-dessus et atterrissez dans l&pos;hexagone de destination orange.
+          Si l&apos;hexagone adjacent à votre golfeur est un arbre, vous sautez
+          par-dessus et atterrissez dans l&apos;hexagone de destination orange.
           Vous ne pouvez pas atterrir sur des arbres, si l’hexagone prédéfini
-          est un arbre, alors vous atterrissez sur l&pos;hexagone suivant, comme
-          si vous l’aviez sauté. S&pos;il s&pos;agit également d&pos;un arbre,
-          votre golfeur ne bouge pas.
+          est un arbre, alors vous atterrissez sur l&apos;hexagone suivant,
+          comme si vous l’aviez sauté. S&apos;il s&apos;agit également d&apos;un
+          arbre, votre golfeur ne bouge pas.
         </p>
       </Column>
     </Row>
@@ -3855,7 +3858,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Le Lob Wedge est un club unique car n&pos;avez pas besoin de déclarer
+          Le Lob Wedge est un club unique car n&apos;avez pas besoin de déclarer
           la direction dans laquelle vous allez frapper la balle avant de le
           jouer.
         </p>
@@ -3890,7 +3893,7 @@ const Content = () => (
       <Column>
         Brock se retrouve dans une position délicate avec des arbres qui
         bloquent sa progression sur le fairway. Il joue son fidèle fer 9 et
-        pointe la tuile ou il a l’intention d’atterrir (flèche). C&pos;est un
+        pointe la tuile ou il a l’intention d’atterrir (flèche). C&apos;est un
         jeu sûr, car la plupart des cartes du paquet chip le placeront sur le
         fairway. Il tire ensuite une carte du paquet de chip pour voir ce que le
         destin lui a réservé. Cela paye et il reçoit une carte de tir qui va
@@ -3981,7 +3984,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ces cartes s&pos;enchaînent, il est possible de revenir au paquet de
+          Ces cartes s&apos;enchaînent, il est possible de revenir au paquet de
           cartes de départ ou de passer du paquet de cartes n°2 au paquet de
           cartes n°5.
         </p>
@@ -4071,8 +4074,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Les cartes que vous avez pioché jusqu&pos;à présent ce tour-ci, par
-          exemple les cartes super ou d&pos;autres cartes de clubs qui vous
+          Les cartes que vous avez pioché jusqu&apos;à présent ce tour-ci, par
+          exemple les cartes super ou d&apos;autres cartes de clubs qui vous
           permettent de piocher 2 cartes, ne sont pas remises dans le paquet.
         </p>
       </Column>
@@ -4094,8 +4097,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si vous piochez une carte mélange et qu&pos;il n&pos;y a pas de pile
-          de défausse, vous n&pos;avez pas besoin de mélanger la pioche. Vous
+          Si vous piochez une carte mélange et qu&apos;il n&apos;y a pas de pile
+          de défausse, vous n&apos;avez pas besoin de mélanger la pioche. Vous
           devez quand même piocher une carte de remplacement.
         </p>
       </Column>
@@ -4127,7 +4130,7 @@ const Content = () => (
       <Column>
         <p>
           Lorsque vous piochez une carte avec plusieurs résultats, vous pouvez
-          choisir celui que vous voulez utiliser. Si l&pos;une des options est
+          choisir celui que vous voulez utiliser. Si l&apos;une des options est
           hors-jeu, vous devez alors prendre la seule option qui reste en jeu.
         </p>
       </Column>
@@ -4150,7 +4153,7 @@ const Content = () => (
       <Column>
         <p>
           Voir « OBSTACLES ET AUTRES TUILES » à la page 15 pour plus
-          d&pos;informations sur les options hors-jeu.
+          d&apos;informations sur les options hors-jeu.
         </p>
       </Column>
     </Row>
@@ -4183,7 +4186,7 @@ const Content = () => (
         <h2>LONGEST DRIVE CARD</h2>
       </Column>
       <Column>
-        <h2>???</h2>
+        <h2></h2>
       </Column>
     </Row>
     <Row>
@@ -4200,9 +4203,9 @@ const Content = () => (
         <p>
           Lorsque vous piochez et jouez cette carte, gardez-la. Cette carte vous
           rappelle que vous avez frappé le plus long tir du jeu, et si vous ne
-          gagnez pas aujourd&pos;hui, au moins vous rentrerez chez vous avec
+          gagnez pas aujourd&apos;hui, au moins vous rentrerez chez vous avec
           quelque chose. Pas la carte, vous comprenez… elle reste dans la boîte,
-          mais la sensation de satisfaction d&pos;avoir fait le plus long tir.
+          mais la sensation de satisfaction d&apos;avoir fait le plus long tir.
         </p>
       </Column>
     </Row>
@@ -4224,7 +4227,7 @@ const Content = () => (
       <Column>
         <p>
           Cette carte de tir parcourt 6 hexagones en ligne droite. Elle
-          s&pos;arrête aux obstacles d’arbres comme les autres cartes de tir.
+          s&apos;arrête aux obstacles d’arbres comme les autres cartes de tir.
         </p>
       </Column>
     </Row>
@@ -4339,7 +4342,7 @@ const Content = () => (
         <p>
           Votre destination. Selon le mode de jeu, les joueurs qui atteignent le
           green en premier remportent le tour. Lorsque vous jouez depuis le
-          green d&pos;un autre trou considérez la tuile comme un fairway.
+          green d&apos;un autre trou considérez la tuile comme un fairway.
         </p>
       </Column>
     </Row>
@@ -4370,8 +4373,8 @@ const Content = () => (
       <Column>
         <p>
           Les tirs de cet hexagone atterrissent un hexagone de moins que prévu.
-          Après avoir pioché votre carte de tir, cherchez l&pos;icône du rough
-          sur celle-ci. Ce symbole indique l&pos;endroit où votre balle
+          Après avoir pioché votre carte de tir, cherchez l&apos;icône du rough
+          sur celle-ci. Ce symbole indique l&apos;endroit où votre balle
           atterrit. Voir « JOUER À PARTIR DU ROUGH » à la page 12.
         </p>
       </Column>
@@ -4405,10 +4408,10 @@ const Content = () => (
       <Column>
         <p>
           Chaque fois qu’une balle quitte le terrain, elle est hors-jeu. La
-          balle est également hors-jeu lorsqu&pos;elle sort du terrain
+          balle est également hors-jeu lorsqu&apos;elle sort du terrain
           partiellement lors de sa course vers une tuile. Lorsque vous êtes
-          hors-jeu, votre golfeur reste à l&pos;endroit où il a tiré le coup. Il
-          reprend le club dans sa main ; son tour est terminé.
+          hors-jeu, votre golfeur reste à l&apos;endroit où il a tiré le coup.
+          Il reprend le club dans sa main ; son tour est terminé.
         </p>
       </Column>
     </Row>
@@ -4429,7 +4432,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          L&pos;atterrissage sur le club-house est également considéré comme
+          L&apos;atterrissage sur le club-house est également considéré comme
           hors-jeu, sauf si, bien sûr, vous jouez le 19ème.
         </p>
       </Column>
@@ -4487,7 +4490,7 @@ const Content = () => (
           Nous avons conçu la règle du hors-jeu parce qu’il était difficile pour
           plupart des joueurs de savoir où ils étaient en dehors du parcours
           sans une grille. Mais certains joueurs le peuvent. Si les joueurs sont
-          tous d&pos;accord pour utiliser cette variante, vous pouvez alors
+          tous d&apos;accord pour utiliser cette variante, vous pouvez alors
           permettre aux joueurs de frapper en dehors des limites du parcours.
           Les atterrissages en dehors du parcours sont toujours hors-jeu.
         </p>
@@ -4521,7 +4524,7 @@ const Content = () => (
         <p>
           Le tee box est le point de départ de chaque trou. Ces tuiles indiquent
           le par et le nombre de grandes tuiles du parcours à ajouter avant le
-          green. Pour plus d&pos;informations sur la construction des parcours,
+          green. Pour plus d&apos;informations sur la construction des parcours,
           allez voir la dernière page du livret de parcours.
         </p>
       </Column>
@@ -4553,9 +4556,9 @@ const Content = () => (
       <Column>
         <p>
           Les arbres arrêtent le vol de votre balle. Déplacez votre balle
-          d&pos;un hexagone vers l&pos;arrière le long de sa trajectoire de vol.
-          Si l&pos;hexagone précédent est un obstacle, suivez les règles de cet
-          obstacle.
+          d&apos;un hexagone vers l&apos;arrière le long de sa trajectoire de
+          vol. Si l&apos;hexagone précédent est un obstacle, suivez les règles
+          de cet obstacle.
         </p>
       </Column>
     </Row>
@@ -4575,7 +4578,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Remarque : seuls les arbres entourés d&pos;une clôture arrêtent la
+          Remarque : seuls les arbres entourés d&apos;une clôture arrêtent la
           balle.
         </p>
       </Column>
@@ -4593,7 +4596,7 @@ const Content = () => (
         <h2>Water (AND fairways with lakes)</h2>
       </Column>
       <Column>
-        <h2>L&pos;eau (ET les fairways avec des lacs)</h2>
+        <h2>L&apos;eau (ET les fairways avec des lacs)</h2>
       </Column>
     </Row>
     <Row>
@@ -4607,10 +4610,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Les obstacles d&pos;eau s&pos;appliquent lorsque la balle termine son
-          vol sur cet hexagone. Vous passez votre prochain tour. Allongez votre
-          golfeur. Au prochain tour, levez votre golfeur et sautez le tour. Vous
-          pourrez jouer au tour suivant.
+          Les obstacles d&apos;eau s&apos;appliquent lorsque la balle termine
+          son vol sur cet hexagone. Vous passez votre prochain tour. Allongez
+          votre golfeur. Au prochain tour, levez votre golfeur et sautez le
+          tour. Vous pourrez jouer au tour suivant.
         </p>
       </Column>
     </Row>
@@ -4632,10 +4635,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Vous jouez votre prochain coup à partir de la tuile d&pos;eau. Jouez
-          la tuile d&pos;eau comme si elle était un rough, sauf s&pos;il
-          s&pos;agit d&pos;un fairway avec un lac. Dans ce cas, on considère
-          qu&pos;il s&pos;agit d&pos;un fairway.
+          Vous jouez votre prochain coup à partir de la tuile d&apos;eau. Jouez
+          la tuile d&apos;eau comme si elle était un rough, sauf s&apos;il
+          s&apos;agit d&apos;un fairway avec un lac. Dans ce cas, on considère
+          qu&apos;il s&apos;agit d&apos;un fairway.
         </p>
       </Column>
     </Row>
@@ -4718,7 +4721,7 @@ const Content = () => (
         <p>
           Les 18 trous, comme le golf, ont plusieurs modes de jeu différents. La
           principale méthode décrite dans ce livre permet à tous les joueurs de
-          s&pos;affronter pour chaque trou. Le golf est un jeu difficile où il
+          s&apos;affronter pour chaque trou. Le golf est un jeu difficile où il
           peut être difficile de rattraper son retard. Si vous aimez ce genre de
           jeu ou si vous souhaitez vivre une expérience de golf plus réaliste,
           vous pouvez vous intéresser au golf racing, au Stroke Play ou
@@ -4766,8 +4769,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Certaines variantes s&pos;éloignent un peu plus du fairway. Elles
-          s&pos;adressent aux personnes qui souhaitent une expérience de golf
+          Certaines variantes s&apos;éloignent un peu plus du fairway. Elles
+          s&apos;adressent aux personnes qui souhaitent une expérience de golf
           moins traditionnelle. Les variantes Chaos Golf et Kelly Golf
           correspondent à cette description.
         </p>
@@ -4838,10 +4841,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Chaque mode de jeu est accompagné d&pos;une section qui décrit le mode
-          de jeu, le nombre de joueurs qu&pos;il supporte et le moment où vous
-          pourriez être intéressé par ce jeu. À droite, nous avons la section
-          pour le Match Play, la règle décrite jusqu&pos;à présent.
+          Chaque mode de jeu est accompagné d&apos;une section qui décrit le
+          mode de jeu, le nombre de joueurs qu&apos;il supporte et le moment où
+          vous pourriez être intéressé par ce jeu. À droite, nous avons la
+          section pour le Match Play, la règle décrite jusqu&apos;à présent.
         </p>
       </Column>
     </Row>
@@ -4960,7 +4963,7 @@ const Content = () => (
       <Column>
         <p>
           18 trous comme décrit dans ce livret de règles. Les joueurs
-          s&pos;affrontent pour gagner chaque trou indépendamment de leur
+          s&apos;affrontent pour gagner chaque trou indépendamment de leur
           performance sur les trous précédents. Le gagnant est le joueur qui a
           eu le plus de trous.
         </p>
@@ -5016,9 +5019,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Vous voulez vivre l&pos;expérience classique du 18 trous ou bien si
+          Vous voulez vivre l&apos;expérience classique du 18 trous ou bien si
           vous recherchez un jeu plus rapide qui permet à tous les joueurs de
-          s&pos;affronter pour chaque trou. En Match Play, un mauvais trou ne
+          s&apos;affronter pour chaque trou. En Match Play, un mauvais trou ne
           ruinera pas votre jeu.
         </p>
       </Column>
@@ -5050,8 +5053,8 @@ const Content = () => (
       <Column>
         <p>
           1 point pour le premier joueur à atteindre le green. Plusieurs joueurs
-          peuvent marquer des points s&pos;ils atteignent le green au cours du
-          même tour. En cas d&pos;égalité, le joueur qui a le plus de jetons de
+          peuvent marquer des points s&apos;ils atteignent le green au cours du
+          même tour. En cas d&apos;égalité, le joueur qui a le plus de jetons de
           « trou un un » gagne.
         </p>
       </Column>
@@ -5148,10 +5151,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Partez dans n&pos;importe quelle direction et marquez les trous dans
-          n&pos;importe quel ordre. Nous avons supprimé la contrainte de jouer
-          d&pos;un trou à l&pos;autre dans l&pos;ordre. Le score le plus élevé
-          l&pos;emporte.
+          Partez dans n&apos;importe quelle direction et marquez les trous dans
+          n&apos;importe quel ordre. Nous avons supprimé la contrainte de jouer
+          d&apos;un trou à l&apos;autre dans l&apos;ordre. Le score le plus
+          élevé l&apos;emporte.
         </p>
       </Column>
     </Row>
@@ -5207,7 +5210,7 @@ const Content = () => (
         <p>
           Vous avez un groupe de personnes qui aiment moins les règles du golf
           et qui préfèrent un jeu plus chaotique. Cette version de 18 trous
-          réduit l&pos;influence de la chance dans le jeu.
+          réduit l&apos;influence de la chance dans le jeu.
         </p>
       </Column>
     </Row>
@@ -5230,14 +5233,14 @@ const Content = () => (
     <Row>
       <Column>
         <p>
-          Each player&pos;s score is the sum of their collected 2 and 5 point
+          Each player&apos;s score is the sum of their collected 2 and 5 point
           tokens. Highest score wins.
         </p>
       </Column>
       <Column>
         <p>
           Le score de chaque joueur est la somme des jetons de 2 et 5 points
-          qu&pos;il a collectés. Le score le plus élevé gagne.
+          qu&apos;il a collectés. Le score le plus élevé gagne.
         </p>
       </Column>
     </Row>
@@ -5298,7 +5301,7 @@ const Content = () => (
       <Column>
         <p>
           Pour obtenir les meilleurs résultats, concevez un parcours très serré
-          avec tous les hexagones multi-green inclus. Ignorer l&pos;exigence de
+          avec tous les hexagones multi-green inclus. Ignorer l&apos;exigence de
           la tuile du fairway (par exemple, la tuile +1) donne de bons
           résultats.
         </p>
@@ -5324,8 +5327,8 @@ const Content = () => (
       <Column>
         <p>
           Placez un jeton de 2 et de 5 points sur chaque trou. Assurez-vous que
-          le numéro du trou soit le même pour les deux. L&pos;ordre des trous
-          n&pos;a pas d&pos;importance. Pour de meilleurs résultats, placez le
+          le numéro du trou soit le même pour les deux. L&apos;ordre des trous
+          n&apos;a pas d&apos;importance. Pour de meilleurs résultats, placez le
           jeton à 5 points côté orange vers le haut et le jeton à 2 points du
           côté du numéro. Cela permet de faire ressortir un peu plus les greens.
         </p>
@@ -5356,8 +5359,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Les joueurs peuvent frapper dans n&pos;importe quelle direction et
-          essayer de revendiquer un trou dans n&pos;importe quel ordre.
+          Les joueurs peuvent frapper dans n&apos;importe quelle direction et
+          essayer de revendiquer un trou dans n&apos;importe quel ordre.
         </p>
       </Column>
     </Row>
@@ -5380,11 +5383,11 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lorsqu&pos;il atterrit sur un tee box, le joueur peut jouer un autre
-          tour. Cela permet d&pos;enchaîner et de se déplacer plus rapidement
+          Lorsqu&apos;il atterrit sur un tee box, le joueur peut jouer un autre
+          tour. Cela permet d&apos;enchaîner et de se déplacer plus rapidement
           sur le parcours. Tous les tours supplémentaires sont pris dans
-          l&pos;ordre d&pos;initiative après que tous les joueurs aient terminé
-          leur tour initial.
+          l&apos;ordre d&apos;initiative après que tous les joueurs aient
+          terminé leur tour initial.
         </p>
       </Column>
     </Row>
@@ -5417,7 +5420,7 @@ const Content = () => (
         <p>
           Le joueur qui atterrit le premier sur le green prend le grand jeton de
           score (5 points) et la deuxième personne reçoit le petit jeton (2
-          points). Il n&pos;y a pas d’égalité et l&pos;ordre d&pos;initiative
+          points). Il n&apos;y a pas d’égalité et l&apos;ordre d&apos;initiative
           est utilisé pour déterminer qui prend le jeton de 5 points.
         </p>
       </Column>
@@ -5550,17 +5553,17 @@ const Content = () => (
         <Callout>
           Déplacement rapide Pendant le Chaos Golf, si vous terminez votre tour
           sur un tee box, vous pouvez jouer un tour supplémentaire à la fin du
-          tour. Prenez tous les tours supplémentaires dans l&pos;ordre
-          d&pos;initiative. Si deux joueurs terminent leur tour sur un tee box,
-          le joueur ayant l&pos;initiative la plus faible prend son tour
+          tour. Prenez tous les tours supplémentaires dans l&apos;ordre
+          d&apos;initiative. Si deux joueurs terminent leur tour sur un tee box,
+          le joueur ayant l&apos;initiative la plus faible prend son tour
           supplémentaire en premier. Lors de votre tour supplémentaire, vous
-          pouvez choisir de jouer avec n&pos;importe lequel des clubs
-          disponibles, comme d&pos;habitude. Chaque club joué est défaussé. Si
-          vous n&pos;avez pas de clubs en main, vous ne pouvez pas jouer votre
+          pouvez choisir de jouer avec n&apos;importe lequel des clubs
+          disponibles, comme d&apos;habitude. Chaque club joué est défaussé. Si
+          vous n&apos;avez pas de clubs en main, vous ne pouvez pas jouer votre
           tour supplémentaire. Si vous terminez un tour supplémentaire sur un
           tee box, vous pouvez prendre un autre tour supplémentaire. Vous pouvez
-          continuer à le faire jusqu&pos;à ce que vous n&pos;ayez plus de clubs
-          en main.
+          continuer à le faire jusqu&apos;à ce que vous n&apos;ayez plus de
+          clubs en main.
         </Callout>
       </Column>
     </Row>
@@ -5615,7 +5618,7 @@ const Content = () => (
       <Column>
         <p>
           Une variante à deux joueurs du Chaos Golf. Chaque équipe compte deux
-          golfeurs et cinq clubs. Ils désignent le golfeur qu&pos;ils déplacent
+          golfeurs et cinq clubs. Ils désignent le golfeur qu&apos;ils déplacent
           après avoir pioché leur carte de tir.
         </p>
       </Column>
@@ -5665,7 +5668,7 @@ const Content = () => (
         <p>You like Chaos Golf and there are only two of you.</p>
       </Column>
       <Column>
-        <p>Vous aimez le Chaos Golf et vous n&pos;êtes que deux.</p>
+        <p>Vous aimez le Chaos Golf et vous n&apos;êtes que deux.</p>
       </Column>
     </Row>
     <Row>
@@ -5751,8 +5754,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Ne placez qu&pos;un seul drapeau sur chaque green. L&pos;ordre n&pos;a
-          pas d’importance.
+          Ne placez qu&apos;un seul drapeau sur chaque green. L&apos;ordre
+          n&apos;a pas d’importance.
         </p>
       </Column>
     </Row>
@@ -5781,7 +5784,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lorsqu&pos;un golfeur atterrit sur un tee box, ce golfeur doit être
+          Lorsqu&apos;un golfeur atterrit sur un tee box, ce golfeur doit être
           celui qui reçoit le tour supplémentaire.
         </p>
       </Column>
@@ -5812,8 +5815,8 @@ const Content = () => (
       <Column>
         <p>
           Le jeu se termine lorsque tous les drapeaux ont été pris ou
-          lorsqu&pos;une équipe a gagné 10 drapeaux. L&pos;équipe ayant le plus
-          grand nombre de points gagne.
+          lorsqu&apos;une équipe a gagné 10 drapeaux. L&apos;équipe ayant le
+          plus grand nombre de points gagne.
         </p>
       </Column>
     </Row>
@@ -5866,8 +5869,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          C&pos;est du golf, mais c&pos;est une course ! Tout le monde commence
-          sur le premier tee box et doit compléter les 18 trous pour gagner.
+          C&apos;est du golf, mais c&apos;est une course ! Tout le monde
+          commence sur le premier tee box et doit compléter les 18 trous pour
+          gagner.
         </p>
       </Column>
     </Row>
@@ -5914,14 +5918,14 @@ const Content = () => (
     <Row>
       <Column>
         <p>
-          When you want the Stroke Play experience and you don&pos;t have a pen.
-          In this mode the entire course is the scoring track.
+          When you want the Stroke Play experience and you don&apos;t have a
+          pen. In this mode the entire course is the scoring track.
         </p>
       </Column>
       <Column>
         <p>
-          Vous voulez l&pos;expérience du Stroke Play et que vous n&pos;avez pas
-          de stylo. Dans ce mode, le parcours entier permet de marquer des
+          Vous voulez l&apos;expérience du Stroke Play et que vous n&apos;avez
+          pas de stylo. Dans ce mode, le parcours entier permet de marquer des
           points.
         </p>
       </Column>
@@ -5952,7 +5956,7 @@ const Content = () => (
       <Column>
         <p>
           Le premier joueur à atteindre le 18e green après avoir atteint chaque
-          green dans l&pos;ordre gagne.
+          green dans l&apos;ordre gagne.
         </p>
       </Column>
     </Row>
@@ -6012,9 +6016,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Un joueur ne peut passer au tee box suivant qu&pos;après avoir atteint
-          le green précédent. Les joueurs se retrouvent alors répartis sur
-          plusieurs trous dans la course pour le 18e.
+          Un joueur ne peut passer au tee box suivant qu&apos;après avoir
+          atteint le green précédent. Les joueurs se retrouvent alors répartis
+          sur plusieurs trous dans la course pour le 18e.
         </p>
       </Column>
     </Row>
@@ -6044,8 +6048,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Les joueurs doivent se rendre sur chaque green dans l&pos;ordre. Le
-          premier joueur à atteindre le 18e green gagne. En cas d&pos;égalité,
+          Les joueurs doivent se rendre sur chaque green dans l&apos;ordre. Le
+          premier joueur à atteindre le 18e green gagne. En cas d&apos;égalité,
           le joueur qui a le plus de jetons de « trou en un » gagne.
         </p>
       </Column>
@@ -6126,7 +6130,7 @@ const Content = () => (
         <p>
           Le Chaos Golf contre trois adversaires qui scorent rapidement. Trois
           golfeurs adverses marquent si vous les laissez faire. Vous devez les
-          dépasser avant qu&pos;ils n&pos;acquièrent chacun six greens.
+          dépasser avant qu&apos;ils n&apos;acquièrent chacun six greens.
         </p>
       </Column>
     </Row>
@@ -6213,14 +6217,14 @@ const Content = () => (
     <Row>
       <Column>
         <p>
-          Each player&pos;s score is the sum of their collected 2 and 5 point
+          Each player&apos;s score is the sum of their collected 2 and 5 point
           tokens. Highest score wins.
         </p>
       </Column>
       <Column>
         <p>
           Le score de chaque joueur est la somme des jetons de 2 et 5 points
-          qu&pos;il a collectés. Le score le plus élevé gagne.
+          qu&apos;il a collectés. Le score le plus élevé gagne.
         </p>
       </Column>
     </Row>
@@ -6285,7 +6289,7 @@ const Content = () => (
           Placez un golfeur pour chacun de vos trois adversaires sur chaque côté
           du plateau de jeu. Mélangez les jetons roses à 1 point et placez-les
           en trois piles de six jetons chacune. Placez une pile devant chaque
-          adversaire. Les jetons doivent être à l&pos;envers. Placez votre
+          adversaire. Les jetons doivent être à l&apos;envers. Placez votre
           golfeur sur le tee box de départ.
         </p>
       </Column>
@@ -6376,8 +6380,8 @@ const Content = () => (
       <Column>
         <p>
           Révélez le jeton supérieur à 1 point pour chaque adversaire. Ce trou
-          est celui qu&pos;ils marqueront lors de la prochaine phase de marquage
-          de points.
+          est celui qu&apos;ils marqueront lors de la prochaine phase de
+          marquage de points.
         </p>
       </Column>
     </Row>
@@ -6448,7 +6452,7 @@ const Content = () => (
       <Column>
         <p>
           Pendant les tours réservés aux joueurs, vous jouez comme
-          d&pos;habitude et pouvez marquer n&pos;importe quel green que vous
+          d&apos;habitude et pouvez marquer n&apos;importe quel green que vous
           pouvez atteindre.
         </p>
       </Column>
@@ -6470,9 +6474,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          À la fin de chaque tour marqué par l&pos;icône « score combiné »,
+          À la fin de chaque tour marqué par l&apos;icône « score combiné »,
           effectuez la phase de score combiné. Voir la page suivante pour plus
-          d&pos;informations.
+          d&apos;informations.
         </p>
       </Column>
     </Row>
@@ -6496,8 +6500,8 @@ const Content = () => (
       <Column>
         <p>
           Après la phase de marquage des points, déplacez le marqueur de tour
-          solo d&pos;une case vers la droite. Avant de déplacer le jeton,
-          s&pos;il n&pos;y a plus de place sur la carte, révélez une nouvelle
+          solo d&apos;une case vers la droite. Avant de déplacer le jeton,
+          s&apos;il n&apos;y a plus de place sur la carte, révélez une nouvelle
           carte du haut du paquet de cartes Golf Chaos Solo et placez votre
           marqueur de tour sur la première case.
         </p>
@@ -6508,7 +6512,7 @@ const Content = () => (
         <p>
           Fast travel is permitted if you land on a tee box. Take your extra
           turn after your opponents have their turns and the scoring of any
-          greens. Your opponents don&pos;t fast travel.
+          greens. Your opponents don&apos;t fast travel.
         </p>
       </Column>
       <Column>
@@ -6601,8 +6605,8 @@ const Content = () => (
         <p>
           Après avoir déplacé votre golfeur et avant de marquer des points sur
           les greens, regardez les greens ciblés de chaque adversaire. Donnez à
-          l&pos;adversaire le plus gros jeton restant sur les greens que vous ne
-          visez pas.
+          l&apos;adversaire le plus gros jeton restant sur les greens que vous
+          ne visez pas.
         </p>
       </Column>
     </Row>
@@ -6627,10 +6631,11 @@ const Content = () => (
       <Column>
         <p>
           Si vous êtes en compétition pour un green, retournez le club supérieur
-          de l&pos;adversaire qui est en lice. Si la carte de votre adversaire a
-          une valeur d&pos;initiative inférieure à la vôtre, il prend le jeton à
-          5 points, et vous recevez le jeton à 2 points. Sinon, vous prenez le
-          jeton à 5 points et votre adversaire prend le jeton à 2 points.
+          de l&apos;adversaire qui est en lice. Si la carte de votre adversaire
+          a une valeur d&apos;initiative inférieure à la vôtre, il prend le
+          jeton à 5 points, et vous recevez le jeton à 2 points. Sinon, vous
+          prenez le jeton à 5 points et votre adversaire prend le jeton à 2
+          points.
         </p>
       </Column>
     </Row>
@@ -6654,9 +6659,9 @@ const Content = () => (
       <Column>
         <p>
           Si vous voulez savoir si vous allez gagner un green, vous pouvez
-          révéler la carte de club d&pos;un adversaire pour voir son initiative.
-          Vous ne pouvez le faire qu&pos;après avoir déterminé quel club vous
-          allez jouer et avant de déplacer votre golfeur.
+          révéler la carte de club d&apos;un adversaire pour voir son
+          initiative. Vous ne pouvez le faire qu&apos;après avoir déterminé quel
+          club vous allez jouer et avant de déplacer votre golfeur.
         </p>
       </Column>
     </Row>
@@ -6689,7 +6694,7 @@ const Content = () => (
         <p>
           Avant de jouer, vous devez faire un jeu de cartes qui représente la
           difficulté du jeu. Plus il y a de joueurs qui marquent des points dans
-          le jeu sélectionné, plus c&pos;est facile. Modifiez le jeu de cartes
+          le jeu sélectionné, plus c&apos;est facile. Modifiez le jeu de cartes
           de manière à ce que chaque partie soit un défi.
         </p>
       </Column>
@@ -6748,8 +6753,8 @@ const Content = () => (
           vous indique le nombre de tours de marquage combiné des points sur
           cette carte. Chaque jeu de cartes Solo Chaos Golf nécessite au moins
           six tours de marquage combiné des points. Vous pouvez en avoir plus si
-          vous le souhaitez, mais cela ne fait qu&pos;ajouter de
-          l&pos;incertitude dans le jeu. Le rang de difficulté change par
+          vous le souhaitez, mais cela ne fait qu&apos;ajouter de
+          l&apos;incertitude dans le jeu. Le rang de difficulté change par
           fourchette, par exemple de 21 à 25.
         </p>
       </Column>
@@ -6773,7 +6778,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Chaque parcours fourni dans le jeu est également accompagné d&pos;un
+          Chaque parcours fourni dans le jeu est également accompagné d&apos;un
           score de par solo. Si vous construisez un jeu de cartes égal à ce
           score, vous vivrez une expérience que nous considérons comme un vrai
           défi. Si vous pouvez gagner avec un rang supérieur, félicitations !
@@ -6844,9 +6849,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          C&pos;est comme le Match Play, sauf que chaque green vaut 1, 2 ou 5
+          C&apos;est comme le Match Play, sauf que chaque green vaut 1, 2 ou 5
           points. Les joueurs doivent tenir compte de la valeur de chaque trou
-          lorsqu&pos;ils choisissent leurs clubs et effectuent leurs coups. Les
+          lorsqu&apos;ils choisissent leurs clubs et effectuent leurs coups. Les
           égalités sur un trou donnent un jackpot.
         </p>
       </Column>
@@ -6903,7 +6908,7 @@ const Content = () => (
         <p>
           Vous aimez le Match Play et vous voulez ajouter une autre dimension au
           jeu. Le processus de pioche et de sélection des clubs change, car les
-          joueurs essaient d&pos;avoir leurs meilleurs clubs disponibles pour
+          joueurs essaient d&apos;avoir leurs meilleurs clubs disponibles pour
           avoir les trous qui ont le plus de valeur.
         </p>
       </Column>
@@ -6936,7 +6941,7 @@ const Content = () => (
         <p>
           Le joueur qui a le plus de points gagne. Les greens valent 1, 2 ou 5
           points en fonction de la valeur du jeton dessus. Plusieurs joueurs
-          marquent des points s&pos;ils atteignent tous le green au cours du
+          marquent des points s&apos;ils atteignent tous le green au cours du
           même tour.
         </p>
       </Column>
@@ -7036,8 +7041,8 @@ const Content = () => (
       <Column>
         <p>
           Retournez tous les jetons de 1 et 2 points. Mélangez. Choisissez un
-          jeton pour chaque green qui n&pos;en a pas. Placez les jetons à
-          l&pos;endroit pour que tous les joueurs puissent voir la valeur de
+          jeton pour chaque green qui n&apos;en a pas. Placez les jetons à
+          l&apos;endroit pour que tous les joueurs puissent voir la valeur de
           chaque green.
         </p>
       </Column>
@@ -7092,7 +7097,7 @@ const Content = () => (
       <Column>
         <p>
           Le joueur qui a le plus de points gagne. Un score d’égalité se
-          départage par des tours d&pos;élimination.
+          départage par des tours d&apos;élimination.
         </p>
       </Column>
     </Row>
@@ -7116,7 +7121,7 @@ const Content = () => (
         <p>
           Si le 18e trou est à égalité et que le résultat décide du vainqueur,
           déplacez les jetons de score du 18e au 1er green. Si le résultat ne
-          détermine pas le vainqueur, c&pos;est le joueur en tête qui gagne.
+          détermine pas le vainqueur, c&apos;est le joueur en tête qui gagne.
         </p>
       </Column>
     </Row>
@@ -7181,7 +7186,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          En cas d&pos;égalité, seuls les joueurs à égalité passent au trou
+          En cas d&apos;égalité, seuls les joueurs à égalité passent au trou
           suivant. Les autres joueurs sont éliminés.
         </p>
       </Column>
@@ -7259,8 +7264,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Chaque joueur a un green défini qu&pos;il essaie d&pos;atteindre. Les
-          joueurs marquent des points pour chaque green ciblé atteint.
+          Chaque joueur a un green défini qu&apos;il essaie d&apos;atteindre.
+          Les joueurs marquent des points pour chaque green ciblé atteint.
         </p>
       </Column>
     </Row>
@@ -7314,7 +7319,7 @@ const Content = () => (
       <Column>
         <p>
           Vous aimez le Chaos Golf et les quêtes, et vous voulez ajouter un peu
-          plus d&pos;incertitude dans le jeu.
+          plus d&apos;incertitude dans le jeu.
         </p>
       </Column>
     </Row>
@@ -7347,7 +7352,9 @@ const Content = () => (
         <p>2 points for claiming the secret green of another player.</p>
       </Column>
       <Column>
-        <p>2 points pour tout green secret d&pos;un autre joueur revendiqué.</p>
+        <p>
+          2 points pour tout green secret d&apos;un autre joueur revendiqué.
+        </p>
       </Column>
     </Row>
     <Row>
@@ -7460,7 +7467,7 @@ const Content = () => (
       <Column>
         <p>
           Chaque joueur tire deux jetons à 1 point, il en garde un et rend
-          l&pos;autre. Les joueurs gardent leur cible secrète.
+          l&apos;autre. Les joueurs gardent leur cible secrète.
         </p>
       </Column>
     </Row>
@@ -7486,8 +7493,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Chaque joueur peut frapper dans n&pos;importe quelle direction et
-          essayer de revendiquer n&pos;importe quel trou.
+          Chaque joueur peut frapper dans n&apos;importe quelle direction et
+          essayer de revendiquer n&apos;importe quel trou.
         </p>
       </Column>
     </Row>
@@ -7508,8 +7515,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lorsqu&pos;il ne reste qu&pos;un seul jeton dans le sac, le joueur le
-          tire au sort.
+          Lorsqu&apos;il ne reste qu&apos;un seul jeton dans le sac, le joueur
+          le tire au sort.
         </p>
       </Column>
     </Row>
@@ -7540,7 +7547,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lorsqu&pos;un joueur atteint le green prédéfini par son jeton, il
+          Lorsqu&apos;un joueur atteint le green prédéfini par son jeton, il
           révèle son jeton de green face vers le haut, retire le drapeau du
           plateau et le remet dans la boîte. Il prend ensuite un jeton de 2
           points et le rajoute à son score. Il ajoute ensuite à son score le
@@ -7557,8 +7564,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Piochez deux jetons de remplacement à 1 point, gardez l&pos;un comme
-          prochaine cible et rendez l&pos;autre.
+          Piochez deux jetons de remplacement à 1 point, gardez l&apos;un comme
+          prochaine cible et rendez l&apos;autre.
         </p>
       </Column>
     </Row>
@@ -7575,7 +7582,7 @@ const Content = () => (
         <h3>Scoring another’s target green</h3>
       </Column>
       <Column>
-        <h3>Marquer le green prédéfini d&pos;une autre personne</h3>
+        <h3>Marquer le green prédéfini d&apos;une autre personne</h3>
       </Column>
     </Row>
     <Row>
@@ -7587,9 +7594,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si quelqu&pos;un réclame votre green prédéfini, remettez-lui votre
+          Si quelqu&apos;un réclame votre green prédéfini, remettez-lui votre
           jeton de 1 point. Piochez deux jetons de remplacement à 1 point,
-          gardez l&pos;un d&pos;eux et rendez l&pos;autre.
+          gardez l&apos;un d&apos;eux et rendez l&apos;autre.
         </p>
       </Column>
     </Row>
@@ -7610,7 +7617,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si vous revendiquez le green prédéfini d&pos;un autre joueur, vous
+          Si vous revendiquez le green prédéfini d&apos;un autre joueur, vous
           marquez son jeton de 1 point et le drapeau du green.
         </p>
       </Column>
@@ -7665,9 +7672,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Le jeu se termine immédiatement après qu&pos;un joueur ait remporté le
-          dernier green. Additionnez la valeur des jetons que vous avez marqués.
-          Les drapeaux valent 1 point. Le score le plus élevé l&pos;emporte.
+          Le jeu se termine immédiatement après qu&apos;un joueur ait remporté
+          le dernier green. Additionnez la valeur des jetons que vous avez
+          marqués. Les drapeaux valent 1 point. Le score le plus élevé
+          l&apos;emporte.
         </p>
       </Column>
     </Row>
@@ -7830,8 +7838,8 @@ const Content = () => (
           notation dans lequel vous obtenez 2 points pour avoir atteint le par.
           Vous obtenez des points bonus si vous battez le par (en dessous) et
           vous perdez des points si vous dépassez le par. Le score le plus élevé
-          par trou est de 4, 5 ou 6 selon qu&pos;il s&pos;agit d&pos;un par 3, 4
-          ou 5. Le score le plus bas par trou est de zéro (0).
+          par trou est de 4, 5 ou 6 selon qu&apos;il s&apos;agit d&apos;un par
+          3, 4 ou 5. Le score le plus bas par trou est de zéro (0).
         </p>
       </Column>
     </Row>
@@ -7890,7 +7898,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lorsqu&pos;un joueur atteint le green, il attend que tous les autres
+          Lorsqu&apos;un joueur atteint le green, il attend que tous les autres
           aient terminé ce trou avant de passer à la suite.
         </p>
       </Column>
@@ -8003,7 +8011,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Zéro (0) est le plus petit score qu&pos;un joueur peut obtenir sur un
+          Zéro (0) est le plus petit score qu&apos;un joueur peut obtenir sur un
           trou.
         </p>
       </Column>
@@ -8096,7 +8104,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Le golf traditionnel. Votre objectif est d&pos;atteindre le 18e green
+          Le golf traditionnel. Votre objectif est d&apos;atteindre le 18e green
           avec le score le plus bas. Vous marquez 1 point pour chaque tour que
           vous prenez, que vous sautez et pour ceux que vous passez hors-jeu.
         </p>
@@ -8115,7 +8123,7 @@ const Content = () => (
         <p>You’ll need a pen and paper for this one.</p>
       </Column>
       <Column>
-        <p>Vous aurez besoin d&pos;un stylo et d’une feuille pour ce jeu.</p>
+        <p>Vous aurez besoin d&apos;un stylo et d’une feuille pour ce jeu.</p>
       </Column>
     </Row>
     <Row>
@@ -8252,7 +8260,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lorsqu&pos;un joueur atteint le green, il attend que tous les autres
+          Lorsqu&apos;un joueur atteint le green, il attend que tous les autres
           aient terminé le trou avant de passer à la suite.
         </p>
       </Column>
@@ -8274,7 +8282,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Les joueurs qui atterrissent dans l&pos;eau ne passent pas un tour,
+          Les joueurs qui atterrissent dans l&apos;eau ne passent pas un tour,
           mais en ajoutent un point à leur score.
         </p>
       </Column>
@@ -8316,7 +8324,7 @@ const Content = () => (
     <Row>
       <Column>
         <p>
-          With pen and paper, use tally marks to track each player&pos;s turn.
+          With pen and paper, use tally marks to track each player&apos;s turn.
         </p>
       </Column>
       <Column>
@@ -8344,7 +8352,7 @@ const Content = () => (
       <Column>
         <p>
           Chaque parcours aura un score de par. Même si vous ne gagnez pas
-          aujourd&pos;hui, battre le par est un exploit.
+          aujourd&apos;hui, battre le par est un exploit.
         </p>
       </Column>
     </Row>
@@ -8429,7 +8437,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Il y a huit golfeurs différents sur 18 trous, et chacun d&pos;eux
+          Il y a huit golfeurs différents sur 18 trous, et chacun d&apos;eux
           apporte une expérience différente. Chaque golfeur a une face A et une
           face B. La face A facilite le jeu et la face B le rend plus difficile.
           Il y a un A ou un B dans le coin inférieur droit.
@@ -8472,7 +8480,7 @@ const Content = () => (
       <Column>
         <p>
           Immédiatement avant que Bunjil ne choisisse son club pour jouer, il
-          peut regarder une fois la carte supérieure d&pos;un paquet de cartes
+          peut regarder une fois la carte supérieure d&apos;un paquet de cartes
           de tir. Tournez Bunjil sur le côté (à l’horizontale) pour indiquer que
           son pouvoir a été utilisé. Le joueur ne doit pas montrer la carte aux
           autres joueurs. Retournez la carte face cachée sur le dessus du paquet
@@ -8547,9 +8555,9 @@ const Content = () => (
       <Column>
         <p>
           Suite au pouvoir de la face A Bunjil peut décider soit de garder la
-          carte de tir et de l&pos;utiliser lors de son prochain tir, soit de la
-          remettre sur le dessus du paquet de cartes de tir, face vers le haut,
-          pour que tous les joueurs puissent la voir.
+          carte de tir et de l&apos;utiliser lors de son prochain tir, soit de
+          la remettre sur le dessus du paquet de cartes de tir, face vers le
+          haut, pour que tous les joueurs puissent la voir.
         </p>
       </Column>
     </Row>
@@ -8611,9 +8619,9 @@ const Content = () => (
       <Column>
         <p>
           Après le tirage des cartes, avant le premier trou, le joueur avec
-          Dorian dit au reste du groupe lequel de ses clubs n&pos;expire jamais.
-          Chaque fois que vous utilisez ce club, remettez-le dans votre main au
-          lieu de le jeter.
+          Dorian dit au reste du groupe lequel de ses clubs n&apos;expire
+          jamais. Chaque fois que vous utilisez ce club, remettez-le dans votre
+          main au lieu de le jeter.
         </p>
       </Column>
     </Row>
@@ -8637,7 +8645,7 @@ const Content = () => (
         <p>
           Dorian ne peut pas réinitialiser sa main pendant un trou mais peut le
           faire à la fin du trou si sa main ne contient que le club qui
-          n&pos;expire jamais (et qu’il respecte les règles de réinitialisation
+          n&apos;expire jamais (et qu’il respecte les règles de réinitialisation
           de la main).
         </p>
       </Column>
@@ -8851,9 +8859,9 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lors de l&pos;utilisation de la capacité de la face A de Lucky, le
-          joueur écarte un de ses autres clubs. Si le joueur n&pos;a pas
-          d&pos;autres clubs, il ne peut pas utiliser le pouvoir de Lucky.
+          Lors de l&apos;utilisation de la capacité de la face A de Lucky, le
+          joueur écarte un de ses autres clubs. Si le joueur n&apos;a pas
+          d&apos;autres clubs, il ne peut pas utiliser le pouvoir de Lucky.
         </p>
       </Column>
     </Row>
@@ -8871,7 +8879,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Vous ne pouvez utiliser le pouvoir de Lucky qu&pos;une seule fois par
+          Vous ne pouvez utiliser le pouvoir de Lucky qu&apos;une seule fois par
           trou.
         </p>
       </Column>
@@ -8913,9 +8921,10 @@ const Content = () => (
         <p>
           Une fois que tous les joueurs ont révélé leurs cartes de club, Slick
           Rikesh peut utiliser le club choisi par un autre joueur.
-          L&pos;initiative du club de Slick Rikesh est la même que celle du club
-          du propriétaire d&pos;origine et il joue immédiatement après. Slick
-          Rikesh ne peut utiliser son pouvoir qu&pos;une seule fois par trou.
+          L&apos;initiative du club de Slick Rikesh est la même que celle du
+          club du propriétaire d&apos;origine et il joue immédiatement après.
+          Slick Rikesh ne peut utiliser son pouvoir qu&apos;une seule fois par
+          trou.
         </p>
       </Column>
     </Row>
@@ -8967,8 +8976,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Le joueur avec Slick Rikesh ne choisit qu&pos;une seule carte pendant
-          la sélection et peut choisir ce club à n&pos;importe quel tour de
+          Le joueur avec Slick Rikesh ne choisit qu&apos;une seule carte pendant
+          la sélection et peut choisir ce club à n&apos;importe quel tour de
           pioche.
         </p>
       </Column>
@@ -8992,10 +9001,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Pendant le jeu, Slick Rikesh joue son club comme d&pos;habitude (pour
-          déterminer l&pos;initiative) et peut ensuite choisir d’utiliser
-          n&pos;importe quel club défaussé d&pos;un autre joueur. S&pos;il
-          n&pos;y a pas de clubs défaussés, Slick Rikesh doit jouer son club.
+          Pendant le jeu, Slick Rikesh joue son club comme d&apos;habitude (pour
+          déterminer l&apos;initiative) et peut ensuite choisir d’utiliser
+          n&apos;importe quel club défaussé d&apos;un autre joueur. S&apos;il
+          n&apos;y a pas de clubs défaussés, Slick Rikesh doit jouer son club.
         </p>
       </Column>
     </Row>
@@ -9125,9 +9134,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lors de l&pos;étape « Déterminer l&pos;ordre de jeu », soustrayez un à
-          l&pos;initiative du club joué par Swift. Si l&pos;initiative de Swift
-          est identique à celle d&pos;un autre joueur, Swift passe en premier.
+          Lors de l&apos;étape « Déterminer l&apos;ordre de jeu », soustrayez un
+          à l&apos;initiative du club joué par Swift. Si l&apos;initiative de
+          Swift est identique à celle d&apos;un autre joueur, Swift passe en
+          premier.
         </p>
       </Column>
     </Row>
@@ -9157,10 +9167,10 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lors de l&pos;étape « Déterminer l&pos;ordre de jeu », soustrayez un à
-          l&pos;initiative du club joué par Swift. Si l&pos;initiative de Swift
-          est identique à celle d&pos;un autre joueur, Swift passe après ce
-          joueur.
+          Lors de l&apos;étape « Déterminer l&apos;ordre de jeu », soustrayez un
+          à l&apos;initiative du club joué par Swift. Si l&apos;initiative de
+          Swift est identique à celle d&apos;un autre joueur, Swift passe après
+          ce joueur.
         </p>
       </Column>
     </Row>
@@ -9197,8 +9207,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Les obstacles d&pos;eau ne concernent pas The Shark, y compris sur les
-          fairways. Traitez-les comme la tuile sous-jacente.
+          Les obstacles d&apos;eau ne concernent pas The Shark, y compris sur
+          les fairways. Traitez-les comme la tuile sous-jacente.
         </p>
       </Column>
     </Row>
@@ -9498,8 +9508,8 @@ const Content = () => (
         <p>
           Seabrook Studios reconnaît les propriétaires traditionnels des terres
           sur lesquelles nous travaillons. Nous rendons hommage à leurs aînés,
-          passés et présents, et aux aînés autochtones d&pos;autres communautés
-          qui visitent ces terres. La souveraineté n&pos;a jamais été cédée.
+          passés et présents, et aux aînés autochtones d&apos;autres communautés
+          qui visitent ces terres. La souveraineté n&apos;a jamais été cédée.
           Cela a toujours été et sera toujours une terre autochtone.
         </p>
       </Column>
@@ -9712,8 +9722,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si vous n&pos;avez pas enlevé les tuiles de parcours de leur socle,
-          prenez le socle n°01 et retournez-le sur le devant. C&pos;est écrit
+          Si vous n&apos;avez pas enlevé les tuiles de parcours de leur socle,
+          prenez le socle n°01 et retournez-le sur le devant. C&apos;est écrit
           sur le socle dans le coin inférieur droit. Si vous devez construire le
           parcours à partir des tuiles, ouvrez le livret de parcours et recréez
           le parcours de départ de la page 5.
@@ -9740,7 +9750,7 @@ const Content = () => (
       <Column>
         <p>
           Placez un drapeau sur chaque green comme indiqué sur le plan. Vous
-          aurez besoin de cinq drapeaux, que vous prendrez sur d&pos;autres
+          aurez besoin de cinq drapeaux, que vous prendrez sur d&apos;autres
           socles. Vous aurez besoin de cinq arbres, assemblez-les et placez-les
           au-dessus des obstacles. Ce sont les petits hexagones avec des arbres
           clôturés.
@@ -9847,8 +9857,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Si un joueur n&pos;a pas de clubs en main, il reprend les clubs
-          défaussés dans sa main. Si vous avez le driver et que vous n&pos;êtes
+          Si un joueur n&apos;a pas de clubs en main, il reprend les clubs
+          défaussés dans sa main. Si vous avez le driver et que vous n&apos;êtes
           pas sur un tee box, vous pouvez également réinitialiser votre main.
         </p>
       </Column>
@@ -9892,8 +9902,8 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Les joueurs se relaient dans l&pos;ordre, de l&pos;initiative la plus
-          faible à la plus forte. L&pos;initiative se trouve dans le coin
+          Les joueurs se relaient dans l&apos;ordre, de l&apos;initiative la
+          plus faible à la plus forte. L&apos;initiative se trouve dans le coin
           supérieur gauche.
         </p>
       </Column>
@@ -9918,9 +9928,9 @@ const Content = () => (
       <Column>
         <p>
           À votre tour, vous pouvez effectuer une action (voir encadré).
-          L&pos;explication détaillée des règles commence à la page 8. Pour la
+          L&apos;explication détaillée des règles commence à la page 8. Pour la
           plupart des tours, vous suivrez les instructions sur vos cartes de
-          club et tirerez des cartes de tir d&pos;un des jeux.
+          club et tirerez des cartes de tir d&apos;un des jeux.
         </p>
       </Column>
     </Row>
@@ -9945,7 +9955,7 @@ const Content = () => (
         <p>
           Pour les jeux de cartes numérotés de 2 à 5, vous piochez une carte et
           décidez ensuite dans quelle direction vous souhaitez frapper la balle.
-          Lorsque vous tirez une carte du jeu de Chip, indiquez à l&pos;avance
+          Lorsque vous tirez une carte du jeu de Chip, indiquez à l&apos;avance
           au groupe dans quelle direction vous allez frapper la balle.
         </p>
       </Column>
@@ -9968,8 +9978,8 @@ const Content = () => (
       <Column>
         <p>
           Une fois que vous avez pioché votre carte, déplacez votre golfeur
-          jusqu&pos;à l&pos;endroit où votre balle a atterri. Ensuite, retournez
-          le club que vous avez utilisé face contre table.
+          jusqu&apos;à l&apos;endroit où votre balle a atterri. Ensuite,
+          retournez le club que vous avez utilisé face contre table.
         </p>
       </Column>
     </Row>
@@ -10018,7 +10028,7 @@ const Content = () => (
       </Column>
       <Column>
         <p>
-          Lorsqu&pos;un joueur atteint le green, donnez à tous les joueurs qui
+          Lorsqu&apos;un joueur atteint le green, donnez à tous les joueurs qui
           ont atteint le green ce tour-ci soit le drapeau, soit un jeton de
           score de 1 point. Si vous marquez un point lors de votre premier tour
           pour le trou, prenez un jeton « trou en un ».

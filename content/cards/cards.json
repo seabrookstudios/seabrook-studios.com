@@ -327,6 +327,13 @@
       "it": "./shot-cards/it/shot-card-5-short-14.png",
       "es": "./shot-cards/es/shot-card-5-short-14.png",
       "fr": "./shot-cards/fr/shot-card-5-short-14.png"
+    },
+    {
+      "en": "./shot-cards/en/shot-card-5-longest-drive-13.png",
+      "de": "./shot-cards/de/shot-card-5-longest-drive-13.png",
+      "it": "./shot-cards/it/shot-card-5-longest-drive-13.png",
+      "es": "./shot-cards/es/shot-card-5-longest-drive-13.png",
+      "fr": "./shot-cards/fr/shot-card-5-longest-drive-13.png"
     }
   ]
 }

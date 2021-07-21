@@ -18,7 +18,7 @@
     "postdeploy": "yarn upgrade && yarn outdated",
     "postversion": "npm run build && npm run add-release-commit && npm run tag-release-commit && npm run deploy",
     "add-release-commit": "git add package.json yarn.lock",
-    "tag-release-commit": "git commit -m \"website/v`cat package.json | jq -r .version`\" && git tag website/v`cat package.json | jq -r .version`"
+    "tag-release-commit": "git tag website/v`cat package.json | jq -r .version`"
   },
   "greenkeeper": {
     "ignore": [

@@ -1,7 +1,8 @@
 {
-  "name": "gatsby-universal",
-  "license": "MIT",
-  "author": "Fabian Schultz <desk@fabianschultz.com>",
+  "name": "@seabrook-studios/website",
+  "version": "1.0.0",
+  "license": "",
+  "author": "Seabrook Studios",
   "scripts": {
     "develop": "gatsby develop",
     "serve": "gatsby serve",

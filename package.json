@@ -13,8 +13,11 @@
     "build:dir": "mkdirp ./public/icons/",
     "build:favicons": "node scripts/favicons",
     "build": "npm run build:dir && npm run build:favicons && gatsby build",
-    "predeploy": "npm run build",
-    "deploy": "./sync.sh"
+    "deploy": "./sync.sh",
+    "postdeploy": "yarn upgrade && yarn outdated",
+    "postversion": "npm run build && npm run add-release-commit && npm run tag-release-commit && npm run deploy",
+    "add-release-commit": "git add package.json yarn.lock",
+    "tag-release-commit": "git commit -m \"website/v`cat package.json | jq -r .version`\" && git tag website/v`cat package.json | jq -r .version`",
   },
   "greenkeeper": {
     "ignore": [

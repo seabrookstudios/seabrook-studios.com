@@ -1,78 +1,53 @@
 {
-  "name": "@seabrook-studios/website",
-  "version": "1.0.2",
-  "license": "",
-  "author": "Seabrook Studios",
-  "scripts": {
-    "develop": "gatsby develop",
-    "serve": "gatsby serve",
-    "ssr": "npm run build && npm run serve",
-    "format": "prettier --config ./.prettierrc --write src/**/*.js",
-    "presskit:clean": "rm -rf static/presskit",
-    "presskit:copy": "cp -r ../presskit.html/build static/presskit",
-    "prebuild": "npm run presskit:clean && npm run presskit:copy",
-    "build:dir": "mkdirp ./public/icons/",
-    "build:favicons": "node scripts/favicons",
-    "build": "npm run build:dir && npm run build:favicons && gatsby build",
-    "deploy": "./sync.sh",
-    "postdeploy": "yarn upgrade && yarn outdated",
-    "postversion": "npm run build && npm run add-release-commit && npm run tag-release-commit && npm run deploy",
-    "add-release-commit": "git add package.json yarn.lock",
-    "tag-release-commit": "git tag website/v`cat package.json | jq -r .version`"
+  "name": "seabrook-studios-website",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@sanity/block-content-to-react": "^3.0.0",
+    "@sanity/cli": "^2.25.0",
+    "@sanity/client": "^2.23.2",
+    "@sanity/image-url": "^1.0.1",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "react-social-icons": "^5.7.0",
+    "web-vitals": "^2.1.3"
   },
-  "greenkeeper": {
-    "ignore": [
-      "ava",
-      "core-js"
+  "scripts": {
+    "start": "react-scripts start",
+    "prebuild": "npm run presskit",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "prepresskit": "rm -rf public/presskit",
+    "presskit": "cp -r ../presskit.html/build static/presskit"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
     ]
   },
-  "dependencies": {
-    "@reach/dialog": "^0.2.0",
-    "@reach/router": "^1.2.1",
-    "@reach/visually-hidden": "^0.1.1",
-    "babel-plugin-styled-components": "^1.10.0",
-    "gatsby": "^2.3.26",
-    "gatsby-image": "^2.0.39",
-    "gatsby-plugin-canonical-urls": "^2.3.10",
-    "gatsby-plugin-offline": "^2.0.25",
-    "gatsby-plugin-react-helmet": "^3.0.12",
-    "gatsby-plugin-react-svg": "^2.0.0",
-    "gatsby-plugin-s3": "^0.3.3",
-    "gatsby-plugin-sharp": "^2.0.35",
-    "gatsby-plugin-sitemap": "^2.0.12",
-    "gatsby-plugin-styled-components": "^3.0.7",
-    "gatsby-plugin-webpack-size": "^0.0.3",
-    "gatsby-source-filesystem": "^2.0.30",
-    "gatsby-transformer-json": "^2.1.11",
-    "gatsby-transformer-remark": "^2.3.9",
-    "gatsby-transformer-sharp": "^2.1.18",
-    "intersection-observer": "^0.5.1",
-    "prop-types": "^15.6.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.0",
-    "react-pose": "^4.0.5",
-    "react-social-icons": "^4.1.0",
-    "styled-components": "^4.1.3"
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   },
   "devDependencies": {
-    "ava": "^0.25.0",
-    "babel-eslint": "^10.0.1",
-    "chrome-launcher": "^0.10.5",
-    "core-js": "^2.6.2",
-    "directory-named-webpack-plugin": "^4.0.0",
-    "eslint": "^5.12.1",
-    "eslint-config-prettier": "^4.1.0",
-    "eslint-loader": "^2.1.1",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jsx-a11y": "^6.1.2",
-    "eslint-plugin-prettier": "^3.0.1",
-    "eslint-plugin-react": "^7.12.4",
-    "favicons": "^5.3.0",
-    "gatsby-plugin-eslint": "^2.0.3",
-    "lighthouse": "^4.0.0",
-    "mkdirp": "^0.5.1",
-    "node-gyp": "^3.8.0",
-    "prettier": "^1.16.0"
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "react-snap": "^1.23.0",
+    "tailwindcss": "^3.0.15"
   }
 }

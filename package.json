@@ -1,6 +1,6 @@
 {
   "name": "seabrook-studios-website",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
     "@sanity/block-content-to-react": "^3.0.0",

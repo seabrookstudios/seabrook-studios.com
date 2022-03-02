@@ -27,7 +27,7 @@ const TopMenu = () => {
             <a href="https://shop.seabrook-studios.com">SHOP</a>
           </li>
           <li className="hover:text-white hover:rounded-full h-12 w-12 flex justify-center items-center hover:bg-black">
-            <a href="/%PUBLIC_URL%/presskit/index.html" className="text-xs text-center">
+            <a href="https://press.seabrook-studios.com" className="text-xs text-center">
               PRESS
             </a>
           </li>

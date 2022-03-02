@@ -19,12 +19,12 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "prebuild": "npm run presskit",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prepresskit": "rm -rf public/presskit",
-    "presskit": "cp -r ../presskit.html/build static/presskit"
+    "postversion": "npm run build && npm run tag-release-commit && npm run deploy",
+    "deploy": "./sync.sh",
+    "tag-release-commit": "git tag website/v`cat package.json | jq -r .version`"
   },
   "eslintConfig": {
     "extends": [

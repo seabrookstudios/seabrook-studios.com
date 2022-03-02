@@ -24,6 +24,8 @@
     "eject": "react-scripts eject",
     "postversion": "npm run build && npm run tag-release-commit && npm run deploy",
     "deploy": "./sync.sh",
+    "push": "git push && git push --tags",
+    "postdeploy": "npm run push && npm upgrade && npm outdated",
     "tag-release-commit": "git tag website/v`cat package.json | jq -r .version`"
   },
   "eslintConfig": {

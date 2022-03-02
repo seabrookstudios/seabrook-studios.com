@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useCallback } from "react";
 import { Link, useParams } from "react-router-dom";
 import { getPost, client, imageBuilder, getCategories } from "../services/sanity";
 import BlockContent from "@sanity/block-content-to-react";
@@ -21,7 +21,7 @@ export const BlogPost = () => {
   const [categories, setCategories] = useState(null);
   const { slug } = useParams();
 
-  const fetchData = async () => {
+  const fetchData = useCallback(async () => {
     const post = await getPost(slug);
     const allCategories = await getCategories();
 
@@ -29,11 +29,11 @@ export const BlogPost = () => {
 
     setPostData(post);
     setCategories(allCategories.filter((category) => postCategoryRefs.includes(category._id)));
-  };
+  }, [slug]);
 
   useEffect(() => {
     fetchData();
-  }, [slug]);
+  }, [slug, fetchData]);
 
   if (!postData) {
     return <div>Loading...</div>;

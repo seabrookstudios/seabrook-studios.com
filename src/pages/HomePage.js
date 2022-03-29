@@ -2,6 +2,7 @@ import sbs1808 from "../images/expansion-with-background.png";
 import sbs1811 from "../images/18-holes-second-edition-with-background.png";
 import sbs1810 from "../images/18-rolls-box-shot-with-green-background.png";
 import vl from "../images/vl-box-art.png";
+import diceCricket from "../images/dice-cricket-box-art.png";
 import { Game } from "./Game";
 
 const Games = () => {
@@ -52,6 +53,17 @@ const Games = () => {
           ios
           android
           players="1 - 20"
+          age="10+"
+          duration="20"
+        />
+        <Game
+          name="Dice Cricket World Cup"
+          img={diceCricket}
+          description="Pick your squad. Push your luck. Prepare for greatness. Can you take your team to World Cup glory?"
+          game
+          ios
+          android
+          players="2"
           age="10+"
           duration="20"
         />

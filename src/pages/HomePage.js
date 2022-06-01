@@ -14,8 +14,8 @@ const Games = () => {
           name="18 Holes"
           description="Hit off-course on purpose in this golf-themed board game for 1 to 5 players."
           img={sbs1811}
-          link="https://gamefound.com/projects/seabrookstudios/18-holes-reading-the-greens"
-          linkText="Late Pledge Now!"
+          link="https://shop.seabrook-studios.com"
+          linkText="Buy"
           game
           players="1 - 5"
           age="10+"
@@ -25,8 +25,8 @@ const Games = () => {
           name="Putting Wind &amp; Coastlines Expansion"
           img={sbs1808}
           description="Get back on course and take the competition to the greens while taming the wind and rugged coastlines in this 18 Holes expansion."
-          link="https://gamefound.com/projects/seabrookstudios/18-holes-reading-the-greens"
-          linkText="Late Pledge Now!"
+          link="https://shop.seabrook-studios.com/products/18-holes-greens-wind-and-coastline-expansion"
+          linkText="Buy"
           expansion
           players="1 - 5"
           age="10+"
@@ -35,8 +35,8 @@ const Games = () => {
         <Game
           name="Course Architect"
           img={sbs1810}
-          link="https://gamefound.com/projects/seabrookstudios/18-holes-reading-the-greens"
-          linkText="Late Pledge Now!"
+          link="https://shop.seabrook-studios.com/products/18-holes-course-architect"
+          linkText="Buy"
           description="Can you handle the whims of the committee and design the best golf course with what fate has given you?"
           game
           players="1 - 18"

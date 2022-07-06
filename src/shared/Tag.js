@@ -15,6 +15,13 @@ export const BaseGame = () => {
     </Tag>
   );
 };
+export const Digital = () => {
+  return (
+    <Tag bgColor="bg-orange-100" borderColor="border-orange-600">
+      digital
+    </Tag>
+  );
+};
 export const Expansion = () => {
   return (
     <Tag bgColor="bg-blue-100" borderColor="border-blue-600">

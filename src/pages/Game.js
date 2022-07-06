@@ -1,4 +1,6 @@
-import { BaseGame, Expansion, Ios, Android } from "../shared/Tag";
+import { BaseGame, Expansion, Ios, Android, Digital } from "../shared/Tag";
+import { sectionHeader } from "../styles/text";
+import { CallToAction, MoreInfo } from "./Links";
 
 export const Game = ({
   name,
@@ -8,6 +10,7 @@ export const Game = ({
   linkText,
   game,
   expansion,
+  digital,
   ios,
   android,
   players,
@@ -18,15 +21,16 @@ export const Game = ({
   return (
     <div className="py-6 px-1 max-h-80">
       <div className="flex max-w-3xl bg-white shadow-lg rounded-lg h-full">
-        <div className="w-1/3">
+        <a className="w-1/3" href={moreInfoLink}>
           <img src={img} alt={`${name} box shot`} className="md:h-64 h-48 md:w-64" />
-        </div>
+        </a>
         <div className="w-2/3 flex justify-start flex-col">
           <div className="p-3">
-            <h1 className="text-gray-900 font-bold text-2xl">{name}</h1>
+            <h1 className={sectionHeader}>{name}</h1>
             <div className="flex justify-start items-center hidden md:block">
               {game && <BaseGame />}
               {expansion && <Expansion />}
+              {digital && <Digital />}
               {ios && <Ios />}
               {android && <Android />}
             </div>
@@ -41,31 +45,8 @@ export const Game = ({
             </div>
           </div>
           <div className="flex item-center justify-end pr-3">
-            {moreInfoLink && (
-              <a
-                href={moreInfoLink}
-                className="px-3 py-2 border border-gray-800 text-black text-xs font-bold uppercase rounded mr-2 hover:text-black hover:bg-pink-300"
-              >
-                MORE INFO
-              </a>
-            )}
-            {link && (
-              <a
-                href={link}
-                className="px-3 py-2 bg-gray-800 text-white text-xs font-bold uppercase rounded border border-gray-800 hover:text-black hover:bg-pink-300"
-                target="_blank"
-                rel="noreferrer"
-              >
-                {linkText}
-                <span
-                  className="invert pl-2"
-                  style={{
-                    content:
-                      "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==)",
-                  }}
-                />
-              </a>
-            )}
+            {moreInfoLink && <MoreInfo openInNew={false} link={moreInfoLink} label="MORE INFO" />}
+            {link && <CallToAction link={link} label={linkText} />}
           </div>
         </div>
       </div>

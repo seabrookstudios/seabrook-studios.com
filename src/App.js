@@ -5,6 +5,7 @@ import { linkStyle } from "./styles/text";
 import { TopMenu } from "./shared/TopMenu";
 import { Footer } from "./shared/Footer";
 import { HomePage } from "./pages/HomePage";
+import { GamePage } from "./pages/GamePage";
 
 const PostList = ({ title, postList }) => {
   return (
@@ -24,6 +25,7 @@ const PostList = ({ title, postList }) => {
     </div>
   );
 };
+
 const GoToPublicFiles = () => {
   useEffect(() => {
     window.location.replace(
@@ -42,7 +44,8 @@ function App() {
           <TopMenu />
           <Routes>
             <Route path="/" element={<HomePage />} />
-            {/* <Route path="games/course-architect" element={<GoToPublicFiles />} /> */}
+            <Route path="games/:slug" element={<GamePage />} />
+            <Route path="expansions/:slug" element={<GamePage />} />
             {/* <Route path="blog/:slug" element={<BlogPost />} /> */}
             {/* <Route path="*" element={<Navigate to="/" />} /> */}
           </Routes>

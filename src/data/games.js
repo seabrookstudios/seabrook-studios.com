@@ -74,8 +74,7 @@ export const games = [
     edition: "EXPANSION",
     sku: "SBS1808",
     hook: "Get back on course and take the competition to the greens while taming the wind and rugged coastlines in this 18 Holes expansion.",
-    ctaLink:
-      "https://shop.seabrook-studios.com/products/18-holes-greens-wind-and-coastline-expansion",
+    ctaLink: "https://shop.seabrook-studios.com/products/18-holes-greens-wind-and-coastline-expansion",
     ctaText: "Buy",
     tags: ["expansion"],
     players: "1 - 5",
@@ -83,8 +82,7 @@ export const games = [
     duration: "+15 - 30",
     designer: "Ryan Boucher",
     artist: "Josh Sacco",
-    bggLink:
-      "https://boardgamegeek.com/boardgameexpansion/347085/18-holes-putting-wind-and-coastlines",
+    bggLink: "https://boardgamegeek.com/boardgameexpansion/347085/18-holes-putting-wind-and-coastlines",
     blurb: [
       `Tame the wind, play along rugged coastlines and take the competition all the way to 
     the green in this expansion for 18 Holes.`,
@@ -197,21 +195,6 @@ export const games = [
     designer: "Ryan Boucher",
     blurb: [],
     images: [BoxShots.VLAPP01],
-    availableForRetail: false,
-    components: [],
-  },
-  {
-    slug: "dice-cricket-world-cup",
-    name: "Dice Cricket World Cup",
-    sku: "DCAPP01",
-    hook: "Pick your squad. Push your luck. Prepare for greatness. Can you take your team to World Cup glory?",
-    tags: ["digital", "ios", "android"],
-    players: "2",
-    age: "10+",
-    duration: "20",
-    designer: "Ryan Boucher",
-    blurb: [],
-    images: [BoxShots.DCAPP01],
     availableForRetail: false,
     components: [],
   },

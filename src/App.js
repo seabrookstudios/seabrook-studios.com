@@ -28,9 +28,7 @@ const PostList = ({ title, postList }) => {
 
 const GoToPublicFiles = () => {
   useEffect(() => {
-    window.location.replace(
-      "https://drive.google.com/drive/folders/1aOLbeKWtyW5pn8C0-Q66NzlvGJfEYGqI"
-    );
+    window.location.replace("https://drive.google.com/drive/folders/1aOLbeKWtyW5pn8C0-Q66NzlvGJfEYGqI");
   }, []);
 
   return null;

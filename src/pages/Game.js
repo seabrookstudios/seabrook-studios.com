@@ -70,7 +70,7 @@ export const PortraitGame = ({
   duration,
 }) => {
   return (
-    <div className="py-2 px-2 flex w-1/4">
+    <div className="py-2 px-2 flex md:w-1/2 lg:w-1/3 xl:w-1/4">
       <div className="bg-white shadow-lg rounded-lg h-full p">
         <a className="" href={link}>
           <img src={img} alt={`${name} box shot`} className="" />

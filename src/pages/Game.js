@@ -2,7 +2,7 @@ import { BaseGame, Expansion, Ios, Android, Digital } from "../shared/Tag";
 import { sectionHeader } from "../styles/text";
 import { CallToAction, MoreInfo } from "./Links";
 
-export const Game = ({
+export const LandscapeGame = ({
   name,
   img,
   description,
@@ -53,3 +53,56 @@ export const Game = ({
     </div>
   );
 };
+
+export const PortraitGame = ({
+  name,
+  img,
+  description,
+  link,
+  linkText,
+  game,
+  expansion,
+  digital,
+  ios,
+  android,
+  players,
+  age,
+  duration,
+}) => {
+  return (
+    <div className="py-2 px-2 flex w-1/4">
+      <div className="bg-white shadow-lg rounded-lg h-full p">
+        <a className="" href={link}>
+          <img src={img} alt={`${name} box shot`} className="" />
+        </a>
+        <div className="flex justify-start flex-col">
+          <div className="p-3">
+            <h1 className={sectionHeader}>{name}</h1>
+            <div className="flex justify-start items-center hidden md:block">
+              {game && <BaseGame />}
+              {expansion && <Expansion />}
+              {digital && <Digital />}
+              {ios && <Ios />}
+              {android && <Android />}
+            </div>
+            <p className="pt-2 text-gray-600 text-sm h-16">{description}</p>
+            <div className="grid grid-cols-2 pt-4 pb-2 hidden md:grid">
+              <p className="text-sm">Players</p>
+              <p className="text-sm">{players}</p>
+              <p className="text-sm">Ages</p>
+              <p className="text-sm">{age}</p>
+              <p className="text-sm">Playing Time</p>
+              <p className="text-sm">{duration} minutes</p>
+            </div>
+          </div>
+          <div className="flex item-center justify-end pr-3 pb-2">
+            {/* {moreInfoLink && <MoreInfo openInNew={false} link={moreInfoLink} label="MORE INFO" />} */}
+            {link && <CallToAction link={link} label={linkText} />}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export const Game = PortraitGame;

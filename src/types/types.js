@@ -1,9 +1,9 @@
 /**
- * @typedef {('18-holes'|'18-holes-putting-wind-coastlines'|'course-architect'|'victory-lap'|'dice-cricket-world-cup')} Slug
+ * @typedef {('18-holes'|'18-holes-putting-wind-coastlines'|'course-architect'|'victory-lap'|'dice-cricket-world-cup'|'ten-wickets')} Slug
  */
 
 /**
- * @typedef {('SBS1808'|'SBS1810'|'SBS1811'|'VLAPP01'|'DCAPP01')} Sku
+ * @typedef {('SBS1808'|'SBS1810'|'SBS1811'|'VLAPP01'|'DCAPP01'|'SBSCR01')} Sku
  */
 
 /**
@@ -32,6 +32,7 @@
  * @property {string} players
  * @property {string} age
  * @property {string} duration
+ * @property {string} year
  * @property {string} [moreInfoLink]
  * @property {string} [bggLink]
  * @property {string[]} blurb

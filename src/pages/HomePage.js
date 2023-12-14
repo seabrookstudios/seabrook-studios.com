@@ -6,7 +6,7 @@ const Games = () => {
   return (
     <section className="flex flex-col justify-center items-center">
       <h1 className="bold text-4xl font-serif text-pink-500">Our Games</h1>
-      <div className="grid grid-rows-auto grid-cols-1 mx-auto">
+      <div className="flex-row flex flex-1 flex-wrap">
         {games.map((game) => {
           return (
             <Game
@@ -35,8 +35,8 @@ const Games = () => {
 const Blurb = () => {
   return (
     <p className="max-w-prose mx-auto text-lg p-8">
-      We are an independent studio based in Melbourne, Australia. Our current focus is to making
-      sports-themed games more accessible to everyone; not just those with great reaction skills.
+      We are an independent studio based in Melbourne, Australia. Our current focus is to making sports-themed games
+      more accessible to everyone; not just those with great reaction skills.
     </p>
   );
 };

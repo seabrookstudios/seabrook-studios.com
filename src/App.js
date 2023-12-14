@@ -37,7 +37,7 @@ const GoToPublicFiles = () => {
 function App() {
   return (
     <BrowserRouter>
-      <div className="max-w-screen-lg mx-auto justify-between flex flex-col bg-white border-black border-l border-r">
+      <div className="justify-between flex flex-col bg-white border-black border-l border-r">
         <div className="flex flex-col flex-grow ">
           <TopMenu />
           <Routes>

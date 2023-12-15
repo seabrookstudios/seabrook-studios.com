@@ -35,11 +35,7 @@ export const TopMenu = () => {
           <SocialIcon url="https://twitter.com/seabrookstudios" fgColor="white" bgColor="#222" />
           <SocialIcon url="https://discord.gg/3QDDYQzcrH" fgColor="white" bgColor="#222" />
           <li>
-            <SocialIcon
-              url="https://instagram.com/seabrookstudios/"
-              fgColor="white"
-              bgColor="#222"
-            />
+            <SocialIcon url="https://instagram.com/seabrookstudios/" fgColor="white" bgColor="#222" />
           </li>
           <li>
             <SocialIcon url="mailto:hello@seabrook-studios.com" fgColor="white" bgColor="#222" />

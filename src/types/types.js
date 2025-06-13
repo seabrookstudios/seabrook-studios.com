@@ -1,9 +1,9 @@
 /**
- * @typedef {('18-holes'|'18-holes-putting-wind-coastlines'|'course-architect'|'victory-lap'|'dice-cricket-world-cup'|'ten-wickets')} Slug
+ * @typedef {('18-holes'|'18-holes-putting-wind-coastlines'|'course-architect'|'victory-lap'|'dice-cricket-world-cup'|'ten-wickets'|'timber-town')} Slug
  */
 
 /**
- * @typedef {('SBS1808'|'SBS1810'|'SBS1811'|'VLAPP01'|'DCAPP01'|'SBSCR01')} Sku
+ * @typedef {('SBS1808'|'SBS1810'|'SBS1811'|'VLAPP01'|'DCAPP01'|'SBSCR01'|'SBSTT01')} Sku
  */
 
 /**

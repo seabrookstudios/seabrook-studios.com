@@ -4,6 +4,7 @@ import sbs1811 from "../images/18-holes-second-edition-box-shot.png";
 import vl from "../images/vl-box-art.png";
 import diceCricket from "../images/dice-cricket-box-art.png";
 import tenWickets from "../images/box-shot-facing-right-small.png";
+import timberTown from "../images/timber-town.png";
 
 /**
  * @type {Record<Sku, *>}
@@ -15,4 +16,5 @@ export const BoxShots = {
   VLAPP01: vl,
   DCAPP01: diceCricket,
   SBSCR01: tenWickets,
+  SBSTT01: timberTown,
 };

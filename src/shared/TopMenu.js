@@ -19,11 +19,6 @@ export const TopMenu = () => {
               SHOP
             </li>
           </a>
-          <a href="https://press.seabrook-studios.com" className="text-xs text-center">
-            <li className="hover:text-white hover:rounded-full h-12 w-12 flex justify-center items-center hover:bg-black">
-              PRESS
-            </li>
-          </a>
           <a
             href="https://drive.google.com/drive/u/1/folders/1aOLbeKWtyW5pn8C0-Q66NzlvGJfEYGqI"
             className="text-xs text-center"
